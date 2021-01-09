@@ -1,0 +1,1560 @@
+MajorText,MinorText,LookUp_BoroughName,201812,201901,201902,201903,201904,201905,201906,201907,201908,201909,201910,201911,201912,202001,202002,202003,202004,202005,202006,202007,202008,202009,202010,202011
+Arson and Criminal Damage,Arson,Barking and Dagenham,1,5,2,5,5,11,3,5,3,6,9,8,6,4,5,6,2,2,4,4,6,2,7,4
+Arson and Criminal Damage,Criminal Damage,Barking and Dagenham,88,97,127,138,130,140,113,134,118,109,109,97,122,97,103,107,80,86,121,122,114,116,119,100
+Burglary,Burglary - Business and Community,Barking and Dagenham,33,45,24,29,27,21,27,31,35,37,30,30,26,31,17,28,29,16,16,28,24,32,21,19
+Burglary,Burglary - Residential,Barking and Dagenham,164,114,107,99,96,114,96,71,67,80,97,114,130,116,123,97,57,42,63,72,63,54,67,90
+Drug Offences,Drug Trafficking,Barking and Dagenham,4,6,2,6,5,9,6,11,8,7,9,12,3,16,6,6,15,13,12,21,9,11,14,17
+Drug Offences,Possession of Drugs,Barking and Dagenham,69,79,74,118,104,86,100,92,74,83,89,96,79,99,106,112,145,182,192,117,81,94,142,127
+Miscellaneous Crimes Against Society,Bail Offences,Barking and Dagenham,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bigamy,Barking and Dagenham,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Miscellaneous Crimes Against Society,Dangerous Driving,Barking and Dagenham,1,1,0,1,1,1,0,1,2,0,2,1,2,2,0,2,0,2,3,3,1,2,0,2
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Barking and Dagenham,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Barking and Dagenham,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Barking and Dagenham,0,2,0,0,0,0,1,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Barking and Dagenham,0,0,1,2,1,2,3,0,0,0,2,0,0,0,0,1,1,1,0,0,1,0,3,0
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Barking and Dagenham,0,2,1,1,3,3,3,3,4,0,0,3,0,5,4,1,2,3,2,2,0,2,0,1
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Barking and Dagenham,1,0,2,2,0,1,1,1,2,0,0,1,0,1,2,1,1,0,0,0,0,0,1,2
+Miscellaneous Crimes Against Society,Obscene Publications,Barking and Dagenham,6,6,12,6,11,13,10,4,5,8,10,15,7,14,4,8,17,6,16,12,4,13,10,13
+Miscellaneous Crimes Against Society,Other Forgery,Barking and Dagenham,1,0,0,2,0,4,1,0,2,2,0,3,1,0,0,0,1,1,1,0,2,0,0,2
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Barking and Dagenham,2,1,2,1,0,2,1,1,0,1,2,1,0,2,1,0,2,0,5,5,3,1,0,1
+Miscellaneous Crimes Against Society,Perjury,Barking and Dagenham,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Barking and Dagenham,0,0,5,1,2,1,1,2,4,3,1,2,2,1,0,0,0,1,1,2,2,2,3,1
+Miscellaneous Crimes Against Society,Possession of False Documents,Barking and Dagenham,0,1,2,0,1,2,2,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,0,2
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Barking and Dagenham,0,0,0,1,0,1,0,1,0,1,2,1,1,3,0,1,2,1,5,3,3,1,2,3
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Barking and Dagenham,4,4,3,5,3,10,6,3,14,7,5,1,5,5,7,1,3,7,8,1,14,8,5,5
+Miscellaneous Crimes Against Society,Wildlife Crime,Barking and Dagenham,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Possession of Weapons,Other Firearm Offences,Barking and Dagenham,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+Possession of Weapons,Possession of Article with Blade or Point,Barking and Dagenham,7,5,5,8,4,7,5,5,4,4,6,5,3,11,3,4,5,5,9,8,5,4,6,7
+Possession of Weapons,Possession of Firearm with Intent,Barking and Dagenham,2,2,2,2,0,4,1,0,1,2,0,0,0,0,1,1,0,1,0,0,0,4,2,1
+Possession of Weapons,Possession of Firearms Offences,Barking and Dagenham,0,1,0,6,2,3,1,0,0,2,3,2,0,6,0,2,3,2,0,3,0,0,2,1
+Possession of Weapons,Possession of Other Weapon,Barking and Dagenham,4,3,5,8,6,11,1,4,3,9,6,5,4,7,1,8,4,9,10,10,3,10,8,10
+Public Order Offences,"Other Offences Against the State, or Public Order",Barking and Dagenham,14,7,8,13,20,18,8,16,11,12,13,14,17,11,10,22,17,20,21,16,13,29,17,24
+Public Order Offences,Public Fear Alarm or Distress,Barking and Dagenham,39,33,56,67,59,71,85,69,66,63,94,50,48,49,47,63,36,55,56,69,108,71,74,86
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Barking and Dagenham,20,16,18,20,24,22,16,18,19,23,28,15,30,17,16,20,18,20,28,14,14,22,26,23
+Public Order Offences,Violent Disorder,Barking and Dagenham,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+Robbery,Robbery of Business Property,Barking and Dagenham,5,5,8,2,2,7,6,2,8,5,7,8,9,10,8,7,6,4,3,6,0,2,3,5
+Robbery,Robbery of Personal Property,Barking and Dagenham,56,79,66,84,93,125,102,101,73,79,96,62,51,75,67,76,26,38,49,57,48,63,71,67
+Sexual Offences,Other Sexual Offences,Barking and Dagenham,29,27,21,27,23,32,40,36,18,32,37,30,30,26,39,36,16,17,21,41,33,29,39,36
+Sexual Offences,Rape,Barking and Dagenham,18,23,32,28,27,19,26,22,23,28,34,23,26,29,23,21,9,21,23,33,17,9,27,14
+Theft,Bicycle Theft,Barking and Dagenham,12,21,15,14,12,25,12,20,15,18,15,11,8,10,11,7,8,13,29,26,17,28,16,14
+Theft,Other Theft,Barking and Dagenham,151,162,176,187,177,170,161,184,150,159,169,194,171,172,162,154,101,113,110,149,170,150,140,127
+Theft,Shoplifting,Barking and Dagenham,65,55,63,58,69,56,71,79,71,82,83,57,55,54,75,104,46,49,55,69,72,76,52,93
+Theft,Theft from Person,Barking and Dagenham,49,47,49,51,55,71,34,57,46,45,58,53,60,56,50,61,17,35,28,34,30,37,49,45
+Vehicle Offences,Aggravated Vehicle Taking,Barking and Dagenham,4,9,4,3,4,1,2,5,3,2,2,1,3,2,2,11,1,3,2,3,2,3,5,1
+Vehicle Offences,Interfering with a Motor Vehicle,Barking and Dagenham,18,27,25,27,22,25,24,20,20,18,25,21,32,32,27,18,24,32,32,26,12,10,27,20
+Vehicle Offences,Theft from a Motor Vehicle,Barking and Dagenham,87,105,88,90,108,94,121,109,86,108,114,126,107,112,116,118,60,62,74,74,62,94,106,100
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Barking and Dagenham,87,101,119,94,113,111,99,89,84,81,111,90,91,105,86,80,63,67,75,52,73,83,104,101
+Violence Against the Person,Homicide,Barking and Dagenham,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0
+Violence Against the Person,Violence with Injury,Barking and Dagenham,165,174,145,193,174,213,158,218,186,179,197,169,175,156,132,195,146,178,174,175,180,159,156,158
+Violence Against the Person,Violence without Injury,Barking and Dagenham,338,317,307,313,297,316,338,407,323,352,327,338,349,338,326,419,304,341,376,420,439,389,366,391
+Arson and Criminal Damage,Arson,Barnet,1,1,3,3,6,3,3,3,2,8,6,8,0,5,2,7,7,5,5,0,5,3,5,7
+Arson and Criminal Damage,Criminal Damage,Barnet,169,171,169,215,166,165,198,186,162,163,149,173,169,153,176,183,127,129,144,159,212,146,153,140
+Burglary,Burglary - Business and Community,Barnet,46,58,63,60,49,47,59,57,59,51,57,48,61,60,51,63,47,30,40,46,35,52,61,43
+Burglary,Burglary - Residential,Barnet,247,257,272,273,240,248,237,223,177,230,240,274,283,242,241,192,78,128,128,144,206,203,250,267
+Drug Offences,Drug Trafficking,Barnet,8,10,10,6,8,8,8,8,11,6,11,12,5,12,6,5,7,13,13,16,10,17,13,7
+Drug Offences,Possession of Drugs,Barnet,60,62,65,91,47,51,70,68,90,57,52,63,45,64,78,72,94,132,85,99,105,55,80,94
+Miscellaneous Crimes Against Society,Bigamy,Barnet,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Barnet,2,0,2,2,0,3,0,2,1,0,1,1,0,1,2,0,0,0,2,1,1,2,1,0
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Barnet,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Barnet,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Barnet,0,0,1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,1
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Barnet,4,0,1,2,0,3,2,3,1,2,1,4,0,0,0,3,0,1,0,4,0,1,1,2
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Barnet,0,5,3,4,0,2,5,0,2,3,1,2,1,2,1,1,3,0,1,0,0,0,0,0
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Barnet,0,1,0,5,1,1,4,0,2,3,4,5,0,0,1,1,1,0,1,2,0,2,3,0
+Miscellaneous Crimes Against Society,Obscene Publications,Barnet,10,9,8,9,16,11,10,0,8,10,3,4,7,16,9,11,13,24,12,4,5,9,4,17
+Miscellaneous Crimes Against Society,Other Forgery,Barnet,4,3,3,2,1,3,3,2,2,4,1,1,3,3,0,3,2,1,3,0,0,2,2,4
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Barnet,2,4,0,3,1,0,2,3,6,3,3,3,1,1,0,1,5,5,3,3,4,4,0,4
+Miscellaneous Crimes Against Society,Perjury,Barnet,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Barnet,0,1,0,0,3,2,2,2,1,0,1,2,1,2,0,1,0,2,1,1,1,0,1,0
+Miscellaneous Crimes Against Society,Possession of False Documents,Barnet,0,1,0,1,3,3,0,1,0,1,3,1,1,0,0,0,2,2,0,0,0,1,2,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Barnet,1,0,1,0,2,1,0,0,0,1,1,0,0,0,0,1,6,3,1,0,4,2,1,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Barnet,7,7,5,5,6,5,9,8,9,7,11,8,4,5,6,4,6,2,5,7,10,7,6,5
+Possession of Weapons,Other Firearm Offences,Barnet,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Barnet,11,6,10,10,7,9,5,5,4,4,5,2,7,7,11,5,4,4,5,5,6,3,1,5
+Possession of Weapons,Possession of Firearm with Intent,Barnet,2,1,2,1,3,1,1,1,0,1,2,0,1,1,3,2,2,2,1,1,1,1,3,1
+Possession of Weapons,Possession of Firearms Offences,Barnet,2,2,4,1,3,1,2,2,0,0,4,2,0,0,0,1,1,2,1,0,0,0,0,1
+Possession of Weapons,Possession of Other Weapon,Barnet,5,6,4,4,2,5,6,6,5,8,4,5,5,9,3,6,11,9,7,8,10,3,3,7
+Public Order Offences,"Other Offences Against the State, or Public Order",Barnet,18,11,13,22,16,12,15,16,10,12,21,13,10,11,10,8,13,23,16,18,12,17,13,10
+Public Order Offences,Public Fear Alarm or Distress,Barnet,90,95,69,98,87,105,92,132,86,81,119,109,104,89,81,85,85,95,102,140,125,114,92,100
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Barnet,25,24,37,59,31,32,41,59,41,29,25,44,34,32,35,29,22,37,44,43,39,32,20,34
+Public Order Offences,Violent Disorder,Barnet,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+Robbery,Robbery of Business Property,Barnet,7,4,11,6,3,5,4,10,8,13,7,12,12,6,13,7,4,6,11,13,8,7,6,4
+Robbery,Robbery of Personal Property,Barnet,61,72,110,81,91,88,82,107,84,93,118,153,121,115,135,105,38,35,42,54,85,52,57,57
+Sexual Offences,Other Sexual Offences,Barnet,22,34,32,26,23,38,27,27,34,26,26,33,28,33,36,21,26,22,20,39,20,32,46,21
+Sexual Offences,Rape,Barnet,8,14,12,18,11,15,15,13,19,15,32,26,12,22,9,19,22,15,13,22,18,12,15,20
+Theft,Bicycle Theft,Barnet,7,12,12,13,16,32,25,28,24,23,15,11,16,6,11,10,19,26,27,28,25,35,31,32
+Theft,Other Theft,Barnet,326,308,364,347,381,331,337,283,293,271,305,288,324,281,309,236,165,156,206,281,243,264,221,236
+Theft,Shoplifting,Barnet,133,143,135,153,132,167,148,191,183,155,128,134,137,153,138,106,80,102,135,136,113,111,132,105
+Theft,Theft from Person,Barnet,75,56,83,99,78,71,80,99,56,47,72,95,65,69,81,47,16,14,24,62,55,34,48,42
+Vehicle Offences,Aggravated Vehicle Taking,Barnet,1,5,2,4,2,6,3,3,11,4,4,5,4,4,3,3,2,2,3,2,1,3,5,3
+Vehicle Offences,Interfering with a Motor Vehicle,Barnet,76,60,72,74,83,82,105,72,55,72,61,90,81,92,84,54,41,56,63,47,30,53,63,59
+Vehicle Offences,Theft from a Motor Vehicle,Barnet,267,293,266,341,324,313,354,332,296,455,414,394,359,369,370,267,115,197,220,250,248,272,371,290
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Barnet,127,122,125,148,132,128,138,149,106,116,135,121,114,128,118,98,59,88,79,75,104,136,130,104
+Violence Against the Person,Homicide,Barnet,1,0,0,1,1,0,1,0,0,0,0,0,2,1,0,1,0,0,0,0,0,1,0,0
+Violence Against the Person,Violence with Injury,Barnet,206,170,171,225,187,184,220,206,183,193,166,214,167,205,175,214,181,193,208,206,204,174,174,179
+Violence Against the Person,Violence without Injury,Barnet,390,384,405,431,388,382,423,520,388,444,423,470,421,443,393,427,357,422,422,462,430,441,440,471
+Arson and Criminal Damage,Arson,Bexley,4,8,5,5,8,4,8,4,6,4,8,4,4,2,11,2,9,5,3,6,8,5,7,4
+Arson and Criminal Damage,Criminal Damage,Bexley,158,143,112,108,143,142,125,139,124,107,151,140,129,139,114,114,74,112,75,112,135,124,124,111
+Burglary,Burglary - Business and Community,Bexley,39,27,34,36,49,50,49,42,34,24,44,20,11,35,29,19,16,16,13,11,16,18,19,22
+Burglary,Burglary - Residential,Bexley,190,146,96,140,118,115,81,64,68,79,157,147,130,150,118,78,34,48,44,52,44,62,59,69
+Drug Offences,Drug Trafficking,Bexley,3,6,3,4,1,2,2,5,1,3,2,1,5,2,4,2,1,3,6,1,7,3,22,3
+Drug Offences,Possession of Drugs,Bexley,34,58,66,59,51,67,68,66,63,48,61,61,38,61,49,50,87,105,58,81,60,35,58,69
+Miscellaneous Crimes Against Society,Dangerous Driving,Bexley,3,3,0,0,0,1,1,1,1,1,1,2,1,1,1,3,0,3,1,0,0,2,0,0
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Bexley,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Bexley,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Bexley,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Bexley,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Bexley,0,0,0,1,1,0,0,0,0,0,0,0,2,0,2,0,3,1,0,2,0,1,2,0
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Bexley,1,0,1,1,1,2,1,1,1,2,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Bexley,0,2,2,1,3,1,1,1,0,0,0,1,1,0,0,0,1,1,1,0,0,0,2,0
+Miscellaneous Crimes Against Society,Obscene Publications,Bexley,7,7,7,8,6,4,5,6,1,3,4,4,2,4,2,9,2,8,9,6,5,4,13,10
+Miscellaneous Crimes Against Society,Other Forgery,Bexley,0,1,1,2,2,0,0,0,3,0,1,2,2,1,0,0,0,0,1,0,1,0,1,1
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Bexley,0,0,4,1,0,4,1,1,0,1,4,1,1,2,0,2,2,5,2,7,3,1,1,1
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Bexley,1,1,1,1,0,2,0,0,0,1,3,2,1,0,1,0,3,2,0,2,0,0,0,3
+Miscellaneous Crimes Against Society,Possession of False Documents,Bexley,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Bexley,1,1,0,0,0,1,3,1,0,1,0,1,0,0,2,0,0,0,0,0,1,0,0,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Bexley,3,5,7,6,4,3,11,10,9,6,13,9,10,5,4,6,5,4,6,6,9,13,2,6
+Miscellaneous Crimes Against Society,Wildlife Crime,Bexley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Possession of Weapons,Other Firearm Offences,Bexley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Bexley,3,6,5,3,5,2,8,7,2,4,4,6,2,7,5,5,5,3,7,1,3,5,8,4
+Possession of Weapons,Possession of Firearm with Intent,Bexley,2,1,0,0,1,0,0,0,4,1,0,3,0,0,2,0,0,0,0,2,0,0,0,0
+Possession of Weapons,Possession of Firearms Offences,Bexley,1,1,2,0,0,4,0,0,0,1,0,2,1,0,2,1,1,2,0,1,1,0,0,0
+Possession of Weapons,Possession of Other Weapon,Bexley,4,6,4,8,5,5,4,4,3,4,4,1,5,8,4,1,1,8,2,6,4,2,2,2
+Public Order Offences,"Other Offences Against the State, or Public Order",Bexley,16,14,9,14,11,12,17,12,17,26,19,16,21,16,6,13,10,14,18,24,19,16,13,21
+Public Order Offences,Public Fear Alarm or Distress,Bexley,56,58,50,51,56,85,72,70,74,68,79,67,67,83,58,69,54,74,52,89,102,81,78,84
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Bexley,9,12,6,13,11,16,9,16,18,15,25,18,12,17,17,16,11,18,24,27,27,22,17,19
+Public Order Offences,Violent Disorder,Bexley,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Robbery,Robbery of Business Property,Bexley,5,5,11,3,6,2,2,7,4,2,3,1,7,6,9,7,1,2,5,3,5,3,4,1
+Robbery,Robbery of Personal Property,Bexley,19,28,18,32,14,36,26,37,20,21,32,31,35,48,29,20,7,14,23,17,26,21,16,29
+Sexual Offences,Other Sexual Offences,Bexley,13,23,18,18,17,16,19,26,12,20,24,22,20,18,24,17,15,20,11,20,25,20,19,21
+Sexual Offences,Rape,Bexley,6,12,7,11,16,11,6,19,14,23,15,3,12,18,10,10,5,11,14,15,9,12,12,15
+Theft,Bicycle Theft,Bexley,4,5,8,6,8,8,12,12,10,11,12,10,3,6,4,3,4,9,6,7,5,15,5,7
+Theft,Other Theft,Bexley,163,179,132,119,137,140,118,152,160,128,131,130,116,137,152,125,78,80,105,98,119,109,97,89
+Theft,Shoplifting,Bexley,90,87,74,87,82,91,72,68,85,52,88,84,55,98,121,57,32,68,48,58,71,56,71,55
+Theft,Theft from Person,Bexley,21,21,17,18,13,15,19,24,18,18,17,22,16,9,16,9,2,5,15,5,13,8,5,9
+Vehicle Offences,Aggravated Vehicle Taking,Bexley,2,1,3,4,2,1,2,4,5,4,2,2,1,4,2,5,3,1,2,5,6,3,3,1
+Vehicle Offences,Interfering with a Motor Vehicle,Bexley,30,33,28,30,44,27,45,22,53,60,48,39,35,34,34,26,30,28,37,27,38,21,22,37
+Vehicle Offences,Theft from a Motor Vehicle,Bexley,139,155,145,132,161,187,149,178,184,216,190,174,149,213,148,141,51,95,99,88,74,100,127,135
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Bexley,66,65,72,70,79,88,91,91,77,87,76,73,54,63,74,49,26,42,48,44,60,67,67,55
+Violence Against the Person,Homicide,Bexley,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,1,0,0
+Violence Against the Person,Violence with Injury,Bexley,145,137,142,153,173,173,177,163,151,166,157,174,157,150,116,131,92,126,150,159,198,166,118,118
+Violence Against the Person,Violence without Injury,Bexley,230,283,257,292,259,289,270,282,309,286,297,262,297,287,291,293,245,290,299,350,339,306,303,326
+Arson and Criminal Damage,Arson,Brent,5,6,3,5,6,5,5,2,8,5,6,3,7,3,1,7,11,4,7,3,8,9,3,7
+Arson and Criminal Damage,Criminal Damage,Brent,164,168,151,202,176,182,168,178,200,156,162,159,161,161,178,157,136,147,156,211,181,175,144,169
+Burglary,Burglary - Business and Community,Brent,63,39,42,62,29,42,45,26,60,44,38,44,44,60,35,48,32,29,33,24,38,44,35,25
+Burglary,Burglary - Residential,Brent,173,189,169,199,183,176,193,143,154,161,186,202,216,173,180,125,97,121,124,152,160,131,174,150
+Drug Offences,Drug Trafficking,Brent,9,8,4,9,4,6,8,7,14,5,13,8,6,8,6,4,8,19,7,15,9,16,6,9
+Drug Offences,Possession of Drugs,Brent,122,130,95,151,119,127,148,231,176,167,132,122,96,138,98,130,186,254,206,217,225,173,172,143
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Brent,0,0,0,0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1
+Miscellaneous Crimes Against Society,Bail Offences,Brent,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bigamy,Brent,0,0,0,1,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Brent,0,1,0,0,1,1,1,2,1,2,1,0,2,3,1,1,2,3,1,2,1,3,1,0
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Brent,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Brent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Brent,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Brent,0,0,2,2,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Brent,2,0,1,0,2,1,1,0,2,1,2,6,0,1,1,0,0,2,2,5,0,0,0,4
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Brent,0,2,1,0,3,0,1,4,2,0,0,0,1,1,1,0,1,0,2,2,1,0,1,0
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Brent,2,0,1,0,3,1,0,1,0,1,2,1,2,3,2,1,2,0,0,0,2,2,6,2
+Miscellaneous Crimes Against Society,Obscene Publications,Brent,6,4,10,10,8,6,11,4,4,7,7,13,4,13,11,11,9,10,13,10,8,16,6,16
+Miscellaneous Crimes Against Society,Other Forgery,Brent,3,1,2,7,0,0,2,1,2,0,0,1,2,2,1,2,0,2,0,1,0,2,1,5
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Brent,7,2,2,1,3,3,1,4,8,1,2,3,3,2,3,0,3,4,2,3,3,2,3,4
+Miscellaneous Crimes Against Society,Perjury,Brent,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Brent,2,3,1,1,1,2,1,3,0,1,1,1,3,2,1,0,1,0,2,2,7,0,0,2
+Miscellaneous Crimes Against Society,Possession of False Documents,Brent,2,4,3,2,6,5,0,0,1,1,1,1,0,1,0,2,0,2,1,0,2,0,1,3
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Brent,0,5,1,1,1,1,1,2,3,2,0,1,0,2,2,0,1,2,1,2,3,2,1,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Brent,6,5,9,4,5,4,8,8,12,5,2,6,6,5,0,7,6,8,8,8,12,9,5,9
+Possession of Weapons,Other Firearm Offences,Brent,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Brent,12,9,14,10,10,6,14,12,11,10,11,10,10,9,4,8,8,11,5,13,13,7,13,8
+Possession of Weapons,Possession of Firearm with Intent,Brent,3,0,0,3,1,3,2,2,1,1,0,1,2,1,1,0,3,2,2,1,0,6,2,1
+Possession of Weapons,Possession of Firearms Offences,Brent,2,2,2,0,3,2,1,3,1,3,3,1,2,2,1,1,3,3,2,2,4,1,0,2
+Possession of Weapons,Possession of Other Weapon,Brent,9,7,10,8,13,7,11,11,11,14,12,6,6,6,8,7,4,10,2,10,12,11,6,7
+Public Order Offences,"Other Offences Against the State, or Public Order",Brent,9,18,9,14,14,18,21,22,19,16,28,18,10,23,11,20,18,34,28,24,16,18,19,13
+Public Order Offences,Public Fear Alarm or Distress,Brent,99,83,80,124,89,115,109,143,126,115,114,112,100,101,93,109,121,116,130,124,131,121,139,124
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Brent,21,23,25,40,30,30,35,37,35,23,29,36,25,31,32,28,32,38,44,45,41,46,36,29
+Public Order Offences,Violent Disorder,Brent,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,0,1,1,0,0,0,0,0
+Robbery,Robbery of Business Property,Brent,4,6,5,6,8,4,5,8,8,11,6,12,12,3,8,7,13,4,3,11,7,10,9,6
+Robbery,Robbery of Personal Property,Brent,100,135,94,116,133,106,97,95,91,108,114,129,108,110,99,83,37,51,63,70,66,84,87,64
+Sexual Offences,Other Sexual Offences,Brent,22,33,40,44,32,40,28,36,31,28,29,39,39,33,35,28,13,30,33,41,23,38,29,27
+Sexual Offences,Rape,Brent,12,12,24,17,25,22,22,29,19,13,15,26,19,16,23,18,9,16,18,33,27,15,22,24
+Theft,Bicycle Theft,Brent,24,22,18,20,24,18,32,41,34,24,19,23,11,19,16,30,22,34,43,69,46,40,28,26
+Theft,Other Theft,Brent,275,275,288,280,291,292,278,312,267,303,289,257,244,261,262,217,170,175,237,232,220,224,258,184
+Theft,Shoplifting,Brent,95,93,98,110,111,118,96,90,93,109,78,102,112,101,112,99,43,67,73,88,76,89,88,74
+Theft,Theft from Person,Brent,56,76,86,78,66,75,99,61,64,75,92,80,64,62,83,67,17,24,27,48,57,59,78,59
+Vehicle Offences,Aggravated Vehicle Taking,Brent,6,5,4,4,1,6,2,2,3,1,7,2,4,2,6,5,0,1,2,5,7,3,1,7
+Vehicle Offences,Interfering with a Motor Vehicle,Brent,45,61,51,45,52,41,43,43,35,46,51,53,45,82,57,58,68,41,65,38,52,37,51,45
+Vehicle Offences,Theft from a Motor Vehicle,Brent,238,260,214,238,237,208,207,226,190,273,300,228,228,285,270,190,164,189,218,209,190,221,262,185
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Brent,103,119,104,105,85,140,119,95,82,124,115,110,103,85,103,97,85,79,78,100,145,109,101,79
+Violence Against the Person,Homicide,Brent,0,0,0,0,2,0,0,2,0,0,1,1,1,0,1,0,1,0,2,3,1,1,0,1
+Violence Against the Person,Violence with Injury,Brent,255,234,255,246,241,293,283,246,257,256,254,237,237,209,199,240,217,215,263,230,262,245,224,239
+Violence Against the Person,Violence without Injury,Brent,432,449,453,505,427,466,480,546,447,453,543,451,489,496,443,465,490,502,503,539,537,503,582,533
+Arson and Criminal Damage,Arson,Bromley,6,4,6,10,9,6,4,6,10,17,2,8,9,12,6,8,23,13,4,10,11,7,5,5
+Arson and Criminal Damage,Criminal Damage,Bromley,175,158,138,173,148,146,161,152,179,159,199,178,135,155,126,140,114,119,132,151,150,120,166,115
+Burglary,Burglary - Business and Community,Bromley,36,68,42,52,38,60,67,50,47,39,48,42,49,50,50,39,46,29,21,29,18,17,31,23
+Burglary,Burglary - Residential,Bromley,235,214,183,225,145,169,146,139,140,167,197,223,199,188,208,138,77,75,93,80,96,91,103,120
+Drug Offences,Drug Trafficking,Bromley,5,2,3,2,1,1,3,3,5,2,6,1,9,5,2,6,4,9,5,6,7,5,3,8
+Drug Offences,Possession of Drugs,Bromley,100,107,94,91,98,64,98,94,113,76,84,90,104,105,90,86,144,165,92,105,64,75,67,87
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Bromley,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Bromley,0,1,0,0,0,1,0,1,1,0,0,1,0,1,1,2,2,3,1,1,0,3,1,0
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Bromley,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Bromley,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Bromley,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Bromley,1,0,2,0,0,0,1,0,1,2,1,2,1,3,0,1,0,0,0,0,1,0,0,1
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Bromley,1,1,0,0,1,2,2,0,1,3,0,1,0,4,2,1,2,3,1,0,1,6,1,0
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Bromley,1,2,2,2,1,1,2,0,1,0,0,1,0,1,2,1,1,3,0,2,1,2,0,1
+Miscellaneous Crimes Against Society,Obscene Publications,Bromley,3,2,7,10,9,9,4,3,6,7,8,6,4,12,4,12,8,8,11,10,8,12,5,8
+Miscellaneous Crimes Against Society,Other Forgery,Bromley,0,3,0,1,0,2,1,3,0,3,1,2,1,6,3,1,2,0,0,1,2,0,1,1
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Bromley,2,3,1,1,0,3,2,2,4,2,0,1,2,0,3,4,3,5,3,1,3,7,2,1
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Bromley,0,1,3,1,4,1,1,3,0,2,1,0,1,1,1,1,1,2,0,4,1,1,0,2
+Miscellaneous Crimes Against Society,Possession of False Documents,Bromley,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,1,0,0,0,1,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Bromley,0,0,1,1,0,0,0,1,0,0,1,1,0,1,1,0,1,0,0,0,2,1,0,1
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Bromley,6,4,7,5,7,13,12,10,8,19,13,7,9,9,7,4,5,2,6,8,8,11,7,11
+Possession of Weapons,Other Firearm Offences,Bromley,0,0,0,0,0,0,0,0,1,2,1,2,1,0,0,0,0,0,0,0,0,0,1,0
+Possession of Weapons,Possession of Article with Blade or Point,Bromley,17,8,7,6,4,3,11,5,3,2,4,8,3,7,1,7,8,2,7,6,8,10,5,8
+Possession of Weapons,Possession of Firearm with Intent,Bromley,0,0,0,1,2,0,1,0,0,0,1,1,0,2,0,3,0,1,0,1,0,0,0,1
+Possession of Weapons,Possession of Firearms Offences,Bromley,1,0,1,3,0,0,1,1,4,1,2,0,2,0,0,2,1,2,2,1,1,3,3,1
+Possession of Weapons,Possession of Other Weapon,Bromley,5,6,7,8,4,3,5,8,6,0,1,5,5,8,7,3,5,5,7,5,8,7,6,12
+Public Order Offences,"Other Offences Against the State, or Public Order",Bromley,4,19,7,13,13,11,14,15,13,18,8,9,10,11,8,15,14,11,17,12,8,16,13,20
+Public Order Offences,Public Fear Alarm or Distress,Bromley,85,86,87,116,105,85,109,137,86,106,109,99,98,106,77,79,92,82,101,127,126,115,105,96
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Bromley,17,16,16,17,20,22,16,26,20,29,21,24,20,25,12,17,15,35,30,26,28,28,22,33
+Public Order Offences,Violent Disorder,Bromley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+Robbery,Robbery of Business Property,Bromley,10,4,6,8,2,15,10,5,9,9,4,10,7,2,8,2,5,17,3,6,9,9,3,17
+Robbery,Robbery of Personal Property,Bromley,26,33,31,21,36,39,29,31,26,27,37,64,44,43,53,38,26,21,25,35,35,31,32,32
+Sexual Offences,Other Sexual Offences,Bromley,27,25,31,29,31,39,55,35,23,31,20,25,39,21,27,34,19,23,34,39,26,26,38,27
+Sexual Offences,Rape,Bromley,15,24,13,13,20,15,13,11,5,20,20,11,15,9,17,11,7,20,11,17,9,14,17,17
+Theft,Bicycle Theft,Bromley,18,15,9,17,19,19,11,16,14,11,14,13,10,11,4,6,11,15,16,17,20,14,16,19
+Theft,Other Theft,Bromley,213,228,230,200,231,237,180,233,256,186,193,218,191,203,186,155,93,125,138,151,152,157,142,129
+Theft,Shoplifting,Bromley,167,134,193,171,155,224,203,214,173,158,169,182,171,221,220,143,75,74,93,145,123,148,218,164
+Theft,Theft from Person,Bromley,47,34,52,20,43,35,33,34,28,38,39,47,46,24,23,30,8,6,15,30,44,32,45,25
+Vehicle Offences,Aggravated Vehicle Taking,Bromley,8,0,2,2,0,5,3,6,3,0,4,2,4,5,1,3,1,4,1,1,1,4,4,2
+Vehicle Offences,Interfering with a Motor Vehicle,Bromley,43,51,34,54,51,55,48,52,49,64,70,64,41,78,72,48,35,41,38,55,36,41,86,52
+Vehicle Offences,Theft from a Motor Vehicle,Bromley,164,167,195,224,205,199,170,208,215,259,309,248,222,233,238,156,117,136,151,168,119,179,253,186
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Bromley,75,101,68,65,79,88,88,78,95,85,90,80,74,85,98,85,48,70,72,66,77,83,92,92
+Violence Against the Person,Homicide,Bromley,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+Violence Against the Person,Violence with Injury,Bromley,177,163,165,186,151,208,167,203,193,192,171,234,175,157,178,159,126,167,176,197,198,200,195,165
+Violence Against the Person,Violence without Injury,Bromley,302,316,313,359,335,334,343,415,367,384,379,382,390,351,337,327,304,350,387,403,381,430,373,375
+Arson and Criminal Damage,Arson,Camden,2,4,2,1,6,3,1,2,2,3,2,3,1,2,4,3,3,3,4,1,6,4,3,11
+Arson and Criminal Damage,Criminal Damage,Camden,131,140,128,159,107,153,123,142,146,125,131,126,149,137,126,117,100,112,119,120,126,114,121,129
+Burglary,Burglary - Business and Community,Camden,87,135,118,110,110,144,147,138,148,139,138,104,90,120,102,96,53,43,59,64,66,78,98,66
+Burglary,Burglary - Residential,Camden,174,179,163,154,142,169,153,147,151,151,154,146,147,165,117,125,82,99,112,126,103,99,135,126
+Drug Offences,Drug Trafficking,Camden,7,7,7,12,7,5,2,9,12,5,6,11,8,13,7,11,21,17,12,9,25,9,4,10
+Drug Offences,Possession of Drugs,Camden,117,106,121,145,157,159,126,114,132,181,155,192,180,231,202,122,174,212,125,146,157,98,131,133
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Camden,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bail Offences,Camden,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bigamy,Camden,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Camden,0,0,1,2,0,0,1,0,1,0,0,0,2,0,0,0,2,1,1,0,0,0,1,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Camden,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Camden,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Camden,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Camden,0,1,0,6,1,1,1,2,0,4,3,3,2,0,2,1,1,2,3,3,1,1,0,2
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Camden,1,2,0,7,3,1,0,1,1,2,1,4,0,0,1,1,3,6,1,3,2,3,1,0
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Camden,2,1,5,2,2,1,2,2,1,2,3,4,1,1,3,1,4,2,0,2,1,5,0,0
+Miscellaneous Crimes Against Society,Obscene Publications,Camden,1,2,3,4,4,2,3,9,1,4,5,5,5,0,6,3,5,9,2,5,5,9,4,11
+Miscellaneous Crimes Against Society,Other Forgery,Camden,3,2,5,11,8,9,2,4,3,5,3,3,0,1,1,1,0,1,1,0,1,2,2,1
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Camden,0,0,0,1,0,0,0,4,0,0,1,0,0,0,0,0,1,1,2,1,2,1,0,1
+Miscellaneous Crimes Against Society,Perjury,Camden,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Camden,3,5,1,0,4,6,0,1,2,2,1,0,3,0,1,1,2,2,3,5,1,2,1,5
+Miscellaneous Crimes Against Society,Possession of False Documents,Camden,0,0,0,0,0,1,1,1,1,2,2,1,2,2,2,0,2,0,0,0,0,1,0,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Camden,2,1,0,0,0,1,0,2,1,1,2,2,2,2,0,1,1,2,1,2,1,0,0,1
+Miscellaneous Crimes Against Society,Soliciting for Prostitution,Camden,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Camden,6,4,0,3,3,3,3,2,0,4,7,6,3,3,3,2,2,1,5,2,5,9,10,7
+Possession of Weapons,Other Firearm Offences,Camden,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Camden,7,7,8,6,6,9,10,6,17,13,12,6,10,13,3,4,2,6,7,5,4,6,7,4
+Possession of Weapons,Possession of Firearm with Intent,Camden,2,1,1,1,0,1,0,0,2,0,0,2,0,0,0,0,0,1,1,0,0,0,0,1
+Possession of Weapons,Possession of Firearms Offences,Camden,2,5,2,1,4,0,1,2,1,1,6,2,2,1,2,1,2,1,1,4,0,2,0,1
+Possession of Weapons,Possession of Other Weapon,Camden,9,10,4,11,5,7,9,8,3,7,8,11,8,11,5,3,3,4,6,3,6,8,4,9
+Public Order Offences,"Other Offences Against the State, or Public Order",Camden,10,7,11,25,24,22,13,24,14,20,16,15,12,15,16,8,12,17,21,18,18,19,8,13
+Public Order Offences,Public Fear Alarm or Distress,Camden,94,78,82,111,84,122,135,126,121,112,121,128,120,103,107,108,94,87,98,145,135,123,120,118
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Camden,34,29,42,48,59,52,32,51,46,21,46,29,24,39,46,37,27,35,55,32,38,42,38,29
+Public Order Offences,Violent Disorder,Camden,0,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+Robbery,Robbery of Business Property,Camden,9,9,15,10,9,15,9,13,11,14,19,7,19,9,16,15,6,3,6,4,5,9,3,4
+Robbery,Robbery of Personal Property,Camden,131,108,140,140,149,140,135,162,130,136,203,171,160,112,188,117,43,51,66,95,93,98,92,89
+Sexual Offences,Other Sexual Offences,Camden,27,33,33,30,35,29,37,42,28,24,33,46,35,28,35,36,20,27,35,25,31,34,39,34
+Sexual Offences,Rape,Camden,25,37,15,22,27,31,17,30,21,24,24,17,25,15,19,13,7,13,21,16,17,31,10,24
+Theft,Bicycle Theft,Camden,79,105,111,117,128,119,97,142,117,166,141,94,49,93,89,118,86,142,151,188,179,146,177,145
+Theft,Other Theft,Camden,750,767,791,785,792,831,732,781,652,743,889,834,745,720,850,458,132,147,165,310,372,385,413,229
+Theft,Shoplifting,Camden,122,134,140,157,135,138,138,130,134,113,128,139,119,136,148,101,53,55,61,100,106,111,116,91
+Theft,Theft from Person,Camden,310,307,383,484,403,317,350,412,387,387,554,501,421,427,539,378,52,65,108,163,221,270,313,256
+Vehicle Offences,Aggravated Vehicle Taking,Camden,1,1,2,4,1,1,3,4,3,3,2,2,0,2,0,3,2,1,0,3,1,1,2,3
+Vehicle Offences,Interfering with a Motor Vehicle,Camden,44,54,35,38,29,26,48,33,26,25,38,44,39,37,25,44,47,26,39,26,23,45,30,19
+Vehicle Offences,Theft from a Motor Vehicle,Camden,196,253,252,242,221,171,215,235,246,294,235,217,228,225,201,178,151,149,182,181,184,236,220,133
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Camden,42,57,47,54,37,40,53,45,41,59,55,62,37,46,35,42,28,36,31,41,59,45,42,39
+Violence Against the Person,Homicide,Camden,0,0,2,0,1,0,0,1,1,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Violence Against the Person,Violence with Injury,Camden,200,161,221,188,168,200,180,227,201,187,211,184,179,175,189,189,105,138,185,205,210,187,162,121
+Violence Against the Person,Violence without Injury,Camden,336,309,278,367,360,363,378,404,405,369,388,342,372,353,360,379,306,346,386,379,375,368,406,392
+Arson and Criminal Damage,Arson,Croydon,7,5,10,16,6,7,4,16,6,10,4,7,10,4,5,5,8,12,7,7,6,8,5,1
+Arson and Criminal Damage,Criminal Damage,Croydon,195,173,197,197,179,201,185,214,226,190,208,195,193,176,195,200,180,173,191,243,248,195,206,170
+Burglary,Burglary - Business and Community,Croydon,59,49,69,53,33,48,41,38,55,46,51,46,45,73,40,60,42,35,43,53,43,39,53,42
+Burglary,Burglary - Residential,Croydon,194,208,169,214,166,156,125,201,179,206,248,210,170,228,164,188,100,104,117,155,155,129,185,140
+Drug Offences,Drug Trafficking,Croydon,10,9,9,12,8,22,12,9,14,19,35,7,7,12,15,7,9,14,10,18,25,9,14,10
+Drug Offences,Possession of Drugs,Croydon,166,158,191,233,159,207,203,216,212,202,182,173,160,244,239,230,265,300,199,226,174,159,187,228
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Croydon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bail Offences,Croydon,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bigamy,Croydon,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Croydon,2,2,0,1,0,1,0,2,0,1,0,2,1,1,2,3,0,3,1,0,1,2,2,1
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Croydon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Croydon,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Croydon,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Croydon,0,0,0,0,1,3,0,0,2,3,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Croydon,0,0,2,4,3,2,3,3,0,3,2,0,0,0,3,2,4,0,0,1,1,4,0,0
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Croydon,2,2,0,4,2,6,1,7,3,4,8,2,1,4,2,5,1,1,2,3,3,4,0,3
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Croydon,3,0,0,3,2,4,4,3,2,4,2,0,0,1,2,0,0,1,1,1,1,1,0,0
+Miscellaneous Crimes Against Society,Obscene Publications,Croydon,5,8,15,13,9,11,10,7,9,13,12,8,12,9,8,15,11,13,14,10,10,21,12,18
+Miscellaneous Crimes Against Society,Offender Management Act,Croydon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0
+Miscellaneous Crimes Against Society,Other Forgery,Croydon,0,3,2,2,5,6,6,2,2,2,0,2,2,5,3,0,0,2,1,2,2,2,0,1
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Croydon,2,2,1,2,5,4,5,6,4,3,4,5,3,3,3,5,3,4,5,4,7,2,2,5
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Croydon,3,4,0,5,3,3,4,4,2,0,1,1,1,3,1,2,3,0,3,4,4,4,2,2
+Miscellaneous Crimes Against Society,Possession of False Documents,Croydon,0,1,0,0,1,2,0,3,0,0,1,0,1,0,1,3,0,2,1,0,0,1,0,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Croydon,3,0,1,0,1,2,0,0,1,1,0,2,0,2,1,1,2,2,2,2,0,1,0,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Croydon,12,11,9,8,11,9,7,13,8,7,10,2,12,5,9,13,9,13,16,15,22,15,7,12
+Possession of Weapons,Other Firearm Offences,Croydon,0,0,0,0,0,0,0,0,0,4,5,0,2,0,0,0,1,0,1,1,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Croydon,19,13,15,26,10,12,9,7,17,8,13,12,13,21,9,16,11,16,13,10,12,17,12,8
+Possession of Weapons,Possession of Firearm with Intent,Croydon,4,1,4,2,1,2,1,2,2,3,3,1,0,2,0,1,1,2,1,1,3,1,1,1
+Possession of Weapons,Possession of Firearms Offences,Croydon,1,2,3,4,6,4,4,4,3,7,3,3,4,0,5,0,3,5,0,3,3,3,3,0
+Possession of Weapons,Possession of Other Weapon,Croydon,16,12,9,19,11,9,9,7,11,7,11,9,7,12,12,19,18,13,10,16,15,16,10,11
+Public Order Offences,"Other Offences Against the State, or Public Order",Croydon,18,21,23,28,33,38,26,29,26,43,37,35,26,25,35,34,19,32,24,40,44,30,26,34
+Public Order Offences,Public Fear Alarm or Distress,Croydon,83,89,112,113,102,124,105,135,96,130,134,108,96,118,114,125,67,108,159,172,148,147,115,119
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Croydon,33,23,30,32,52,41,32,40,45,23,40,37,29,25,36,29,26,24,59,52,60,38,33,30
+Public Order Offences,Violent Disorder,Croydon,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Robbery,Robbery of Business Property,Croydon,4,9,10,14,11,7,19,13,9,10,6,10,6,9,7,16,12,2,9,6,10,5,12,6
+Robbery,Robbery of Personal Property,Croydon,70,85,76,93,82,99,98,91,87,79,94,86,73,103,82,75,30,60,68,82,81,65,81,60
+Sexual Offences,Other Sexual Offences,Croydon,43,53,41,47,43,43,58,61,38,41,36,60,36,45,51,46,30,36,51,50,55,40,64,47
+Sexual Offences,Rape,Croydon,25,49,39,31,38,48,46,45,35,23,48,46,34,51,32,33,29,35,36,52,37,39,30,45
+Theft,Bicycle Theft,Croydon,20,15,12,18,15,21,22,31,16,28,21,17,16,13,10,13,15,20,23,27,35,25,39,24
+Theft,Other Theft,Croydon,271,244,270,305,306,309,310,393,302,243,276,257,278,242,273,256,167,186,215,261,228,239,235,205
+Theft,Shoplifting,Croydon,112,134,131,136,142,139,141,140,158,145,156,187,105,116,166,102,67,63,80,96,117,99,127,100
+Theft,Theft from Person,Croydon,46,39,51,37,56,56,57,46,47,41,42,49,50,50,37,47,10,20,24,29,28,49,48,49
+Vehicle Offences,Aggravated Vehicle Taking,Croydon,7,5,2,3,6,3,4,1,4,4,4,8,9,6,4,4,4,7,5,6,1,7,3,4
+Vehicle Offences,Interfering with a Motor Vehicle,Croydon,54,59,62,56,49,40,43,42,41,65,79,62,59,103,77,68,64,42,51,41,47,51,54,32
+Vehicle Offences,Theft from a Motor Vehicle,Croydon,253,269,255,229,203,187,195,235,294,304,370,344,361,364,332,378,175,202,247,304,210,252,313,231
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Croydon,71,98,72,98,116,104,79,79,86,117,108,99,105,120,130,91,80,72,100,88,96,76,85,91
+Violence Against the Person,Homicide,Croydon,0,0,0,1,0,0,1,2,0,0,1,0,2,1,1,1,0,0,0,0,0,1,2,1
+Violence Against the Person,Violence with Injury,Croydon,296,291,244,300,271,273,302,361,308,301,268,308,316,276,256,260,250,296,293,354,326,323,276,243
+Violence Against the Person,Violence without Injury,Croydon,534,492,434,473,473,546,485,625,528,552,553,585,530,592,545,634,532,582,644,658,664,667,665,657
+Arson and Criminal Damage,Arson,Ealing,2,2,11,0,6,6,1,9,4,7,8,4,5,3,9,9,7,10,3,5,13,7,7,5
+Arson and Criminal Damage,Criminal Damage,Ealing,171,171,172,187,193,184,172,209,168,179,188,166,166,204,147,163,127,160,165,192,175,151,200,132
+Burglary,Burglary - Business and Community,Ealing,52,51,68,62,66,47,56,47,41,45,52,37,59,41,43,31,36,26,18,35,42,42,41,35
+Burglary,Burglary - Residential,Ealing,172,203,213,220,156,180,148,138,190,181,190,214,251,216,197,146,97,103,120,109,126,131,194,198
+Drug Offences,Drug Trafficking,Ealing,11,11,9,16,9,14,3,10,10,9,8,9,4,14,9,24,20,23,20,17,17,21,19,13
+Drug Offences,Possession of Drugs,Ealing,94,165,119,177,111,155,151,166,84,139,107,109,118,156,144,155,251,262,190,168,92,115,162,176
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Ealing,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bail Offences,Ealing,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,0,0,0,0,1,0,0,1,1
+Miscellaneous Crimes Against Society,Bigamy,Ealing,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Ealing,0,0,0,1,1,4,1,1,0,0,2,1,1,1,0,3,0,2,0,0,2,1,0,2
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Ealing,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Ealing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Ealing,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,1,1,1
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Ealing,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,2,0,0,0,0,1,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Ealing,1,0,0,0,2,2,0,0,0,1,1,0,2,2,1,0,4,3,0,1,0,1,3,1
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Ealing,0,1,2,1,1,1,0,1,1,0,0,0,2,1,0,3,3,2,0,2,0,0,1,4
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Ealing,1,4,3,1,1,1,2,2,1,2,2,1,2,3,1,2,0,1,0,2,4,1,2,3
+Miscellaneous Crimes Against Society,Obscene Publications,Ealing,6,7,8,7,8,8,6,9,7,11,11,11,3,9,9,10,9,13,10,16,7,18,21,18
+Miscellaneous Crimes Against Society,Offender Management Act,Ealing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Other Forgery,Ealing,5,4,3,4,2,3,0,2,1,7,1,3,1,3,1,3,1,2,0,0,2,0,2,3
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Ealing,3,0,3,3,2,4,5,2,5,3,1,5,2,5,0,2,7,2,7,5,7,8,3,5
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Ealing,1,1,4,1,1,1,2,4,2,1,1,4,4,1,2,0,1,2,0,5,7,2,1,2
+Miscellaneous Crimes Against Society,Possession of False Documents,Ealing,1,2,0,2,0,2,0,2,0,1,2,0,0,0,0,1,0,0,1,1,0,0,0,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Ealing,1,3,1,0,2,1,0,2,1,1,1,3,1,1,3,2,3,6,6,5,3,5,4,4
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Ealing,5,4,9,9,7,11,4,10,5,4,10,5,8,8,7,9,4,6,9,7,14,8,8,6
+Possession of Weapons,Other Firearm Offences,Ealing,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Ealing,8,8,10,5,3,8,5,14,12,11,8,6,6,6,10,5,7,4,11,5,13,2,11,11
+Possession of Weapons,Possession of Firearm with Intent,Ealing,4,1,0,0,2,1,0,0,1,0,1,1,1,0,0,1,0,1,1,2,0,1,1,2
+Possession of Weapons,Possession of Firearms Offences,Ealing,0,1,3,2,3,1,0,4,3,2,1,2,1,3,1,3,1,1,0,0,2,0,0,1
+Possession of Weapons,Possession of Other Weapon,Ealing,4,13,9,21,10,11,5,7,12,15,15,12,6,7,1,4,7,7,7,10,8,13,13,6
+Public Order Offences,"Other Offences Against the State, or Public Order",Ealing,21,37,23,28,14,32,27,26,20,31,16,25,20,24,18,18,17,27,23,25,26,18,27,35
+Public Order Offences,Public Fear Alarm or Distress,Ealing,75,105,74,109,103,131,106,148,135,112,102,107,96,130,111,126,94,115,139,164,134,185,113,127
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Ealing,37,24,24,33,29,43,37,44,36,39,30,47,29,23,16,40,24,42,47,36,52,29,42,16
+Public Order Offences,Violent Disorder,Ealing,0,0,1,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Robbery,Robbery of Business Property,Ealing,5,10,7,9,2,9,6,4,10,10,4,11,8,7,7,3,5,2,5,7,9,3,8,7
+Robbery,Robbery of Personal Property,Ealing,78,98,110,126,115,119,97,81,87,84,91,108,100,82,71,69,24,46,59,84,64,84,87,75
+Sexual Offences,Other Sexual Offences,Ealing,35,34,23,39,33,25,43,40,32,54,31,38,28,35,43,43,23,27,44,40,40,37,30,40
+Sexual Offences,Rape,Ealing,22,26,25,33,27,18,34,17,26,15,25,29,20,25,26,35,12,13,20,33,23,26,27,23
+Theft,Bicycle Theft,Ealing,21,27,27,44,53,55,53,48,44,63,35,42,37,22,30,24,25,50,60,52,44,116,108,65
+Theft,Other Theft,Ealing,265,294,302,354,246,244,270,326,293,287,294,274,277,276,257,232,133,163,203,221,227,279,273,214
+Theft,Shoplifting,Ealing,79,94,90,114,101,111,114,117,112,107,119,134,117,116,115,71,48,53,61,88,113,118,119,95
+Theft,Theft from Person,Ealing,52,58,80,97,72,62,75,82,64,41,78,71,49,60,50,53,18,21,19,34,34,52,52,34
+Vehicle Offences,Aggravated Vehicle Taking,Ealing,2,1,2,2,3,3,5,5,6,8,7,3,2,5,3,4,6,0,3,2,3,7,6,2
+Vehicle Offences,Interfering with a Motor Vehicle,Ealing,38,50,37,71,57,67,47,70,54,50,54,52,58,45,54,40,71,41,38,62,50,58,49,51
+Vehicle Offences,Theft from a Motor Vehicle,Ealing,233,245,279,313,282,261,249,306,298,318,338,376,328,377,248,229,199,208,208,270,277,302,303,238
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Ealing,92,79,96,98,112,113,92,118,104,89,126,116,92,80,88,83,78,78,78,82,87,85,75,82
+Violence Against the Person,Homicide,Ealing,0,1,0,0,0,0,0,0,1,3,0,1,1,1,0,1,0,0,0,1,1,0,0,1
+Violence Against the Person,Violence with Injury,Ealing,255,250,210,232,277,233,261,256,247,239,218,247,252,229,182,205,185,229,220,254,274,252,232,207
+Violence Against the Person,Violence without Injury,Ealing,441,465,407,493,393,440,487,496,495,474,540,545,440,468,524,510,443,529,529,527,577,514,506,528
+Arson and Criminal Damage,Arson,Enfield,6,5,7,6,10,9,5,3,3,8,2,12,3,8,7,7,3,3,6,9,5,7,9,12
+Arson and Criminal Damage,Criminal Damage,Enfield,165,168,146,188,171,142,175,185,152,197,150,171,186,142,120,142,100,153,169,154,159,140,151,182
+Burglary,Burglary - Business and Community,Enfield,30,33,36,29,39,62,40,31,32,36,41,46,57,55,41,69,41,54,40,44,23,20,20,36
+Burglary,Burglary - Residential,Enfield,224,267,241,233,242,190,208,190,167,195,247,319,251,273,265,204,71,82,109,124,153,145,214,181
+Drug Offences,Drug Trafficking,Enfield,5,4,9,9,10,14,20,11,11,11,12,19,21,15,11,16,14,20,11,13,11,15,13,16
+Drug Offences,Possession of Drugs,Enfield,88,88,84,113,91,102,82,68,69,61,53,76,60,85,88,98,178,226,163,96,72,86,75,97
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Enfield,0,0,1,0,0,2,0,0,1,0,0,1,0,0,2,0,0,1,0,0,1,1,0,1
+Miscellaneous Crimes Against Society,Dangerous Driving,Enfield,3,2,0,3,3,1,2,1,1,0,1,1,1,0,0,4,3,1,1,1,2,0,0,1
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Enfield,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Enfield,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Enfield,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Enfield,1,1,1,2,2,1,0,1,2,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Enfield,1,0,0,0,1,0,1,1,1,0,0,2,0,0,2,1,0,3,1,2,0,0,1,1
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Enfield,2,1,2,5,3,4,3,2,2,1,4,2,1,0,1,5,2,2,4,12,0,3,0,0
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Enfield,0,2,2,3,5,1,1,1,1,0,0,3,1,0,2,2,1,0,1,1,0,0,0,1
+Miscellaneous Crimes Against Society,Obscene Publications,Enfield,3,10,14,10,10,13,4,5,5,7,7,10,13,11,14,16,6,10,4,13,14,8,18,21
+Miscellaneous Crimes Against Society,Other Forgery,Enfield,4,3,1,7,4,5,3,2,1,2,3,0,0,4,0,0,1,1,0,1,0,2,1,1
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Enfield,3,5,5,3,1,1,1,0,0,4,1,1,5,3,2,3,4,3,2,6,3,2,3,2
+Miscellaneous Crimes Against Society,Perjury,Enfield,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Enfield,5,1,2,3,4,1,0,0,1,1,1,1,1,3,0,4,5,3,2,6,2,0,0,2
+Miscellaneous Crimes Against Society,Possession of False Documents,Enfield,2,3,3,1,2,1,0,2,1,0,1,1,1,2,0,0,0,1,0,0,0,0,2,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Enfield,0,1,1,3,3,2,0,0,1,0,2,4,1,0,4,2,2,2,0,1,1,2,2,2
+Miscellaneous Crimes Against Society,Soliciting for Prostitution,Enfield,0,1,0,0,4,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Enfield,6,8,9,10,6,6,7,7,6,4,7,5,14,4,8,7,8,11,15,12,8,8,9,7
+Miscellaneous Crimes Against Society,Wildlife Crime,Enfield,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Possession of Weapons,Other Firearm Offences,Enfield,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Enfield,10,8,13,13,5,13,8,8,10,14,8,5,11,11,4,11,13,9,8,10,5,7,8,6
+Possession of Weapons,Possession of Firearm with Intent,Enfield,1,0,3,2,1,3,2,1,2,1,3,3,2,1,0,1,1,2,0,0,0,3,1,3
+Possession of Weapons,Possession of Firearms Offences,Enfield,1,4,2,2,1,3,1,1,4,2,1,2,1,1,4,1,5,2,3,1,1,0,2,4
+Possession of Weapons,Possession of Other Weapon,Enfield,9,5,12,6,8,6,14,11,11,8,12,9,10,7,3,12,3,9,10,10,5,8,11,8
+Public Order Offences,"Other Offences Against the State, or Public Order",Enfield,15,17,20,18,22,25,29,22,17,27,25,19,14,27,27,25,24,19,21,18,22,23,23,22
+Public Order Offences,Public Fear Alarm or Distress,Enfield,80,65,78,77,103,96,97,112,73,90,110,113,75,97,82,105,77,108,106,127,117,106,129,97
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Enfield,13,14,22,13,13,15,22,19,23,19,24,20,27,19,14,29,21,18,47,45,46,34,18,21
+Public Order Offences,Violent Disorder,Enfield,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Robbery,Robbery of Business Property,Enfield,9,7,4,4,5,15,5,2,5,14,11,10,14,9,10,10,3,4,15,9,2,4,5,2
+Robbery,Robbery of Personal Property,Enfield,67,116,101,126,115,134,145,146,106,137,164,176,158,162,143,98,29,48,51,78,67,91,81,100
+Sexual Offences,Other Sexual Offences,Enfield,32,27,29,23,24,43,37,41,30,22,19,36,25,32,35,36,16,33,24,34,28,45,46,45
+Sexual Offences,Rape,Enfield,20,24,17,18,24,22,26,26,22,21,34,19,24,25,17,14,21,33,25,19,14,22,29,13
+Theft,Bicycle Theft,Enfield,14,14,18,9,13,24,20,36,58,25,16,11,12,7,13,10,9,14,39,28,37,41,23,22
+Theft,Other Theft,Enfield,269,255,289,273,250,262,291,293,266,256,299,250,241,226,214,187,162,170,164,204,237,256,235,230
+Theft,Shoplifting,Enfield,67,76,84,93,96,96,78,89,88,83,126,119,97,87,81,59,53,43,72,93,89,92,96,72
+Theft,Theft from Person,Enfield,58,50,67,68,64,60,85,65,58,49,76,58,63,73,56,55,12,30,32,54,50,50,58,68
+Vehicle Offences,Aggravated Vehicle Taking,Enfield,2,3,1,1,3,5,7,6,4,0,7,4,4,7,6,5,2,5,1,1,2,3,4,3
+Vehicle Offences,Interfering with a Motor Vehicle,Enfield,105,83,79,125,56,53,66,71,56,81,64,96,68,69,106,102,63,60,63,84,62,85,72,68
+Vehicle Offences,Theft from a Motor Vehicle,Enfield,284,316,241,296,216,241,270,310,290,339,290,354,337,351,436,292,186,225,265,282,292,399,363,317
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Enfield,150,171,120,141,160,147,138,156,162,128,176,120,107,128,90,94,78,80,94,101,85,123,139,137
+Violence Against the Person,Homicide,Enfield,1,0,0,0,0,1,0,1,0,2,1,0,0,0,0,1,1,0,0,2,1,1,0,1
+Violence Against the Person,Violence with Injury,Enfield,212,239,198,234,218,223,253,258,221,244,243,229,200,207,184,237,190,209,252,267,253,214,225,218
+Violence Against the Person,Violence without Injury,Enfield,406,410,383,433,405,408,454,528,402,460,432,481,437,449,389,401,451,506,524,544,485,578,560,473
+Arson and Criminal Damage,Arson,Greenwich,10,7,4,2,2,7,7,11,7,14,3,9,8,7,4,7,4,4,3,1,11,2,6,7
+Arson and Criminal Damage,Criminal Damage,Greenwich,179,194,144,167,211,176,185,187,155,186,193,170,166,177,160,177,143,145,168,174,176,146,139,161
+Burglary,Burglary - Business and Community,Greenwich,64,47,43,65,70,81,84,45,64,43,59,44,38,49,45,43,25,18,24,32,28,21,28,35
+Burglary,Burglary - Residential,Greenwich,202,209,160,211,191,166,136,132,121,124,113,146,139,121,129,87,70,96,107,107,110,125,121,103
+Drug Offences,Drug Trafficking,Greenwich,4,5,6,6,6,8,6,5,9,5,6,8,8,12,10,7,11,11,10,17,4,5,12,13
+Drug Offences,Possession of Drugs,Greenwich,69,76,78,111,79,81,107,123,121,112,124,121,98,144,124,118,217,257,191,153,114,102,115,151
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Greenwich,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bail Offences,Greenwich,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Greenwich,1,2,2,1,0,0,3,4,2,2,2,1,0,2,1,2,2,1,2,1,0,1,1,1
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Greenwich,1,1,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Greenwich,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Greenwich,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Greenwich,2,2,0,0,2,0,3,2,1,1,1,1,0,3,3,0,1,0,3,2,0,0,1,1
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Greenwich,0,2,1,2,0,2,1,1,1,1,3,1,1,2,2,2,5,5,2,4,1,1,1,0
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Greenwich,4,2,0,1,8,1,1,2,0,1,1,6,0,1,4,1,0,3,2,1,2,2,1,5
+Miscellaneous Crimes Against Society,Obscene Publications,Greenwich,4,4,6,8,4,7,8,6,2,8,8,11,8,8,12,12,11,7,10,11,6,11,15,14
+Miscellaneous Crimes Against Society,Offender Management Act,Greenwich,7,6,6,3,2,10,11,2,7,3,7,4,9,5,3,1,1,2,3,3,0,2,4,1
+Miscellaneous Crimes Against Society,Other Forgery,Greenwich,0,1,1,0,1,4,2,2,2,0,0,1,0,6,2,3,4,1,5,1,2,1,0,0
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Greenwich,3,1,7,1,5,0,1,3,3,1,4,8,1,2,2,0,4,1,3,1,2,2,4,6
+Miscellaneous Crimes Against Society,Perjury,Greenwich,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Greenwich,3,1,1,1,1,3,1,2,3,2,3,7,3,3,2,0,1,3,3,0,5,3,1,3
+Miscellaneous Crimes Against Society,Possession of False Documents,Greenwich,0,2,1,0,0,1,0,0,0,1,1,0,0,3,1,1,0,1,0,1,0,0,1,1
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Greenwich,0,1,0,2,3,1,0,2,2,0,1,3,0,4,0,2,3,1,3,4,1,2,1,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Greenwich,6,7,4,8,4,6,6,9,9,11,11,9,9,7,11,5,8,14,13,4,13,11,10,9
+Possession of Weapons,Other Firearm Offences,Greenwich,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Greenwich,6,4,14,12,11,4,10,14,10,8,13,6,8,15,13,9,3,8,9,7,6,4,13,6
+Possession of Weapons,Possession of Firearm with Intent,Greenwich,1,0,0,2,0,0,0,0,1,1,1,1,0,2,0,2,1,2,1,1,1,3,0,1
+Possession of Weapons,Possession of Firearms Offences,Greenwich,2,3,1,2,2,3,3,1,3,3,2,0,2,1,2,1,1,3,0,1,0,1,1,1
+Possession of Weapons,Possession of Other Weapon,Greenwich,4,12,9,9,9,11,12,6,8,8,2,12,6,12,12,8,6,9,8,10,9,8,12,9
+Public Order Offences,"Other Offences Against the State, or Public Order",Greenwich,25,25,17,16,18,20,27,16,38,22,14,15,21,21,19,23,18,28,35,29,17,23,38,46
+Public Order Offences,Public Fear Alarm or Distress,Greenwich,70,92,61,109,82,120,111,110,105,122,127,112,102,102,101,103,82,107,107,129,146,145,136,101
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Greenwich,23,14,16,31,28,29,23,32,45,28,25,27,27,28,15,13,22,27,49,49,46,31,31,18
+Public Order Offences,Violent Disorder,Greenwich,0,0,1,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Robbery,Robbery of Business Property,Greenwich,9,5,3,5,3,7,8,9,8,12,13,9,7,10,13,10,12,6,7,17,12,6,9,13
+Robbery,Robbery of Personal Property,Greenwich,72,58,43,70,54,62,52,69,66,79,84,75,73,82,53,63,30,23,51,40,80,62,50,67
+Sexual Offences,Other Sexual Offences,Greenwich,42,33,30,53,34,37,45,46,36,40,39,37,22,42,26,54,18,28,41,40,34,35,26,33
+Sexual Offences,Rape,Greenwich,23,26,23,23,26,32,30,31,43,31,30,30,29,34,27,24,19,21,23,26,27,25,18,28
+Theft,Bicycle Theft,Greenwich,22,28,24,26,30,46,37,36,32,45,24,21,8,21,11,15,15,29,47,69,75,68,48,29
+Theft,Other Theft,Greenwich,257,244,224,230,234,261,257,262,292,235,243,251,219,212,224,180,126,180,169,174,187,215,199,176
+Theft,Shoplifting,Greenwich,96,93,125,152,139,179,147,168,172,156,158,205,124,153,152,108,67,55,114,125,79,123,125,125
+Theft,Theft from Person,Greenwich,47,53,41,28,58,47,41,63,30,37,58,84,61,35,43,31,6,9,20,27,21,32,23,32
+Vehicle Offences,Aggravated Vehicle Taking,Greenwich,5,3,6,4,1,3,8,7,9,5,2,3,3,1,3,3,3,4,2,1,1,0,3,4
+Vehicle Offences,Interfering with a Motor Vehicle,Greenwich,42,69,49,57,60,71,57,71,74,58,43,51,39,41,57,59,25,51,35,53,36,40,44,31
+Vehicle Offences,Theft from a Motor Vehicle,Greenwich,192,255,207,195,181,175,226,220,287,271,251,251,152,227,208,179,85,107,98,157,126,155,148,157
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Greenwich,94,98,97,115,109,114,108,125,114,96,108,94,96,85,90,72,48,66,80,74,67,101,95,85
+Violence Against the Person,Homicide,Greenwich,2,0,0,0,0,0,1,1,0,0,2,0,0,0,1,1,0,0,0,1,0,0,1,0
+Violence Against the Person,Violence with Injury,Greenwich,253,178,204,237,249,232,238,267,276,251,238,236,218,204,280,223,169,227,215,261,239,238,231,201
+Violence Against the Person,Violence without Injury,Greenwich,414,378,394,435,431,419,479,476,419,550,480,438,491,490,438,422,393,491,527,520,542,474,503,493
+Arson and Criminal Damage,Arson,Hackney,6,5,5,9,2,5,8,6,2,6,6,6,4,6,5,5,4,8,5,7,4,5,6,3
+Arson and Criminal Damage,Criminal Damage,Hackney,161,163,120,148,118,162,142,163,151,158,139,132,139,148,130,130,122,129,148,153,161,143,142,162
+Burglary,Burglary - Business and Community,Hackney,66,67,70,88,95,62,67,96,77,63,64,52,64,50,50,54,41,42,37,44,64,59,54,35
+Burglary,Burglary - Residential,Hackney,227,239,238,181,245,171,242,214,167,215,224,177,176,158,137,109,116,143,172,196,206,206,204,191
+Drug Offences,Drug Trafficking,Hackney,6,6,11,5,10,9,3,12,8,5,13,12,4,7,12,6,9,18,14,9,5,1,11,12
+Drug Offences,Possession of Drugs,Hackney,137,113,109,167,126,130,137,155,132,127,108,154,150,168,124,97,101,204,123,110,95,118,122,145
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Hackney,0,0,0,0,1,0,0,1,1,0,3,1,1,2,0,1,1,0,0,0,0,0,1,0
+Miscellaneous Crimes Against Society,Bail Offences,Hackney,0,0,0,0,0,0,5,2,2,2,3,2,2,6,5,3,2,1,1,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bigamy,Hackney,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Hackney,2,2,1,1,0,2,1,0,1,0,2,0,1,0,2,0,0,1,1,1,1,0,1,1
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Hackney,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Hackney,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Hackney,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Hackney,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Hackney,3,2,2,6,2,1,0,1,7,1,0,1,5,3,2,2,2,1,0,2,1,3,0,1
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Hackney,3,0,0,1,3,3,2,4,1,0,3,2,0,6,4,1,5,1,3,2,2,3,4,3
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Hackney,1,0,2,0,3,0,1,1,2,1,0,2,0,0,3,0,1,2,0,1,0,0,2,1
+Miscellaneous Crimes Against Society,Obscene Publications,Hackney,5,8,9,5,6,10,5,2,4,5,6,11,3,3,2,7,7,7,9,12,7,9,3,5
+Miscellaneous Crimes Against Society,Other Forgery,Hackney,3,1,2,3,2,2,3,2,0,1,1,1,1,1,1,0,0,0,0,0,2,2,4,0
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Hackney,1,0,0,0,1,1,3,1,1,1,1,1,0,0,1,1,0,0,1,1,2,1,1,1
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Hackney,2,0,2,1,4,2,4,1,1,3,0,0,2,1,1,3,2,4,3,3,4,0,0,0
+Miscellaneous Crimes Against Society,Possession of False Documents,Hackney,0,0,2,2,0,1,3,1,1,1,0,2,0,1,1,0,0,0,1,2,0,0,0,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Hackney,0,0,1,0,1,1,0,1,1,2,2,2,1,0,1,1,1,1,1,1,2,0,3,2
+Miscellaneous Crimes Against Society,Soliciting for Prostitution,Hackney,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Hackney,2,6,8,1,5,1,3,5,4,3,4,1,3,5,5,3,9,3,5,3,2,9,9,5
+Possession of Weapons,Other Firearm Offences,Hackney,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Hackney,13,12,14,22,16,12,4,10,8,18,8,10,7,14,9,7,12,12,10,12,10,21,12,13
+Possession of Weapons,Possession of Firearm with Intent,Hackney,0,3,1,3,2,1,0,1,2,1,2,1,0,0,3,3,1,2,0,2,2,1,1,2
+Possession of Weapons,Possession of Firearms Offences,Hackney,2,1,1,2,2,2,2,2,1,0,0,3,1,2,3,1,1,1,0,2,0,1,2,1
+Possession of Weapons,Possession of Other Weapon,Hackney,7,10,19,14,15,12,11,13,7,14,11,9,10,14,13,11,6,10,13,9,9,13,17,7
+Public Order Offences,"Other Offences Against the State, or Public Order",Hackney,17,16,16,11,12,15,15,22,17,17,15,17,7,9,9,10,4,24,18,27,26,14,16,14
+Public Order Offences,Public Fear Alarm or Distress,Hackney,117,99,84,122,103,108,91,138,125,109,97,112,101,102,95,115,87,116,137,160,136,150,130,117
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Hackney,29,28,39,37,40,40,28,51,33,40,46,34,39,39,42,35,38,55,64,58,60,64,44,22
+Public Order Offences,Violent Disorder,Hackney,0,1,1,1,0,0,2,0,0,1,0,0,0,1,0,0,0,0,0,3,2,0,0,0
+Robbery,Robbery of Business Property,Hackney,11,7,9,8,10,6,5,11,6,18,9,11,12,8,15,9,3,3,11,8,12,18,10,18
+Robbery,Robbery of Personal Property,Hackney,138,150,143,159,174,159,167,188,141,153,163,182,156,176,168,182,54,75,61,103,126,156,136,136
+Sexual Offences,Other Sexual Offences,Hackney,42,34,26,33,36,58,33,67,34,28,24,42,28,38,42,37,11,31,36,42,44,44,33,51
+Sexual Offences,Rape,Hackney,15,19,17,25,19,18,18,29,23,23,24,29,19,33,27,19,15,27,23,24,19,16,19,25
+Theft,Bicycle Theft,Hackney,124,107,86,115,154,172,148,213,196,168,178,111,100,92,83,70,98,164,249,282,339,348,315,189
+Theft,Other Theft,Hackney,372,393,333,383,446,414,383,444,457,412,347,382,386,342,388,242,136,166,210,260,305,336,266,184
+Theft,Shoplifting,Hackney,62,61,63,69,63,69,71,79,90,90,106,106,109,88,69,56,29,44,44,64,92,78,78,72
+Theft,Theft from Person,Hackney,233,232,248,268,240,257,261,313,290,294,355,277,235,276,278,292,55,49,72,147,226,251,242,239
+Vehicle Offences,Aggravated Vehicle Taking,Hackney,2,2,2,1,0,8,6,2,2,4,4,1,1,1,1,4,1,3,0,0,3,3,4,0
+Vehicle Offences,Interfering with a Motor Vehicle,Hackney,36,52,33,32,30,47,34,33,41,32,41,38,25,36,49,31,23,19,28,36,39,27,60,64
+Vehicle Offences,Theft from a Motor Vehicle,Hackney,171,184,183,199,175,206,214,216,229,252,208,195,184,207,185,136,92,91,175,222,182,238,237,191
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Hackney,47,64,72,75,76,75,72,84,73,60,87,59,61,68,56,66,40,52,47,47,53,70,53,48
+Violence Against the Person,Homicide,Hackney,0,0,0,0,2,1,0,0,1,0,0,0,1,1,0,1,1,0,1,0,0,0,0,1
+Violence Against the Person,Violence with Injury,Hackney,248,238,197,282,238,259,268,286,265,224,244,224,208,200,190,210,156,218,231,216,247,253,189,195
+Violence Against the Person,Violence without Injury,Hackney,428,397,364,407,373,413,369,451,436,407,381,396,432,459,406,415,349,447,460,532,481,495,446,450
+Arson and Criminal Damage,Arson,Hammersmith and Fulham,1,4,3,2,3,2,0,5,3,8,5,4,4,5,5,2,3,2,6,2,0,2,4,6
+Arson and Criminal Damage,Criminal Damage,Hammersmith and Fulham,88,119,95,111,96,113,108,121,113,89,105,116,120,120,88,84,80,90,83,107,114,93,95,83
+Burglary,Burglary - Business and Community,Hammersmith and Fulham,54,52,45,47,34,34,32,48,40,46,70,48,36,48,52,40,31,20,22,26,32,28,42,29
+Burglary,Burglary - Residential,Hammersmith and Fulham,104,128,114,100,115,103,87,122,134,118,112,98,116,105,123,114,48,77,61,86,100,101,93,86
+Drug Offences,Drug Trafficking,Hammersmith and Fulham,3,7,1,2,3,3,4,1,3,0,7,3,2,5,5,8,11,5,9,2,4,5,4,5
+Drug Offences,Possession of Drugs,Hammersmith and Fulham,75,79,74,88,113,112,98,99,152,80,80,70,46,68,85,87,178,150,108,88,61,42,82,81
+Miscellaneous Crimes Against Society,Bail Offences,Hammersmith and Fulham,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Hammersmith and Fulham,1,1,0,1,0,0,0,1,0,0,1,0,2,1,0,1,1,0,1,1,1,0,2,0
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Hammersmith and Fulham,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Hammersmith and Fulham,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Hammersmith and Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Hammersmith and Fulham,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Hammersmith and Fulham,1,0,2,1,3,6,2,4,1,2,5,0,1,1,0,3,4,1,0,0,0,4,3,2
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Hammersmith and Fulham,1,3,2,2,1,0,1,4,2,1,0,2,2,0,1,1,1,4,1,2,0,1,3,1
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Hammersmith and Fulham,2,2,0,4,4,1,2,3,2,0,0,2,1,2,0,1,1,0,2,1,2,0,1,3
+Miscellaneous Crimes Against Society,Obscene Publications,Hammersmith and Fulham,1,4,7,6,6,5,4,4,3,6,2,5,1,4,2,3,1,2,5,0,2,2,5,6
+Miscellaneous Crimes Against Society,Offender Management Act,Hammersmith and Fulham,2,3,3,7,2,0,7,3,2,5,4,1,3,1,3,1,0,0,1,1,0,0,3,8
+Miscellaneous Crimes Against Society,Other Forgery,Hammersmith and Fulham,2,2,5,2,5,1,6,2,2,1,3,1,2,2,3,0,0,1,2,1,2,3,0,0
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Hammersmith and Fulham,0,0,0,0,0,1,1,5,2,2,1,1,0,3,0,2,2,0,2,1,0,1,1,4
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Hammersmith and Fulham,1,0,2,2,3,0,1,1,1,1,2,0,1,1,1,0,3,0,0,1,0,1,1,2
+Miscellaneous Crimes Against Society,Possession of False Documents,Hammersmith and Fulham,0,0,0,0,2,2,2,0,2,2,0,2,0,0,0,0,3,2,2,0,1,0,0,1
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Hammersmith and Fulham,0,3,0,2,1,1,1,0,0,0,2,1,1,2,0,0,3,1,4,0,1,3,0,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Hammersmith and Fulham,1,4,0,3,2,1,3,3,3,4,3,5,5,1,2,4,4,2,4,6,6,2,3,3
+Possession of Weapons,Other Firearm Offences,Hammersmith and Fulham,0,1,0,0,0,0,0,0,0,0,4,0,1,0,0,1,0,0,1,0,1,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Hammersmith and Fulham,1,12,5,7,7,11,6,6,5,5,9,6,8,4,6,6,4,11,3,3,3,11,3,4
+Possession of Weapons,Possession of Firearm with Intent,Hammersmith and Fulham,0,0,0,0,0,0,1,0,0,2,1,0,0,3,0,0,1,0,0,0,1,0,0,1
+Possession of Weapons,Possession of Firearms Offences,Hammersmith and Fulham,0,1,0,2,0,0,0,1,2,2,0,1,3,0,0,1,0,1,0,0,0,0,0,0
+Possession of Weapons,Possession of Other Weapon,Hammersmith and Fulham,2,9,5,6,3,4,1,5,3,3,3,3,3,10,3,3,5,8,2,3,1,3,5,3
+Public Order Offences,"Other Offences Against the State, or Public Order",Hammersmith and Fulham,19,17,14,25,15,14,16,20,14,10,13,18,18,13,16,9,7,13,15,12,14,15,11,3
+Public Order Offences,Public Fear Alarm or Distress,Hammersmith and Fulham,73,72,80,93,85,82,101,105,91,86,93,100,77,83,56,77,69,90,90,124,99,97,118,75
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Hammersmith and Fulham,31,26,26,25,23,25,25,34,29,42,24,23,32,26,31,25,20,15,32,27,26,38,31,33
+Public Order Offences,Violent Disorder,Hammersmith and Fulham,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Robbery,Robbery of Business Property,Hammersmith and Fulham,5,2,2,2,6,5,3,11,5,7,8,6,4,2,6,6,4,1,1,1,7,4,3,4
+Robbery,Robbery of Personal Property,Hammersmith and Fulham,57,50,71,79,95,61,80,52,61,63,87,78,40,65,66,47,20,24,29,31,42,48,48,59
+Sexual Offences,Other Sexual Offences,Hammersmith and Fulham,28,31,29,19,18,21,32,26,24,25,22,30,23,23,27,21,12,20,18,30,25,25,29,24
+Sexual Offences,Rape,Hammersmith and Fulham,27,26,41,28,31,28,6,13,10,14,13,23,11,12,10,9,19,11,14,13,12,14,16,16
+Theft,Bicycle Theft,Hammersmith and Fulham,58,70,70,96,94,104,110,152,126,105,118,50,63,70,65,57,53,70,86,103,105,170,178,115
+Theft,Other Theft,Hammersmith and Fulham,312,257,250,292,286,295,278,338,282,247,290,327,317,256,252,220,113,111,116,208,223,208,226,138
+Theft,Shoplifting,Hammersmith and Fulham,133,105,114,118,105,121,127,127,106,115,111,127,102,107,117,85,44,61,91,117,128,103,94,84
+Theft,Theft from Person,Hammersmith and Fulham,61,51,71,56,64,68,79,84,65,58,92,89,129,66,69,47,8,22,13,53,59,48,89,34
+Vehicle Offences,Aggravated Vehicle Taking,Hammersmith and Fulham,3,2,1,1,0,3,1,4,3,1,4,2,1,4,2,0,1,3,0,1,1,2,1,1
+Vehicle Offences,Interfering with a Motor Vehicle,Hammersmith and Fulham,21,20,17,28,35,41,30,33,25,32,52,16,31,25,27,19,27,18,13,22,17,19,15,22
+Vehicle Offences,Theft from a Motor Vehicle,Hammersmith and Fulham,150,153,142,178,224,184,187,227,208,209,236,214,259,184,157,138,70,77,63,109,129,149,169,126
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Hammersmith and Fulham,48,44,52,61,48,45,54,58,47,76,85,65,54,74,54,71,42,49,49,32,37,63,72,41
+Violence Against the Person,Homicide,Hammersmith and Fulham,0,0,0,2,0,0,2,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+Violence Against the Person,Violence with Injury,Hammersmith and Fulham,176,124,139,165,190,177,187,149,178,169,134,191,117,149,136,132,106,130,151,155,163,138,112,109
+Violence Against the Person,Violence without Injury,Hammersmith and Fulham,317,317,344,341,316,361,287,319,287,309,295,287,283,281,295,277,256,287,268,325,300,315,290,264
+Arson and Criminal Damage,Arson,Haringey,2,5,3,2,7,10,2,6,4,8,4,6,7,8,1,5,2,14,2,4,3,7,5,7
+Arson and Criminal Damage,Criminal Damage,Haringey,164,160,150,155,147,139,153,149,149,132,157,131,140,109,132,166,128,132,151,139,163,129,155,162
+Burglary,Burglary - Business and Community,Haringey,39,48,34,77,79,60,76,64,52,48,44,54,31,33,24,35,44,23,17,41,23,44,36,46
+Burglary,Burglary - Residential,Haringey,233,236,205,208,179,207,171,179,166,145,163,175,134,150,122,126,84,80,94,161,165,154,169,159
+Drug Offences,Drug Trafficking,Haringey,3,8,7,4,3,9,11,11,8,3,10,19,12,10,20,19,14,8,15,41,22,104,10,9
+Drug Offences,Possession of Drugs,Haringey,94,140,138,139,107,131,128,150,85,100,112,108,151,147,133,183,216,264,153,119,89,111,101,92
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Haringey,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Concealing an Infant Death Close to Birth,Haringey,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Haringey,2,0,2,1,2,1,1,2,0,1,2,0,3,2,2,2,1,3,0,3,1,2,0,0
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Haringey,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Haringey,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Haringey,0,1,2,0,0,2,1,0,2,0,1,2,0,0,0,0,0,0,0,0,0,1,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Haringey,0,1,0,2,3,0,2,0,2,2,2,0,2,1,2,0,2,0,1,3,1,1,1,0
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Haringey,3,9,11,1,0,3,1,4,2,1,1,5,4,0,3,29,14,4,8,11,0,3,1,2
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Haringey,2,1,8,5,1,0,0,6,0,2,1,0,2,0,1,2,1,1,0,1,2,0,0,0
+Miscellaneous Crimes Against Society,Obscene Publications,Haringey,4,6,7,9,5,7,7,6,5,5,5,6,10,11,8,9,10,9,10,3,2,13,8,19
+Miscellaneous Crimes Against Society,Offender Management Act,Haringey,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Other Forgery,Haringey,3,3,2,2,3,1,0,3,2,2,1,3,3,1,3,1,0,0,1,2,1,2,1,4
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Haringey,1,0,2,1,1,2,0,1,1,2,2,0,1,4,0,1,5,2,0,1,2,1,0,3
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Haringey,1,0,2,3,3,2,0,2,1,1,2,3,1,1,0,4,1,4,1,1,2,1,5,1
+Miscellaneous Crimes Against Society,Possession of False Documents,Haringey,0,4,2,2,2,2,2,4,1,0,4,1,3,1,0,1,1,0,0,1,0,0,0,1
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Haringey,0,2,2,2,1,1,0,1,1,3,3,6,3,1,3,2,3,2,1,7,0,1,1,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Haringey,3,5,3,4,1,6,5,2,4,6,12,8,8,4,3,9,2,6,5,4,7,4,4,5
+Possession of Weapons,Other Firearm Offences,Haringey,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Haringey,10,10,7,8,11,10,10,4,6,7,11,7,5,13,21,14,8,7,7,6,8,8,4,6
+Possession of Weapons,Possession of Firearm with Intent,Haringey,1,4,0,2,2,2,1,1,0,1,3,1,0,2,0,1,0,0,1,0,4,2,1,0
+Possession of Weapons,Possession of Firearms Offences,Haringey,1,1,1,4,2,3,3,3,5,2,3,4,4,0,4,1,2,8,2,1,1,2,0,0
+Possession of Weapons,Possession of Other Weapon,Haringey,12,17,22,17,12,7,11,9,8,4,7,16,13,10,9,19,11,13,7,5,11,10,12,5
+Public Order Offences,"Other Offences Against the State, or Public Order",Haringey,18,21,15,15,17,16,9,19,13,17,23,13,19,13,15,11,23,17,19,19,16,15,18,15
+Public Order Offences,Public Fear Alarm or Distress,Haringey,71,63,84,101,91,119,89,118,99,112,101,111,89,80,86,82,86,107,116,126,135,110,105,95
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Haringey,19,35,29,28,19,30,38,30,35,33,28,41,34,23,19,32,28,30,43,53,37,37,30,42
+Robbery,Robbery of Business Property,Haringey,7,14,11,6,8,9,11,15,5,7,6,9,13,6,13,9,8,8,4,13,6,6,9,3
+Robbery,Robbery of Personal Property,Haringey,148,173,167,200,181,212,180,244,219,241,256,301,154,230,180,119,70,54,89,89,101,149,131,134
+Sexual Offences,Other Sexual Offences,Haringey,33,31,29,44,31,39,38,40,32,31,37,41,27,25,46,35,22,27,34,46,42,28,36,42
+Sexual Offences,Rape,Haringey,19,29,39,35,21,23,35,22,29,26,29,16,23,32,39,19,24,16,27,31,27,32,28,20
+Theft,Bicycle Theft,Haringey,22,21,25,25,25,42,54,72,36,51,33,16,28,24,19,26,31,59,78,67,102,80,63,53
+Theft,Other Theft,Haringey,318,301,301,318,319,346,332,354,288,309,319,284,265,217,229,205,139,151,208,277,234,248,249,201
+Theft,Shoplifting,Haringey,97,110,102,102,134,140,106,119,75,130,135,114,168,185,170,110,69,66,89,97,60,89,105,102
+Theft,Theft from Person,Haringey,144,105,137,150,145,153,183,174,82,89,180,140,146,135,123,106,53,57,71,99,98,112,97,110
+Vehicle Offences,Aggravated Vehicle Taking,Haringey,4,2,2,3,1,4,0,3,8,4,6,3,4,4,2,3,1,1,6,0,2,2,3,1
+Vehicle Offences,Interfering with a Motor Vehicle,Haringey,50,71,48,59,50,35,43,43,37,57,80,46,35,36,42,60,45,47,41,36,42,52,53,92
+Vehicle Offences,Theft from a Motor Vehicle,Haringey,311,287,243,374,274,251,350,337,282,443,374,296,235,281,318,318,203,191,257,305,328,388,300,266
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Haringey,86,87,70,87,108,99,94,104,104,92,82,88,92,93,59,66,80,85,64,79,84,111,109,88
+Violence Against the Person,Homicide,Haringey,1,0,1,0,0,0,1,0,2,1,0,0,1,0,0,0,0,2,1,0,0,0,0,0
+Violence Against the Person,Violence with Injury,Haringey,245,237,217,235,226,245,227,266,234,203,209,204,231,209,202,193,180,200,218,224,241,196,170,213
+Violence Against the Person,Violence without Injury,Haringey,399,362,390,404,407,427,417,431,384,394,442,403,425,372,394,423,411,387,474,449,442,462,424,420
+Arson and Criminal Damage,Arson,Harrow,2,6,3,2,2,4,1,4,4,6,4,2,0,5,4,4,3,3,3,0,0,2,0,0
+Arson and Criminal Damage,Criminal Damage,Harrow,82,78,88,95,87,91,84,99,74,87,84,88,98,86,67,83,64,82,74,99,86,80,78,63
+Burglary,Burglary - Business and Community,Harrow,21,22,26,36,33,41,33,32,23,20,16,15,22,22,38,62,22,22,30,22,14,25,22,11
+Burglary,Burglary - Residential,Harrow,191,189,159,172,115,109,120,92,82,161,181,166,183,156,140,72,39,57,44,63,104,72,125,99
+Drug Offences,Drug Trafficking,Harrow,2,7,2,6,4,9,3,1,10,5,6,5,1,5,6,4,6,4,6,7,4,4,8,15
+Drug Offences,Possession of Drugs,Harrow,44,64,55,64,56,68,54,68,76,85,63,64,33,71,69,65,96,96,61,74,71,96,88,105
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Harrow,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,1,0,0,1,1,0
+Miscellaneous Crimes Against Society,Bail Offences,Harrow,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Harrow,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,2,2,2,1,0,1,0,1,2
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Harrow,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Harrow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Harrow,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Harrow,0,0,0,2,1,1,0,2,0,3,0,0,0,0,0,0,0,0,1,1,1,1,1,1
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Harrow,1,0,1,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,1,2,0,0,0,1
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Harrow,0,1,0,1,1,0,0,0,0,1,0,2,0,0,0,0,0,1,1,1,0,1,1,2
+Miscellaneous Crimes Against Society,Obscene Publications,Harrow,4,3,3,6,5,6,5,5,2,8,8,8,8,14,4,12,7,2,11,4,6,16,4,13
+Miscellaneous Crimes Against Society,Offender Management Act,Harrow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Miscellaneous Crimes Against Society,Other Forgery,Harrow,1,1,3,1,0,0,2,2,1,2,1,2,4,2,1,1,1,0,0,1,0,0,0,0
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Harrow,2,0,0,2,1,0,2,0,2,2,0,0,2,1,4,2,0,1,0,1,1,2,2,2
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Harrow,3,2,2,0,0,1,1,1,0,1,1,2,0,1,1,1,1,1,1,1,1,0,1,1
+Miscellaneous Crimes Against Society,Possession of False Documents,Harrow,0,1,1,0,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Harrow,0,0,0,3,0,1,0,0,2,2,0,1,0,0,1,0,2,0,1,2,1,1,2,0
+Miscellaneous Crimes Against Society,Soliciting for Prostitution,Harrow,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Harrow,4,5,4,6,2,3,2,5,2,1,5,5,5,0,6,4,4,3,7,6,6,7,2,3
+Possession of Weapons,Other Firearm Offences,Harrow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Harrow,3,8,3,4,4,4,4,7,4,1,3,4,1,4,5,3,7,0,3,2,3,3,3,6
+Possession of Weapons,Possession of Firearm with Intent,Harrow,0,0,0,1,1,0,1,0,2,1,0,2,0,1,0,2,0,0,1,0,0,2,2,0
+Possession of Weapons,Possession of Firearms Offences,Harrow,0,0,0,0,2,0,2,0,2,0,0,2,0,2,4,0,1,1,1,0,1,1,1,1
+Possession of Weapons,Possession of Other Weapon,Harrow,4,1,3,2,4,3,6,1,3,1,2,1,2,3,3,1,5,4,6,5,2,1,2,4
+Public Order Offences,"Other Offences Against the State, or Public Order",Harrow,10,11,6,11,15,11,11,14,6,8,8,10,17,6,9,11,9,6,6,7,10,13,7,14
+Public Order Offences,Public Fear Alarm or Distress,Harrow,44,49,45,44,61,50,41,63,42,44,63,39,46,51,58,51,56,63,56,75,53,69,66,55
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Harrow,12,12,12,21,13,16,18,23,19,16,13,17,24,10,15,21,11,18,28,27,23,17,15,26
+Public Order Offences,Violent Disorder,Harrow,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Robbery,Robbery of Business Property,Harrow,5,3,9,8,4,1,7,4,2,5,7,4,4,4,3,1,3,5,1,5,2,1,0,4
+Robbery,Robbery of Personal Property,Harrow,37,51,48,48,55,42,41,40,37,42,61,58,57,69,57,35,18,45,20,38,43,42,40,39
+Sexual Offences,Other Sexual Offences,Harrow,21,29,15,35,25,32,22,21,17,22,32,16,15,23,26,13,8,9,10,18,14,28,25,13
+Sexual Offences,Rape,Harrow,14,14,7,5,23,15,11,23,21,12,15,16,7,15,20,15,10,11,15,24,15,20,14,13
+Theft,Bicycle Theft,Harrow,7,2,5,8,7,7,24,18,24,18,16,5,5,7,5,2,6,14,13,19,26,35,23,10
+Theft,Other Theft,Harrow,138,152,170,174,147,149,158,183,183,153,150,160,155,128,143,128,82,99,73,134,117,119,117,109
+Theft,Shoplifting,Harrow,63,80,67,84,56,87,70,73,82,68,86,80,74,73,71,55,27,39,22,46,45,52,52,59
+Theft,Theft from Person,Harrow,43,37,53,54,45,49,58,67,35,52,52,37,47,27,44,26,6,8,13,19,22,23,47,28
+Vehicle Offences,Aggravated Vehicle Taking,Harrow,0,0,0,3,1,0,3,0,1,3,1,2,2,0,2,1,1,1,1,1,0,2,0,0
+Vehicle Offences,Interfering with a Motor Vehicle,Harrow,23,47,35,41,41,46,42,45,34,28,50,27,35,73,41,69,43,50,27,41,45,36,40,59
+Vehicle Offences,Theft from a Motor Vehicle,Harrow,119,147,104,110,152,149,169,188,155,160,207,149,172,253,198,179,109,153,133,176,137,139,196,155
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Harrow,43,45,53,47,44,41,43,51,39,35,35,42,47,50,51,39,35,22,33,40,52,48,49,41
+Violence Against the Person,Homicide,Harrow,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Violence Against the Person,Violence with Injury,Harrow,114,128,111,142,134,149,152,144,129,125,122,128,104,97,102,108,117,97,95,120,121,100,95,99
+Violence Against the Person,Violence without Injury,Harrow,260,259,249,206,242,273,280,278,254,265,283,279,256,260,264,291,234,270,271,295,307,343,321,309
+Arson and Criminal Damage,Arson,Havering,4,6,3,1,6,5,8,1,10,8,8,2,4,0,5,0,4,3,3,5,4,2,4,6
+Arson and Criminal Damage,Criminal Damage,Havering,103,108,116,95,100,125,105,115,92,105,122,105,100,115,114,110,57,80,80,91,90,102,88,104
+Burglary,Burglary - Business and Community,Havering,44,41,28,41,48,58,99,67,50,27,52,29,28,29,17,17,14,19,14,18,8,22,46,12
+Burglary,Burglary - Residential,Havering,172,145,98,94,88,121,97,87,86,67,138,166,131,166,149,123,47,57,73,58,57,75,104,67
+Drug Offences,Drug Trafficking,Havering,2,7,2,4,8,13,4,7,1,6,3,2,4,3,5,5,1,5,13,6,2,14,4,9
+Drug Offences,Possession of Drugs,Havering,52,40,59,54,46,75,48,60,61,55,77,69,44,89,53,73,105,132,96,125,51,74,93,90
+Miscellaneous Crimes Against Society,Bigamy,Havering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Havering,2,1,0,2,1,0,1,1,1,2,1,2,0,2,1,1,1,1,2,0,2,1,2,3
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Havering,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Havering,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Havering,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Havering,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0,1,1,0,0,1,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Havering,0,0,6,2,1,1,0,1,1,0,1,0,1,0,0,0,3,1,2,0,0,1,1,0
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Havering,1,1,0,3,0,2,1,0,4,2,3,2,2,0,0,1,0,1,2,1,2,0,1,1
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Havering,3,0,0,1,0,2,0,2,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0
+Miscellaneous Crimes Against Society,Obscene Publications,Havering,7,3,12,10,9,5,5,5,7,6,5,8,8,7,9,13,6,6,7,8,4,12,11,11
+Miscellaneous Crimes Against Society,Other Forgery,Havering,1,2,3,3,3,4,2,3,2,0,2,0,1,3,2,0,0,0,0,0,2,0,0,2
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Havering,0,2,3,2,2,1,1,1,2,0,1,1,0,0,4,1,3,1,1,2,2,0,0,2
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Havering,1,1,1,2,0,1,0,3,1,1,1,1,2,5,3,2,0,0,2,6,0,2,0,0
+Miscellaneous Crimes Against Society,Possession of False Documents,Havering,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,1,2,1,0,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Havering,0,0,6,1,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Havering,4,5,4,5,2,3,5,6,7,7,4,3,9,2,4,5,4,4,7,9,4,8,11,6
+Miscellaneous Crimes Against Society,Wildlife Crime,Havering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,1
+Possession of Weapons,Possession of Article with Blade or Point,Havering,5,5,6,19,9,7,3,4,8,4,9,8,1,4,5,7,3,3,5,4,1,3,3,4
+Possession of Weapons,Possession of Firearm with Intent,Havering,1,0,2,0,1,1,0,2,1,0,2,1,1,1,0,1,0,0,2,0,0,0,2,0
+Possession of Weapons,Possession of Firearms Offences,Havering,2,5,1,2,0,0,2,0,1,0,0,0,1,0,0,2,1,2,5,0,0,1,0,0
+Possession of Weapons,Possession of Other Weapon,Havering,9,6,4,8,4,4,4,3,6,5,6,3,4,11,3,11,4,8,2,3,5,3,9,2
+Public Order Offences,"Other Offences Against the State, or Public Order",Havering,10,9,14,7,14,20,16,16,7,14,7,12,13,19,22,18,10,11,22,11,11,9,15,9
+Public Order Offences,Public Fear Alarm or Distress,Havering,55,43,54,77,47,71,71,66,72,65,64,74,60,64,67,59,40,56,64,84,105,66,70,51
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Havering,12,14,21,29,16,15,22,16,20,17,9,7,17,16,24,16,9,14,25,31,28,13,13,17
+Public Order Offences,Violent Disorder,Havering,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Robbery,Robbery of Business Property,Havering,9,3,10,3,6,5,4,2,9,1,6,9,3,3,5,10,1,1,2,3,4,9,9,3
+Robbery,Robbery of Personal Property,Havering,57,63,45,83,69,54,38,57,44,37,61,47,29,36,34,23,14,15,35,37,41,27,39,29
+Sexual Offences,Other Sexual Offences,Havering,18,23,21,33,30,37,25,34,22,22,30,19,21,35,30,30,18,23,13,24,37,22,41,17
+Sexual Offences,Rape,Havering,10,12,12,17,10,5,18,9,15,13,8,21,17,11,8,7,7,12,5,13,7,12,11,10
+Theft,Bicycle Theft,Havering,11,12,15,14,14,16,15,27,13,13,12,7,3,9,10,13,5,8,17,16,11,23,13,11
+Theft,Other Theft,Havering,186,184,144,186,185,193,178,176,151,150,163,162,150,175,141,131,59,85,119,127,143,185,146,116
+Theft,Shoplifting,Havering,111,92,101,100,103,140,118,104,124,121,187,136,108,115,124,94,37,68,57,113,129,119,133,118
+Theft,Theft from Person,Havering,33,34,37,33,45,52,27,33,16,28,34,33,39,27,46,25,3,8,7,25,22,19,34,32
+Vehicle Offences,Aggravated Vehicle Taking,Havering,3,1,3,2,0,6,4,8,0,0,4,1,6,1,5,4,1,2,2,3,7,4,1,2
+Vehicle Offences,Interfering with a Motor Vehicle,Havering,22,39,26,27,37,37,26,26,34,28,32,35,28,50,42,32,18,18,18,29,26,19,21,16
+Vehicle Offences,Theft from a Motor Vehicle,Havering,87,96,86,108,83,96,98,92,110,118,131,132,123,137,113,96,52,56,60,109,85,97,90,75
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Havering,106,123,121,114,114,118,103,112,89,97,125,118,80,112,123,83,59,72,90,64,71,112,99,102
+Violence Against the Person,Homicide,Havering,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Violence Against the Person,Violence with Injury,Havering,160,167,153,144,156,160,135,172,158,167,173,140,153,142,129,138,99,127,122,151,155,109,147,110
+Violence Against the Person,Violence without Injury,Havering,289,266,282,296,316,298,273,337,309,297,342,250,321,288,269,286,257,250,275,321,375,301,358,296
+Arson and Criminal Damage,Arson,Hillingdon,5,8,9,4,6,8,9,12,3,11,5,12,5,7,2,3,9,7,9,7,8,3,4,3
+Arson and Criminal Damage,Criminal Damage,Hillingdon,189,135,148,219,198,181,179,160,176,189,217,172,168,168,142,170,130,145,174,183,162,170,124,136
+Burglary,Burglary - Business and Community,Hillingdon,30,45,34,47,40,38,52,33,45,41,24,31,41,33,53,38,34,30,35,20,30,29,24,22
+Burglary,Burglary - Residential,Hillingdon,173,237,183,212,146,156,158,146,158,189,244,258,219,183,153,113,76,101,112,79,102,158,188,141
+Drug Offences,Drug Trafficking,Hillingdon,9,5,8,15,10,8,9,9,9,6,5,13,8,9,11,16,12,17,11,10,12,5,6,10
+Drug Offences,Possession of Drugs,Hillingdon,67,89,127,108,88,108,118,120,114,106,110,78,72,129,101,127,148,203,158,119,84,102,112,133
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Hillingdon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bail Offences,Hillingdon,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bigamy,Hillingdon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Hillingdon,0,1,0,1,0,2,0,0,0,2,0,0,2,1,1,2,1,4,3,1,0,2,0,0
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Hillingdon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Hillingdon,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Hillingdon,0,1,0,0,1,0,0,0,0,0,2,0,0,1,0,1,0,0,0,0,0,1,1,1
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Hillingdon,0,3,2,2,0,1,1,0,1,2,1,2,1,0,2,2,2,1,2,0,0,0,2,0
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Hillingdon,1,0,2,0,0,3,0,3,1,1,1,1,1,0,1,2,0,2,0,1,0,0,0,0
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Hillingdon,0,3,2,1,0,3,2,2,0,0,0,3,1,1,2,2,0,0,0,3,0,0,0,1
+Miscellaneous Crimes Against Society,Obscene Publications,Hillingdon,8,6,6,3,9,4,4,6,4,10,8,8,5,10,12,10,8,7,14,9,13,15,18,12
+Miscellaneous Crimes Against Society,Offender Management Act,Hillingdon,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Miscellaneous Crimes Against Society,Other Forgery,Hillingdon,2,0,3,1,3,1,0,1,2,1,3,4,0,1,8,2,1,0,1,4,0,0,1,0
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Hillingdon,2,6,2,5,1,3,4,3,5,3,3,1,5,2,5,3,5,10,4,1,2,4,2,2
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Hillingdon,2,1,2,3,2,2,3,1,1,2,1,1,3,4,2,2,1,0,3,3,2,2,0,2
+Miscellaneous Crimes Against Society,Possession of False Documents,Hillingdon,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1,1
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Hillingdon,1,0,1,0,1,0,2,1,0,1,1,5,1,0,0,3,1,1,2,1,2,0,1,2
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Hillingdon,9,7,5,5,6,8,8,15,9,5,6,8,9,12,10,7,7,18,15,13,10,16,8,9
+Possession of Weapons,Other Firearm Offences,Hillingdon,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Hillingdon,8,4,5,7,3,5,6,4,3,6,7,7,4,8,10,11,8,11,10,6,0,8,2,9
+Possession of Weapons,Possession of Firearm with Intent,Hillingdon,1,2,1,0,0,0,1,0,2,0,1,2,1,4,1,1,1,0,3,4,1,1,0,1
+Possession of Weapons,Possession of Firearms Offences,Hillingdon,0,3,1,5,3,1,2,0,5,2,1,0,2,2,0,1,0,0,2,6,1,0,0,0
+Possession of Weapons,Possession of Other Weapon,Hillingdon,6,7,7,13,6,3,4,1,11,2,6,6,5,5,3,7,3,7,7,4,5,6,8,7
+Public Order Offences,"Other Offences Against the State, or Public Order",Hillingdon,13,15,15,19,11,21,16,23,9,15,12,7,10,10,14,11,11,13,23,18,15,10,13,15
+Public Order Offences,Public Fear Alarm or Distress,Hillingdon,82,56,80,111,90,121,112,109,119,98,98,100,109,88,92,128,89,103,112,155,151,105,104,121
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Hillingdon,22,22,22,20,22,25,19,26,23,26,22,20,26,14,16,35,30,26,48,40,40,38,18,26
+Public Order Offences,Violent Disorder,Hillingdon,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Robbery,Robbery of Business Property,Hillingdon,8,6,6,11,12,3,3,10,13,11,20,10,10,10,10,7,2,5,5,4,3,6,5,7
+Robbery,Robbery of Personal Property,Hillingdon,61,72,70,76,84,45,55,52,45,54,65,44,40,59,38,40,22,25,32,42,42,38,53,50
+Sexual Offences,Other Sexual Offences,Hillingdon,33,18,33,28,22,26,21,34,20,26,22,28,28,16,23,20,14,25,21,25,27,25,48,27
+Sexual Offences,Rape,Hillingdon,9,17,15,11,17,13,17,18,6,21,10,20,13,18,19,18,22,16,20,11,24,15,17,15
+Theft,Bicycle Theft,Hillingdon,14,21,18,23,19,27,17,32,37,39,31,36,10,14,14,13,22,33,16,36,26,24,21,19
+Theft,Other Theft,Hillingdon,263,279,229,239,270,251,261,286,225,208,277,251,254,240,245,207,121,130,155,185,199,179,197,210
+Theft,Shoplifting,Hillingdon,125,104,123,119,139,115,159,145,155,177,184,207,139,144,154,181,63,98,119,123,140,122,121,139
+Theft,Theft from Person,Hillingdon,54,58,49,44,44,38,47,40,32,36,43,56,50,40,33,39,13,8,16,15,21,23,32,21
+Vehicle Offences,Aggravated Vehicle Taking,Hillingdon,2,3,3,6,5,3,5,2,6,3,2,1,3,3,6,5,1,0,4,2,4,4,2,5
+Vehicle Offences,Interfering with a Motor Vehicle,Hillingdon,42,72,51,42,59,53,51,76,67,55,84,67,47,62,62,54,39,39,44,49,58,63,45,55
+Vehicle Offences,Theft from a Motor Vehicle,Hillingdon,201,239,180,223,216,212,216,246,275,234,279,266,225,296,229,215,126,174,238,202,222,273,260,246
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Hillingdon,95,118,88,79,74,67,64,66,90,81,102,98,111,92,77,62,39,57,54,71,78,59,89,69
+Violence Against the Person,Homicide,Hillingdon,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0
+Violence Against the Person,Violence with Injury,Hillingdon,236,189,199,212,200,198,208,240,216,216,165,201,224,202,202,198,140,201,213,212,228,187,159,179
+Violence Against the Person,Violence without Injury,Hillingdon,406,383,381,417,389,432,448,435,389,400,424,434,391,389,359,392,390,452,464,474,548,471,454,457
+Arson and Criminal Damage,Arson,Hounslow,10,8,4,6,5,14,10,11,7,10,7,3,2,3,6,12,5,9,4,9,6,4,6,8
+Arson and Criminal Damage,Criminal Damage,Hounslow,156,136,159,166,144,163,154,163,112,143,153,150,177,146,133,135,122,140,124,144,128,146,138,128
+Burglary,Burglary - Business and Community,Hounslow,47,60,98,59,48,47,38,22,36,56,41,40,31,36,40,52,43,35,21,41,49,26,33,27
+Burglary,Burglary - Residential,Hounslow,144,131,138,168,112,111,110,115,132,164,168,172,127,135,123,112,90,89,101,113,104,119,130,121
+Drug Offences,Drug Trafficking,Hounslow,11,8,11,7,13,6,15,7,6,4,10,11,5,18,12,18,16,8,15,14,12,15,10,9
+Drug Offences,Possession of Drugs,Hounslow,130,136,145,159,130,116,135,133,140,150,128,127,93,123,113,133,175,176,140,110,92,93,94,131
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Hounslow,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bail Offences,Hounslow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Hounslow,0,0,1,1,0,2,1,1,0,0,0,0,1,1,1,2,3,0,1,0,0,2,1,0
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Hounslow,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Hounslow,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Hounslow,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Hounslow,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Hounslow,3,1,1,2,0,1,2,2,2,6,1,6,0,2,1,0,3,1,2,1,0,3,2,2
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Hounslow,2,1,3,2,0,1,0,0,1,2,3,3,0,1,3,0,1,4,1,2,0,3,0,2
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Hounslow,2,4,2,2,0,1,3,1,3,0,2,3,1,1,3,1,0,1,1,0,0,0,0,3
+Miscellaneous Crimes Against Society,Obscene Publications,Hounslow,9,6,7,10,3,7,5,8,8,3,2,16,9,18,8,12,8,8,16,12,6,11,11,14
+Miscellaneous Crimes Against Society,Offender Management Act,Hounslow,3,1,1,4,2,1,6,5,0,4,2,4,0,3,5,1,1,0,1,1,0,3,3,4
+Miscellaneous Crimes Against Society,Other Forgery,Hounslow,1,3,0,2,2,1,1,1,2,0,0,1,1,0,2,0,0,1,1,2,2,2,1,1
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Hounslow,3,2,2,3,2,5,1,6,1,5,6,1,2,1,1,6,5,5,9,3,4,6,3,1
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Hounslow,0,3,1,2,2,1,1,1,1,2,1,6,1,0,3,2,2,0,1,6,4,2,3,3
+Miscellaneous Crimes Against Society,Possession of False Documents,Hounslow,1,0,0,2,0,1,1,1,0,0,0,2,1,0,1,2,0,2,0,1,1,0,0,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Hounslow,1,2,4,0,2,1,2,0,0,2,2,1,1,4,2,2,6,4,3,3,0,1,1,1
+Miscellaneous Crimes Against Society,Soliciting for Prostitution,Hounslow,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Hounslow,3,9,9,4,8,11,7,5,5,16,6,3,8,3,7,5,6,8,11,14,5,10,16,5
+Miscellaneous Crimes Against Society,Wildlife Crime,Hounslow,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Possession of Weapons,Other Firearm Offences,Hounslow,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,1,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Hounslow,16,7,13,15,10,9,12,2,7,8,6,9,5,16,9,5,10,7,4,7,3,5,10,0
+Possession of Weapons,Possession of Firearm with Intent,Hounslow,2,0,0,0,3,2,0,2,0,1,0,0,0,2,1,2,1,1,1,0,1,1,0,0
+Possession of Weapons,Possession of Firearms Offences,Hounslow,3,2,5,2,1,4,2,2,2,4,2,0,0,3,4,5,3,0,1,0,1,1,2,5
+Possession of Weapons,Possession of Other Weapon,Hounslow,11,7,7,11,10,7,6,1,3,4,8,8,9,10,8,8,7,7,8,6,4,2,6,5
+Public Order Offences,"Other Offences Against the State, or Public Order",Hounslow,13,12,12,18,10,8,11,19,15,12,12,8,14,10,11,15,17,21,9,20,15,19,19,13
+Public Order Offences,Public Fear Alarm or Distress,Hounslow,84,91,95,103,109,96,141,137,100,100,107,85,98,98,94,93,91,73,97,114,110,132,97,64
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Hounslow,22,14,26,24,39,31,42,39,23,32,30,28,18,20,20,23,18,29,39,41,45,44,31,37
+Public Order Offences,Violent Disorder,Hounslow,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Robbery,Robbery of Business Property,Hounslow,6,9,5,1,5,7,3,1,3,4,1,3,3,7,1,5,1,0,2,7,4,2,7,11
+Robbery,Robbery of Personal Property,Hounslow,72,48,63,74,93,59,62,59,45,65,48,54,41,44,49,59,42,31,42,52,46,74,39,36
+Sexual Offences,Other Sexual Offences,Hounslow,24,28,24,29,31,25,25,34,17,27,22,36,32,29,23,33,26,22,19,26,42,28,31,21
+Sexual Offences,Rape,Hounslow,15,14,23,21,19,14,11,21,16,19,17,21,12,18,12,9,7,13,11,12,18,21,22,20
+Theft,Bicycle Theft,Hounslow,39,41,41,53,64,44,75,91,63,77,53,38,33,50,23,28,27,44,57,53,59,69,54,54
+Theft,Other Theft,Hounslow,229,254,233,256,244,279,238,279,244,236,251,225,273,227,217,203,142,166,168,182,205,211,215,187
+Theft,Shoplifting,Hounslow,74,93,107,112,96,101,110,121,129,85,113,121,111,108,94,67,46,59,77,96,81,91,99,73
+Theft,Theft from Person,Hounslow,60,48,52,56,47,48,55,55,44,33,49,63,41,37,42,40,11,14,13,27,24,36,45,22
+Vehicle Offences,Aggravated Vehicle Taking,Hounslow,3,2,3,3,2,1,6,2,2,1,4,2,4,3,0,1,1,2,3,4,2,3,2,4
+Vehicle Offences,Interfering with a Motor Vehicle,Hounslow,34,52,59,71,49,49,43,41,55,47,63,34,73,75,57,60,58,62,47,39,43,35,41,41
+Vehicle Offences,Theft from a Motor Vehicle,Hounslow,244,245,234,233,243,191,214,220,214,227,251,216,295,291,225,196,167,144,173,230,160,222,228,213
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Hounslow,93,74,64,75,70,68,57,74,62,73,75,77,83,82,58,82,55,61,61,52,63,95,85,72
+Violence Against the Person,Homicide,Hounslow,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,2,0
+Violence Against the Person,Violence with Injury,Hounslow,201,210,178,216,214,222,243,214,200,204,202,226,198,200,194,203,175,200,237,224,222,193,177,183
+Violence Against the Person,Violence without Injury,Hounslow,386,366,366,403,395,413,431,520,372,416,447,471,487,446,441,446,392,480,439,511,493,490,436,431
+Arson and Criminal Damage,Arson,Islington,3,2,3,0,6,6,2,6,4,2,5,9,1,3,1,6,2,1,6,1,4,5,4,7
+Arson and Criminal Damage,Criminal Damage,Islington,135,139,127,128,118,111,117,119,118,121,148,117,114,140,112,117,95,113,110,132,120,133,108,114
+Burglary,Burglary - Business and Community,Islington,50,77,60,74,80,61,58,77,60,70,71,73,79,96,72,72,54,33,51,52,54,48,45,50
+Burglary,Burglary - Residential,Islington,191,218,148,145,116,138,137,180,138,151,172,128,148,141,105,95,85,126,125,134,116,126,127,137
+Drug Offences,Drug Trafficking,Islington,7,11,8,3,3,6,14,14,6,5,9,10,8,10,10,5,9,5,2,8,6,5,2,9
+Drug Offences,Possession of Drugs,Islington,100,90,95,104,96,97,86,126,109,84,110,128,122,131,158,105,140,155,136,140,74,82,117,98
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Islington,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bail Offences,Islington,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Islington,1,0,0,2,0,2,1,1,5,0,3,0,1,1,1,2,0,0,2,0,2,2,4,1
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Islington,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Islington,0,0,0,0,1,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Islington,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Islington,1,1,1,1,1,3,1,5,0,1,1,0,1,4,1,3,1,4,2,0,2,0,2,0
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Islington,5,3,1,3,4,8,2,4,2,1,9,4,0,3,4,6,3,4,7,2,3,2,2,3
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Islington,2,2,1,1,3,1,3,0,1,1,1,0,1,0,2,0,1,4,0,0,0,0,2,1
+Miscellaneous Crimes Against Society,Obscene Publications,Islington,4,7,1,4,2,6,1,4,5,4,2,4,5,3,7,5,6,3,7,7,3,4,4,4
+Miscellaneous Crimes Against Society,Offender Management Act,Islington,4,4,6,1,3,6,4,1,2,1,3,0,2,5,5,1,1,0,0,1,2,0,1,0
+Miscellaneous Crimes Against Society,Other Forgery,Islington,2,7,2,6,7,5,4,7,6,2,3,2,6,1,1,1,1,1,0,0,2,0,0,1
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Islington,0,1,2,0,1,0,0,1,0,0,0,0,0,1,1,1,1,3,1,0,2,0,1,2
+Miscellaneous Crimes Against Society,Perjury,Islington,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Islington,1,0,5,2,2,6,2,2,3,2,3,1,1,2,5,2,1,0,4,0,2,2,3,0
+Miscellaneous Crimes Against Society,Possession of False Documents,Islington,1,1,1,0,0,2,1,0,0,0,1,1,0,0,1,0,0,2,0,1,0,0,0,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Islington,0,1,2,0,0,3,3,1,0,2,1,0,1,0,1,1,1,1,0,0,2,0,0,1
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Islington,1,0,1,3,4,1,5,4,3,4,3,3,5,1,3,4,2,5,1,3,5,9,5,1
+Possession of Weapons,Other Firearm Offences,Islington,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Islington,7,7,10,4,8,12,10,11,13,3,5,8,10,10,8,5,5,12,8,6,8,4,6,10
+Possession of Weapons,Possession of Firearm with Intent,Islington,0,0,0,1,1,1,1,2,1,0,2,0,0,1,0,0,1,1,0,0,1,0,0,1
+Possession of Weapons,Possession of Firearms Offences,Islington,0,3,2,2,3,1,0,3,1,0,0,1,3,2,2,1,2,0,1,2,1,0,1,0
+Possession of Weapons,Possession of Other Weapon,Islington,9,20,13,16,5,7,4,16,11,11,6,5,4,11,7,6,4,10,4,4,3,9,9,3
+Public Order Offences,"Other Offences Against the State, or Public Order",Islington,15,20,15,19,17,20,31,13,21,19,17,17,20,13,16,9,13,11,17,22,22,16,18,19
+Public Order Offences,Public Fear Alarm or Distress,Islington,85,81,89,98,107,108,93,118,111,101,95,102,104,106,125,82,93,122,117,123,175,136,111,94
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Islington,39,17,31,34,28,28,17,40,21,31,32,21,36,24,32,31,27,29,44,48,55,41,29,23
+Public Order Offences,Violent Disorder,Islington,1,0,1,1,0,0,0,1,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+Robbery,Robbery of Business Property,Islington,11,10,7,17,5,11,7,9,1,7,6,11,10,3,9,7,2,5,9,5,6,6,12,13
+Robbery,Robbery of Personal Property,Islington,101,109,92,110,123,119,111,151,155,107,122,163,133,149,161,103,37,46,48,72,114,100,83,68
+Sexual Offences,Other Sexual Offences,Islington,41,26,18,43,50,46,29,36,26,30,29,43,32,28,30,13,14,15,19,36,35,29,19,14
+Sexual Offences,Rape,Islington,14,29,16,16,24,16,15,16,21,14,21,20,18,28,15,18,16,12,18,19,18,17,27,17
+Theft,Bicycle Theft,Islington,70,70,47,52,83,92,104,133,93,107,122,86,61,62,70,79,65,122,161,149,191,148,173,141
+Theft,Other Theft,Islington,414,416,385,413,456,456,350,459,401,382,419,445,471,412,404,263,117,126,142,226,279,246,279,183
+Theft,Shoplifting,Islington,93,115,123,129,136,122,121,115,119,121,122,140,113,102,135,74,50,61,79,98,84,120,101,82
+Theft,Theft from Person,Islington,233,216,214,198,229,256,246,326,288,260,383,276,227,294,331,196,51,59,65,128,169,241,231,196
+Vehicle Offences,Aggravated Vehicle Taking,Islington,1,2,1,2,1,2,1,2,0,4,2,3,0,2,0,1,2,1,2,0,2,1,2,0
+Vehicle Offences,Interfering with a Motor Vehicle,Islington,27,34,25,35,34,15,33,25,23,36,37,44,21,31,29,31,28,18,32,24,22,23,28,26
+Vehicle Offences,Theft from a Motor Vehicle,Islington,150,162,127,187,187,182,140,188,162,278,252,181,153,191,168,122,76,118,136,176,161,192,178,181
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Islington,49,54,42,52,57,43,39,53,56,52,64,53,48,55,33,51,41,31,39,51,31,42,44,28
+Violence Against the Person,Homicide,Islington,0,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,1,0,1,0,1,0,0
+Violence Against the Person,Violence with Injury,Islington,226,183,163,197,209,206,202,210,182,195,201,199,183,193,164,173,121,145,170,188,200,181,132,141
+Violence Against the Person,Violence without Injury,Islington,307,343,326,408,315,316,324,370,305,322,368,367,292,341,330,308,314,330,362,388,409,397,314,311
+Arson and Criminal Damage,Arson,Kensington and Chelsea,5,1,1,0,2,1,4,1,3,2,2,0,2,2,0,0,1,1,1,0,2,1,4,2
+Arson and Criminal Damage,Criminal Damage,Kensington and Chelsea,81,85,83,86,83,83,112,77,92,70,74,101,91,64,65,63,47,59,80,84,89,80,84,77
+Burglary,Burglary - Business and Community,Kensington and Chelsea,37,52,50,56,59,50,89,63,67,58,79,66,52,63,53,52,26,18,26,20,21,39,42,37
+Burglary,Burglary - Residential,Kensington and Chelsea,99,96,93,117,112,84,133,132,130,140,122,127,140,150,126,105,67,57,80,123,111,101,86,73
+Drug Offences,Drug Trafficking,Kensington and Chelsea,4,4,0,1,2,3,2,4,8,1,2,5,2,6,4,2,2,10,3,4,1,1,3,2
+Drug Offences,Possession of Drugs,Kensington and Chelsea,112,89,80,114,94,92,65,76,439,103,70,79,52,84,68,64,118,164,89,105,87,52,68,78
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Kensington and Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Kensington and Chelsea,0,1,0,0,1,0,0,0,0,2,1,0,1,1,0,1,1,1,0,2,0,1,1,0
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Kensington and Chelsea,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Kensington and Chelsea,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Kensington and Chelsea,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Kensington and Chelsea,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Kensington and Chelsea,2,0,2,1,3,0,1,1,1,0,0,5,4,1,2,3,0,2,2,4,1,2,2,1
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Kensington and Chelsea,1,1,0,2,1,4,0,4,4,0,1,0,1,0,0,2,0,2,1,0,0,0,0,0
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Kensington and Chelsea,0,0,1,2,4,2,1,3,2,3,1,1,2,3,2,2,1,0,2,2,0,2,0,3
+Miscellaneous Crimes Against Society,Obscene Publications,Kensington and Chelsea,2,4,1,3,2,2,1,1,0,1,1,0,1,2,0,1,3,3,3,3,4,4,2,4
+Miscellaneous Crimes Against Society,Other Forgery,Kensington and Chelsea,3,6,2,2,1,4,0,2,2,1,1,2,1,3,1,2,1,0,0,0,0,2,4,1
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Kensington and Chelsea,0,0,1,1,1,0,1,1,0,2,1,1,0,0,0,0,0,1,2,2,0,0,2,1
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Kensington and Chelsea,1,0,0,0,1,0,0,1,0,1,1,0,1,2,0,1,0,0,1,0,0,0,3,1
+Miscellaneous Crimes Against Society,Possession of False Documents,Kensington and Chelsea,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Kensington and Chelsea,0,0,0,1,0,0,0,0,1,0,0,0,1,2,1,0,2,4,1,0,0,0,1,1
+Miscellaneous Crimes Against Society,Soliciting for Prostitution,Kensington and Chelsea,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Kensington and Chelsea,1,3,2,1,3,2,2,2,1,1,1,2,1,0,1,2,3,2,0,4,5,4,3,2
+Possession of Weapons,Other Firearm Offences,Kensington and Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+Possession of Weapons,Possession of Article with Blade or Point,Kensington and Chelsea,8,2,2,7,1,9,3,5,13,5,3,3,6,4,6,7,3,8,7,4,3,4,4,5
+Possession of Weapons,Possession of Firearm with Intent,Kensington and Chelsea,1,0,0,0,0,1,1,0,1,0,0,2,0,1,0,0,0,0,0,1,0,1,0,1
+Possession of Weapons,Possession of Firearms Offences,Kensington and Chelsea,1,1,0,3,0,3,0,3,1,2,1,0,1,1,1,1,1,1,0,4,1,1,0,3
+Possession of Weapons,Possession of Other Weapon,Kensington and Chelsea,2,6,2,0,8,4,1,2,13,2,7,2,3,6,2,7,3,5,7,4,5,2,7,2
+Public Order Offences,"Other Offences Against the State, or Public Order",Kensington and Chelsea,6,5,9,6,10,8,8,15,15,7,5,8,4,4,8,9,5,9,8,9,18,10,5,5
+Public Order Offences,Public Fear Alarm or Distress,Kensington and Chelsea,58,51,61,74,68,75,90,99,67,80,65,74,78,56,66,53,52,69,66,108,74,70,76,70
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Kensington and Chelsea,24,21,22,23,12,25,20,31,28,21,16,25,24,17,15,14,13,27,27,34,27,23,16,20
+Public Order Offences,Violent Disorder,Kensington and Chelsea,0,0,1,0,0,2,1,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0
+Robbery,Robbery of Business Property,Kensington and Chelsea,5,8,3,5,6,3,9,5,3,7,5,9,4,5,7,5,3,5,5,1,5,4,4,4
+Robbery,Robbery of Personal Property,Kensington and Chelsea,52,48,72,59,70,64,69,73,81,96,92,106,98,74,84,60,15,26,16,38,38,59,48,37
+Sexual Offences,Other Sexual Offences,Kensington and Chelsea,21,14,14,27,15,15,23,17,27,22,14,16,32,25,18,22,8,15,16,15,21,18,17,28
+Sexual Offences,Rape,Kensington and Chelsea,16,14,9,12,11,6,8,15,15,2,24,9,10,11,15,14,11,8,11,24,9,8,13,17
+Theft,Bicycle Theft,Kensington and Chelsea,32,35,40,62,50,77,88,85,71,49,56,58,37,34,39,40,45,66,87,108,80,80,87,70
+Theft,Other Theft,Kensington and Chelsea,370,399,373,410,384,402,420,496,487,402,402,469,466,384,366,234,70,102,135,197,260,272,301,148
+Theft,Shoplifting,Kensington and Chelsea,157,120,114,139,125,144,154,157,203,145,152,180,180,179,108,97,26,33,74,106,90,119,122,51
+Theft,Theft from Person,Kensington and Chelsea,175,131,163,156,122,130,162,179,264,129,189,153,152,138,136,83,16,12,23,42,44,61,100,45
+Vehicle Offences,Aggravated Vehicle Taking,Kensington and Chelsea,1,3,1,1,2,1,1,2,3,0,0,2,2,2,0,1,1,1,1,1,0,0,2,2
+Vehicle Offences,Interfering with a Motor Vehicle,Kensington and Chelsea,28,29,30,30,31,33,23,29,20,35,50,27,36,22,15,18,12,5,16,27,14,41,33,14
+Vehicle Offences,Theft from a Motor Vehicle,Kensington and Chelsea,221,223,202,254,232,230,204,205,210,275,301,272,342,263,178,178,51,47,80,177,180,224,193,109
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Kensington and Chelsea,46,47,37,56,46,45,47,45,45,65,54,50,51,42,45,37,19,24,34,38,35,66,57,44
+Violence Against the Person,Homicide,Kensington and Chelsea,0,0,0,1,0,2,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Violence Against the Person,Violence with Injury,Kensington and Chelsea,125,105,82,119,104,114,124,141,188,117,128,115,123,117,117,90,73,85,115,111,92,114,104,89
+Violence Against the Person,Violence without Injury,Kensington and Chelsea,225,204,212,190,206,214,246,259,271,211,290,274,211,208,218,203,195,219,247,260,255,229,249,206
+Arson and Criminal Damage,Arson,Kingston upon Thames,0,2,0,2,5,5,2,4,4,2,4,1,4,1,0,0,3,0,2,1,0,0,2,3
+Arson and Criminal Damage,Criminal Damage,Kingston upon Thames,72,83,73,69,89,83,71,69,73,75,73,74,79,66,73,59,44,47,60,74,70,54,61,58
+Burglary,Burglary - Business and Community,Kingston upon Thames,10,13,26,16,15,15,23,24,17,14,10,16,10,20,18,12,5,4,9,5,5,9,5,8
+Burglary,Burglary - Residential,Kingston upon Thames,74,78,76,72,50,46,58,72,51,61,78,87,77,122,117,56,35,33,55,70,58,59,49,49
+Drug Offences,Drug Trafficking,Kingston upon Thames,1,3,4,11,77,11,2,3,6,1,4,3,6,1,2,3,5,12,3,7,5,2,7,7
+Drug Offences,Possession of Drugs,Kingston upon Thames,32,38,46,96,56,71,54,84,69,88,56,54,59,114,69,68,98,147,106,75,82,79,76,86
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Kingston upon Thames,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Kingston upon Thames,0,0,1,0,1,2,0,0,0,0,0,1,0,1,0,0,0,1,1,1,0,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Kingston upon Thames,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Kingston upon Thames,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Kingston upon Thames,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Kingston upon Thames,2,0,2,0,1,1,2,1,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Kingston upon Thames,0,0,2,0,0,2,0,1,0,1,1,0,2,3,1,1,1,1,0,1,1,0,0,1
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Kingston upon Thames,0,0,0,0,1,1,0,0,1,2,0,2,0,1,1,0,0,1,0,0,0,0,0,1
+Miscellaneous Crimes Against Society,Obscene Publications,Kingston upon Thames,2,6,2,2,4,3,3,3,7,5,2,3,5,5,2,7,2,5,4,7,6,6,3,4
+Miscellaneous Crimes Against Society,Other Forgery,Kingston upon Thames,0,1,3,1,6,3,1,0,3,1,5,1,1,1,0,1,0,1,0,0,2,0,1,0
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Kingston upon Thames,1,0,1,0,0,2,0,2,1,3,0,0,1,0,0,0,0,1,1,0,1,1,1,1
+Miscellaneous Crimes Against Society,Perjury,Kingston upon Thames,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Kingston upon Thames,0,0,1,1,5,0,0,1,1,0,0,0,0,1,2,0,1,1,1,1,0,0,0,3
+Miscellaneous Crimes Against Society,Possession of False Documents,Kingston upon Thames,0,0,1,2,0,0,0,1,0,0,0,1,2,1,0,0,0,0,1,1,0,1,0,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Kingston upon Thames,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Kingston upon Thames,1,3,3,3,3,5,7,3,5,0,4,7,3,1,2,1,2,4,4,3,1,5,6,2
+Possession of Weapons,Other Firearm Offences,Kingston upon Thames,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Kingston upon Thames,4,2,1,5,4,2,2,0,4,3,3,6,7,1,4,5,4,3,3,2,2,2,4,1
+Possession of Weapons,Possession of Firearm with Intent,Kingston upon Thames,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Possession of Weapons,Possession of Firearms Offences,Kingston upon Thames,1,0,3,2,1,1,1,0,0,1,0,0,1,0,1,1,1,0,0,1,1,2,1,0
+Possession of Weapons,Possession of Other Weapon,Kingston upon Thames,2,3,5,1,2,2,2,5,4,2,5,5,1,3,1,7,1,1,3,3,5,3,1,5
+Public Order Offences,"Other Offences Against the State, or Public Order",Kingston upon Thames,11,4,14,7,14,19,17,12,17,8,10,9,13,14,10,7,14,7,13,9,12,17,9,12
+Public Order Offences,Public Fear Alarm or Distress,Kingston upon Thames,37,53,43,40,42,46,51,46,63,53,59,47,47,48,45,30,21,30,34,48,53,61,58,37
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Kingston upon Thames,7,5,12,15,7,12,21,21,11,12,14,13,10,13,14,10,10,13,13,20,17,18,9,8
+Public Order Offences,Violent Disorder,Kingston upon Thames,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Robbery,Robbery of Business Property,Kingston upon Thames,0,4,2,2,3,3,3,7,6,3,3,3,1,2,2,6,0,1,1,5,0,4,2,4
+Robbery,Robbery of Personal Property,Kingston upon Thames,25,23,16,35,36,29,22,25,24,28,34,31,23,24,16,19,6,6,14,15,18,16,18,26
+Sexual Offences,Other Sexual Offences,Kingston upon Thames,24,15,8,21,19,19,13,20,16,20,20,29,16,24,24,15,12,19,18,25,25,19,27,27
+Sexual Offences,Rape,Kingston upon Thames,11,12,13,14,12,14,16,13,16,10,12,11,10,13,16,16,11,13,15,24,9,16,12,11
+Theft,Bicycle Theft,Kingston upon Thames,33,43,39,61,38,55,63,70,52,37,35,24,29,35,16,24,20,30,37,70,54,58,56,33
+Theft,Other Theft,Kingston upon Thames,111,118,110,110,126,120,115,132,102,106,124,139,112,105,106,101,60,64,74,81,104,101,89,80
+Theft,Shoplifting,Kingston upon Thames,72,79,67,73,82,88,102,114,88,86,58,90,79,55,55,61,28,26,29,53,46,55,50,43
+Theft,Theft from Person,Kingston upon Thames,57,44,45,37,41,30,44,57,32,37,72,57,50,38,40,27,0,3,17,34,33,38,42,20
+Vehicle Offences,Aggravated Vehicle Taking,Kingston upon Thames,2,0,1,1,0,2,0,2,2,1,3,1,4,0,1,1,0,1,0,1,1,0,0,1
+Vehicle Offences,Interfering with a Motor Vehicle,Kingston upon Thames,15,30,24,15,33,28,15,23,21,13,10,10,15,12,14,14,16,14,18,17,14,16,15,24
+Vehicle Offences,Theft from a Motor Vehicle,Kingston upon Thames,66,84,101,70,97,97,99,102,61,71,57,75,73,82,58,68,32,55,64,62,55,53,52,77
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Kingston upon Thames,22,16,22,18,15,13,21,16,23,11,21,38,34,30,33,15,15,10,30,16,29,24,25,18
+Violence Against the Person,Homicide,Kingston upon Thames,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+Violence Against the Person,Violence with Injury,Kingston upon Thames,129,114,82,127,90,99,100,85,100,104,106,102,94,90,106,103,59,97,79,98,86,98,66,64
+Violence Against the Person,Violence without Injury,Kingston upon Thames,183,173,183,220,172,196,162,180,200,223,189,191,186,194,205,173,178,164,226,235,220,202,211,204
+Arson and Criminal Damage,Arson,Lambeth,7,3,4,10,2,11,5,4,5,5,5,4,11,3,4,4,3,4,7,4,3,4,3,3
+Arson and Criminal Damage,Criminal Damage,Lambeth,165,174,155,183,170,168,175,158,168,175,164,130,178,180,166,172,119,155,193,179,182,156,152,144
+Burglary,Burglary - Business and Community,Lambeth,67,70,53,77,74,64,55,69,45,56,72,69,61,71,53,74,54,38,43,55,50,46,56,44
+Burglary,Burglary - Residential,Lambeth,148,155,188,262,187,188,209,227,223,215,201,187,187,174,146,133,114,122,131,177,179,225,219,192
+Drug Offences,Drug Trafficking,Lambeth,10,22,18,12,6,12,13,19,15,17,2,12,10,14,13,11,20,9,27,11,20,10,12,16
+Drug Offences,Possession of Drugs,Lambeth,184,184,205,210,159,168,223,225,160,148,151,146,158,227,161,163,233,295,164,175,146,147,196,195
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Lambeth,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bail Offences,Lambeth,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bigamy,Lambeth,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Lambeth,4,1,1,1,1,2,2,1,1,1,2,1,1,1,1,2,2,2,2,3,2,2,1,0
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Lambeth,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Lambeth,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Lambeth,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Lambeth,1,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Lambeth,3,1,8,2,3,3,4,1,3,0,0,0,0,1,9,2,3,3,6,2,0,3,3,4
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Lambeth,3,3,1,6,3,1,0,6,8,2,4,2,4,2,2,5,2,2,4,3,1,3,4,5
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Lambeth,1,3,0,3,1,1,2,3,5,4,1,2,1,3,4,1,2,0,0,1,2,1,0,0
+Miscellaneous Crimes Against Society,Obscene Publications,Lambeth,11,7,10,7,4,10,11,3,11,5,8,12,6,15,13,10,11,8,11,8,7,10,9,12
+Miscellaneous Crimes Against Society,Offender Management Act,Lambeth,3,5,2,3,2,5,4,0,2,0,6,11,3,2,1,1,2,1,0,0,2,0,0,0
+Miscellaneous Crimes Against Society,Other Forgery,Lambeth,1,3,2,2,1,3,1,3,2,2,1,4,3,1,1,1,0,1,1,4,1,1,1,0
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Lambeth,4,1,1,1,1,4,1,1,2,0,2,5,1,1,1,0,0,3,1,5,1,6,3,2
+Miscellaneous Crimes Against Society,Perjury,Lambeth,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Lambeth,0,1,2,1,2,3,4,5,0,1,5,1,2,3,2,1,3,2,0,8,4,4,1,1
+Miscellaneous Crimes Against Society,Possession of False Documents,Lambeth,2,4,3,2,2,2,1,2,2,1,2,0,0,1,1,0,0,0,1,1,3,1,1,1
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Lambeth,3,2,1,3,5,3,6,7,4,2,0,3,2,2,2,5,5,5,8,2,10,11,1,6
+Miscellaneous Crimes Against Society,Soliciting for Prostitution,Lambeth,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,0,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Lambeth,5,7,0,5,5,8,4,4,7,6,8,5,8,7,3,6,3,4,4,9,2,7,7,4
+Possession of Weapons,Other Firearm Offences,Lambeth,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1
+Possession of Weapons,Possession of Article with Blade or Point,Lambeth,18,27,13,25,13,14,22,12,19,13,18,7,24,18,19,16,11,22,15,18,15,11,7,8
+Possession of Weapons,Possession of Firearm with Intent,Lambeth,3,0,0,0,1,3,2,1,3,3,4,5,1,0,2,4,1,0,0,1,3,0,1,1
+Possession of Weapons,Possession of Firearms Offences,Lambeth,1,2,3,4,5,3,5,2,2,0,3,0,2,4,3,0,2,4,5,2,3,3,1,0
+Possession of Weapons,Possession of Other Weapon,Lambeth,14,13,22,21,7,10,13,12,10,12,12,5,9,21,11,10,13,9,7,12,8,20,12,12
+Public Order Offences,"Other Offences Against the State, or Public Order",Lambeth,21,20,18,23,21,32,19,24,26,17,18,16,22,17,28,22,21,18,29,39,31,23,25,19
+Public Order Offences,Public Fear Alarm or Distress,Lambeth,86,107,92,104,112,118,157,157,142,125,141,132,95,132,102,127,87,120,128,175,160,157,129,126
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Lambeth,23,38,36,51,37,38,36,45,32,29,27,31,39,40,35,31,33,38,55,96,52,46,40,38
+Public Order Offences,Violent Disorder,Lambeth,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+Robbery,Robbery of Business Property,Lambeth,9,9,7,6,7,6,10,12,13,7,15,8,17,5,5,6,2,2,11,3,11,14,4,5
+Robbery,Robbery of Personal Property,Lambeth,87,73,90,104,92,96,73,115,106,133,123,150,104,93,100,91,48,38,75,83,115,110,103,107
+Sexual Offences,Other Sexual Offences,Lambeth,40,41,41,46,45,48,66,61,42,59,57,56,52,56,62,43,33,40,48,64,63,42,50,42
+Sexual Offences,Rape,Lambeth,29,31,45,47,22,32,41,42,28,34,41,36,37,37,40,26,14,27,37,43,31,28,40,45
+Theft,Bicycle Theft,Lambeth,66,77,52,62,88,98,101,151,95,110,71,87,54,69,41,69,57,92,134,139,172,189,149,123
+Theft,Other Theft,Lambeth,422,428,446,496,543,522,465,491,475,476,553,446,420,371,405,323,140,160,213,300,306,311,267,211
+Theft,Shoplifting,Lambeth,80,107,90,140,127,111,119,116,110,122,124,106,86,83,108,106,44,72,66,92,116,82,90,63
+Theft,Theft from Person,Lambeth,209,154,175,178,186,161,149,188,244,176,187,211,168,212,167,98,22,24,46,69,69,101,120,126
+Vehicle Offences,Aggravated Vehicle Taking,Lambeth,5,1,3,2,0,6,3,1,7,7,1,4,2,2,6,5,2,2,1,4,3,1,4,2
+Vehicle Offences,Interfering with a Motor Vehicle,Lambeth,65,59,45,46,41,52,53,36,42,32,33,45,52,65,53,31,22,26,26,27,31,39,33,23
+Vehicle Offences,Theft from a Motor Vehicle,Lambeth,197,206,154,169,160,176,152,156,185,180,216,175,212,200,148,103,57,117,118,172,198,179,152,117
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Lambeth,59,53,67,77,70,103,71,96,93,92,75,70,76,116,86,71,69,63,66,59,73,69,90,72
+Violence Against the Person,Homicide,Lambeth,0,0,1,2,0,0,1,0,2,0,0,0,0,0,0,0,2,1,0,1,1,1,0,1
+Violence Against the Person,Violence with Injury,Lambeth,264,266,269,284,293,324,340,336,316,285,260,287,271,259,260,255,216,215,290,302,299,284,244,229
+Violence Against the Person,Violence without Injury,Lambeth,402,422,447,502,428,465,460,484,477,476,535,510,492,423,419,484,416,522,510,538,581,520,456,520
+Arson and Criminal Damage,Arson,Lewisham,8,14,3,6,12,3,10,10,8,7,7,1,11,7,8,4,5,9,4,3,7,4,5,7
+Arson and Criminal Damage,Criminal Damage,Lewisham,160,137,165,206,188,181,180,170,143,165,200,167,164,165,158,163,175,162,206,192,170,167,160,135
+Burglary,Burglary - Business and Community,Lewisham,64,41,50,44,44,63,48,48,45,35,40,37,27,44,34,43,59,41,50,44,42,31,42,47
+Burglary,Burglary - Residential,Lewisham,215,196,194,178,161,186,173,168,190,197,196,148,166,184,178,130,128,133,164,139,179,162,197,213
+Drug Offences,Drug Trafficking,Lewisham,6,9,9,7,4,11,4,65,78,33,11,15,5,13,9,13,12,8,7,33,7,4,12,7
+Drug Offences,Possession of Drugs,Lewisham,118,114,86,125,95,116,94,101,110,84,90,115,86,102,105,110,174,238,125,113,78,50,109,112
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Lewisham,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bail Offences,Lewisham,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bigamy,Lewisham,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Lewisham,1,1,1,0,0,2,0,1,0,3,0,0,0,3,2,1,0,2,0,0,2,0,0,0
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Lewisham,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Lewisham,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Lewisham,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Lewisham,0,1,0,0,1,1,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Lewisham,2,1,1,0,2,1,2,1,1,2,3,5,1,2,1,0,2,1,0,2,0,0,1,1
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Lewisham,4,2,2,2,0,0,0,1,0,4,2,7,1,2,0,1,2,3,2,3,2,2,6,1
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Lewisham,2,1,1,0,1,1,0,0,0,2,1,1,2,0,2,0,2,3,1,2,1,0,0,1
+Miscellaneous Crimes Against Society,Obscene Publications,Lewisham,10,5,9,15,11,30,5,7,5,10,8,11,4,9,4,5,9,12,5,9,9,8,9,16
+Miscellaneous Crimes Against Society,Offender Management Act,Lewisham,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Miscellaneous Crimes Against Society,Other Forgery,Lewisham,2,2,1,4,1,7,1,2,1,2,0,5,1,0,1,2,2,1,0,0,1,0,2,2
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Lewisham,2,2,4,1,5,1,3,2,1,2,1,1,3,0,2,3,4,6,5,3,1,6,2,4
+Miscellaneous Crimes Against Society,Perjury,Lewisham,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Lewisham,0,1,2,1,1,3,0,1,2,0,1,1,1,1,1,2,1,0,0,2,3,1,0,2
+Miscellaneous Crimes Against Society,Possession of False Documents,Lewisham,3,0,1,0,1,0,2,1,1,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Lewisham,0,1,1,1,1,1,0,3,6,1,1,3,0,1,2,1,4,3,1,6,1,2,1,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Lewisham,5,8,6,9,5,9,7,2,8,7,10,8,9,4,3,12,11,7,11,10,7,9,6,9
+Possession of Weapons,Possession of Article with Blade or Point,Lewisham,12,14,14,8,10,16,13,12,13,12,14,12,8,12,11,12,12,15,9,7,16,9,5,11
+Possession of Weapons,Possession of Firearm with Intent,Lewisham,0,0,1,2,0,0,0,1,0,1,1,1,2,2,0,0,0,2,0,1,0,1,0,0
+Possession of Weapons,Possession of Firearms Offences,Lewisham,2,5,1,0,1,3,3,1,3,4,5,5,2,3,3,1,3,3,2,3,2,1,1,2
+Possession of Weapons,Possession of Other Weapon,Lewisham,7,12,6,14,8,13,9,7,14,10,6,16,19,13,9,14,7,7,8,11,6,11,11,11
+Public Order Offences,"Other Offences Against the State, or Public Order",Lewisham,13,17,9,16,8,20,16,8,20,11,14,23,19,10,18,16,20,23,25,28,21,21,21,18
+Public Order Offences,Public Fear Alarm or Distress,Lewisham,76,72,77,115,108,124,118,162,126,115,117,109,98,121,117,94,115,132,134,133,134,147,125,117
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Lewisham,38,33,22,19,23,29,23,44,28,28,42,36,38,35,26,22,30,28,48,52,52,49,34,26
+Robbery,Robbery of Business Property,Lewisham,7,3,9,5,8,11,15,11,9,21,7,9,8,7,11,14,5,11,7,9,11,11,6,9
+Robbery,Robbery of Personal Property,Lewisham,71,107,67,72,85,101,118,120,87,121,97,80,92,86,87,73,36,44,43,87,97,94,73,61
+Sexual Offences,Other Sexual Offences,Lewisham,28,28,28,31,23,25,37,36,29,40,30,44,27,36,55,32,25,25,39,43,43,41,50,33
+Sexual Offences,Rape,Lewisham,31,24,14,19,28,27,25,25,27,26,37,21,21,37,24,23,19,17,21,23,30,18,20,27
+Theft,Bicycle Theft,Lewisham,25,33,29,34,26,38,46,34,44,51,41,21,13,12,21,23,22,57,56,82,101,68,75,47
+Theft,Other Theft,Lewisham,240,221,230,263,258,274,250,277,248,245,243,263,232,198,210,189,156,172,197,198,217,213,209,191
+Theft,Shoplifting,Lewisham,95,99,91,108,113,135,101,118,130,121,109,89,96,92,120,109,65,78,86,124,125,140,105,112
+Theft,Theft from Person,Lewisham,50,64,53,66,79,68,80,79,79,82,66,68,66,59,51,56,21,15,25,44,29,48,51,50
+Vehicle Offences,Aggravated Vehicle Taking,Lewisham,1,2,4,3,4,7,7,1,7,3,5,3,4,5,2,3,3,3,6,3,2,4,5,3
+Vehicle Offences,Interfering with a Motor Vehicle,Lewisham,42,48,55,83,53,63,70,30,43,48,42,43,50,72,45,35,44,52,58,51,51,58,71,82
+Vehicle Offences,Theft from a Motor Vehicle,Lewisham,192,202,187,208,190,230,199,173,226,235,218,247,203,263,184,137,131,150,193,182,185,209,259,211
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Lewisham,72,85,92,71,94,112,97,86,103,86,104,64,77,100,86,80,67,73,65,69,69,72,106,68
+Violence Against the Person,Homicide,Lewisham,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+Violence Against the Person,Violence with Injury,Lewisham,246,284,236,252,234,278,256,269,256,250,267,263,242,233,203,225,194,234,204,268,247,220,199,214
+Violence Against the Person,Violence without Injury,Lewisham,412,393,386,475,440,462,410,523,416,493,474,504,437,467,418,456,447,500,482,523,505,526,508,459
+Arson and Criminal Damage,Arson,London Heathrow and London City Airports,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Arson and Criminal Damage,Criminal Damage,London Heathrow and London City Airports,5,7,6,5,2,5,4,8,4,2,7,5,11,5,8,5,3,1,2,1,2,5,6,3
+Burglary,Burglary - Business and Community,London Heathrow and London City Airports,1,1,2,3,3,4,3,9,1,1,1,3,0,1,2,0,0,0,0,0,0,0,1,1
+Burglary,Burglary - Residential,London Heathrow and London City Airports,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Drug Offences,Drug Trafficking,London Heathrow and London City Airports,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,1
+Drug Offences,Possession of Drugs,London Heathrow and London City Airports,3,4,6,8,4,7,6,6,7,8,9,6,6,6,4,5,3,3,2,2,2,3,7,3
+Miscellaneous Crimes Against Society,Bail Offences,London Heathrow and London City Airports,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",London Heathrow and London City Airports,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1,0,0,1,0,0,0,1,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,London Heathrow and London City Airports,0,0,0,0,1,1,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Handling Stolen Goods,London Heathrow and London City Airports,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",London Heathrow and London City Airports,2,0,0,0,0,1,1,0,0,0,1,0,3,0,1,1,0,0,0,0,0,0,0,1
+Miscellaneous Crimes Against Society,Obscene Publications,London Heathrow and London City Airports,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Other Forgery,London Heathrow and London City Airports,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Other Notifiable Offences,London Heathrow and London City Airports,90,72,87,91,83,100,119,112,110,105,100,86,115,82,69,70,7,7,8,23,22,40,28,22
+Miscellaneous Crimes Against Society,Perverting Course of Justice,London Heathrow and London City Airports,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Miscellaneous Crimes Against Society,Possession of False Documents,London Heathrow and London City Airports,1,1,0,2,2,1,1,1,0,0,0,0,2,0,1,1,0,0,1,1,1,1,2,1
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,London Heathrow and London City Airports,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,London Heathrow and London City Airports,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,London Heathrow and London City Airports,1,3,0,2,3,0,0,0,1,1,2,1,2,1,2,0,0,1,0,0,0,0,0,0
+Possession of Weapons,Possession of Firearms Offences,London Heathrow and London City Airports,1,1,1,1,0,0,2,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,2
+Possession of Weapons,Possession of Other Weapon,London Heathrow and London City Airports,1,2,1,2,1,0,1,0,0,0,2,2,2,1,2,0,0,0,1,0,0,0,3,0
+Public Order Offences,"Other Offences Against the State, or Public Order",London Heathrow and London City Airports,3,6,4,1,5,2,3,3,1,8,9,2,0,2,4,2,1,1,5,0,1,0,2,2
+Public Order Offences,Public Fear Alarm or Distress,London Heathrow and London City Airports,6,1,7,2,3,3,9,10,6,2,8,7,11,11,3,9,3,2,1,4,1,1,3,0
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",London Heathrow and London City Airports,1,1,5,2,0,2,2,3,5,6,5,0,2,6,3,0,0,0,1,1,0,3,0,0
+Robbery,Robbery of Personal Property,London Heathrow and London City Airports,1,0,0,1,1,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Sexual Offences,Other Sexual Offences,London Heathrow and London City Airports,2,4,4,4,2,4,7,4,2,3,6,2,2,9,1,2,0,2,0,0,0,2,3,0
+Sexual Offences,Rape,London Heathrow and London City Airports,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Theft,Bicycle Theft,London Heathrow and London City Airports,0,2,3,1,1,2,7,5,9,6,2,0,0,4,2,0,1,1,4,0,1,1,0,0
+Theft,Other Theft,London Heathrow and London City Airports,98,84,82,100,89,83,88,114,105,93,87,104,98,97,99,113,17,10,15,19,21,34,41,44
+Theft,Shoplifting,London Heathrow and London City Airports,24,15,24,19,15,29,25,17,26,25,24,16,18,24,35,23,4,0,3,0,1,5,2,2
+Theft,Theft from Person,London Heathrow and London City Airports,9,7,2,9,8,4,8,5,2,6,8,4,5,6,10,3,2,0,0,0,0,0,1,0
+Vehicle Offences,Interfering with a Motor Vehicle,London Heathrow and London City Airports,0,3,3,1,2,1,0,0,0,1,1,0,3,0,2,1,0,0,0,0,0,0,0,1
+Vehicle Offences,Theft from a Motor Vehicle,London Heathrow and London City Airports,2,5,4,11,4,1,12,17,11,12,6,6,8,6,19,4,2,0,1,2,1,7,8,4
+Vehicle Offences,Theft or Taking of a Motor Vehicle,London Heathrow and London City Airports,2,2,2,7,5,3,5,3,6,4,11,7,7,2,3,5,2,3,3,1,3,2,4,0
+Violence Against the Person,Violence with Injury,London Heathrow and London City Airports,16,10,5,5,6,5,8,13,9,7,12,6,12,6,15,7,1,2,1,3,4,4,1,1
+Violence Against the Person,Violence without Injury,London Heathrow and London City Airports,17,14,17,15,18,8,17,11,14,17,15,20,15,15,6,13,7,3,2,4,4,5,8,3
+Arson and Criminal Damage,Arson,Merton,2,1,4,1,4,0,3,2,4,3,6,3,1,3,1,2,3,5,2,2,4,5,0,2
+Arson and Criminal Damage,Criminal Damage,Merton,109,91,81,89,118,93,95,96,91,91,82,81,67,89,70,92,68,76,77,99,79,90,82,93
+Burglary,Burglary - Business and Community,Merton,22,29,27,27,23,13,10,21,24,17,25,11,19,17,21,18,18,7,15,13,7,8,7,9
+Burglary,Burglary - Residential,Merton,129,151,110,159,86,79,79,98,90,135,133,131,86,116,112,74,29,44,53,61,72,81,75,56
+Drug Offences,Drug Trafficking,Merton,0,2,6,3,5,2,8,3,4,5,1,2,6,3,3,4,3,3,8,6,5,6,5,5
+Drug Offences,Possession of Drugs,Merton,34,46,49,44,60,49,45,59,73,58,55,65,45,79,76,86,92,127,87,81,63,48,66,64
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Merton,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bail Offences,Merton,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bigamy,Merton,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Merton,0,0,1,1,0,0,0,1,0,0,1,0,1,3,1,0,0,1,0,1,0,0,1,0
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Merton,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Merton,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Merton,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Merton,0,0,3,2,1,1,0,1,1,1,1,1,1,2,3,1,7,1,3,0,0,0,0,0
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Merton,0,1,0,0,0,0,1,0,1,0,1,2,1,1,1,1,1,1,0,1,0,2,1,1
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Merton,1,0,0,2,2,0,4,0,1,2,0,0,1,1,1,1,0,0,0,2,2,1,1,1
+Miscellaneous Crimes Against Society,Obscene Publications,Merton,5,2,9,4,5,6,5,5,0,4,5,5,7,7,6,5,8,4,8,8,5,9,8,12
+Miscellaneous Crimes Against Society,Other Forgery,Merton,2,4,1,1,6,2,1,2,3,2,0,0,1,1,7,0,0,0,1,2,0,2,1,1
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Merton,2,2,2,0,1,2,3,0,3,3,2,3,3,1,0,4,1,0,3,2,2,3,2,6
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Merton,2,1,0,1,0,2,1,0,1,1,0,0,0,1,0,2,2,0,1,0,1,0,0,0
+Miscellaneous Crimes Against Society,Possession of False Documents,Merton,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,2,0,1,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Merton,0,0,0,1,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,2,1,1,0,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Merton,1,3,1,2,2,13,2,7,5,3,1,1,2,3,1,1,1,2,4,4,6,1,4,3
+Possession of Weapons,Other Firearm Offences,Merton,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Merton,3,3,4,8,6,7,8,3,4,3,3,3,1,7,4,2,4,6,1,2,2,6,4,3
+Possession of Weapons,Possession of Firearm with Intent,Merton,1,0,1,0,1,1,0,1,0,1,0,1,0,0,0,0,1,1,0,1,1,0,0,0
+Possession of Weapons,Possession of Firearms Offences,Merton,0,1,0,0,1,3,0,1,0,2,3,1,1,1,0,0,2,2,1,2,1,1,1,2
+Possession of Weapons,Possession of Other Weapon,Merton,3,3,2,3,2,2,3,4,5,1,0,4,2,3,4,2,8,5,2,4,6,2,5,3
+Public Order Offences,"Other Offences Against the State, or Public Order",Merton,12,7,11,13,10,8,4,10,18,7,7,9,8,7,6,8,4,13,12,13,5,9,10,6
+Public Order Offences,Public Fear Alarm or Distress,Merton,66,36,41,65,47,58,46,70,64,55,50,61,46,57,44,39,44,64,65,63,77,68,77,49
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Merton,15,11,16,18,14,19,11,19,16,15,5,14,12,15,13,20,10,17,30,22,20,19,12,9
+Public Order Offences,Violent Disorder,Merton,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Robbery,Robbery of Business Property,Merton,10,8,0,2,5,2,4,4,4,5,6,5,9,3,6,4,3,2,3,3,3,5,6,7
+Robbery,Robbery of Personal Property,Merton,35,24,25,23,30,34,22,39,31,27,47,47,23,19,27,26,7,11,22,46,32,53,38,38
+Sexual Offences,Other Sexual Offences,Merton,18,20,17,23,15,19,20,32,9,19,10,21,14,10,17,21,14,17,12,30,24,21,18,29
+Sexual Offences,Rape,Merton,10,7,7,17,8,8,9,9,12,3,18,14,8,8,9,2,6,2,14,11,9,11,7,8
+Theft,Bicycle Theft,Merton,16,15,19,13,22,31,39,50,29,39,26,16,19,22,11,12,21,23,34,52,43,41,30,26
+Theft,Other Theft,Merton,139,149,119,126,161,172,156,171,150,131,137,139,104,126,107,124,62,58,91,116,102,122,92,98
+Theft,Shoplifting,Merton,71,71,48,66,67,63,60,74,71,66,71,61,56,61,60,47,33,45,43,50,44,60,53,40
+Theft,Theft from Person,Merton,16,11,26,31,32,21,20,29,20,22,33,32,24,25,23,14,7,7,10,16,14,32,20,12
+Vehicle Offences,Aggravated Vehicle Taking,Merton,1,1,1,4,1,1,1,0,0,0,1,3,4,1,0,0,2,2,3,5,2,1,0,1
+Vehicle Offences,Interfering with a Motor Vehicle,Merton,38,29,23,18,18,7,25,20,22,29,21,26,31,25,20,23,18,14,24,31,28,17,32,24
+Vehicle Offences,Theft from a Motor Vehicle,Merton,92,134,100,103,93,69,80,101,113,101,137,103,130,161,143,150,43,73,80,119,101,108,120,117
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Merton,40,46,21,52,55,32,35,46,48,45,45,43,55,65,42,59,32,25,39,30,45,36,45,28
+Violence Against the Person,Homicide,Merton,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0
+Violence Against the Person,Violence with Injury,Merton,119,104,100,112,110,107,118,153,125,111,94,123,104,106,89,109,108,112,122,144,132,110,109,89
+Violence Against the Person,Violence without Injury,Merton,212,205,178,213,198,193,245,218,235,216,210,259,230,228,193,182,227,227,235,227,266,266,267,252
+Arson and Criminal Damage,Arson,Newham,8,6,11,16,8,10,11,10,13,4,16,9,3,6,11,4,10,6,6,12,5,5,5,6
+Arson and Criminal Damage,Criminal Damage,Newham,198,142,146,170,174,187,165,194,176,160,201,193,174,150,175,164,143,118,154,183,172,176,169,152
+Burglary,Burglary - Business and Community,Newham,67,58,62,65,54,50,56,50,53,36,51,58,38,47,50,55,39,35,29,21,34,45,43,34
+Burglary,Burglary - Residential,Newham,175,174,155,140,111,122,115,130,137,133,156,109,150,145,125,86,84,110,100,126,128,128,109,124
+Drug Offences,Drug Trafficking,Newham,20,13,19,11,8,15,29,13,11,10,53,7,7,13,9,3,5,8,16,54,20,16,10,32
+Drug Offences,Possession of Drugs,Newham,162,158,178,210,203,212,313,357,282,329,282,168,173,221,219,181,241,308,265,301,226,200,218,196
+Miscellaneous Crimes Against Society,Bail Offences,Newham,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Miscellaneous Crimes Against Society,Bigamy,Newham,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Newham,3,2,3,0,1,0,3,0,0,2,3,1,2,0,0,0,2,5,1,3,1,3,1,1
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Newham,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Newham,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Newham,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Newham,0,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Newham,3,2,3,5,2,2,1,2,2,3,2,2,4,3,3,2,2,6,1,2,4,1,3,1
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Newham,6,3,4,3,5,5,1,7,3,5,1,2,6,4,3,2,2,2,6,0,2,3,2,1
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Newham,0,0,0,2,1,2,1,3,2,4,4,3,2,0,0,3,0,1,3,2,1,2,3,2
+Miscellaneous Crimes Against Society,Obscene Publications,Newham,6,6,11,12,13,8,21,3,8,24,14,9,17,11,8,11,13,13,13,13,13,14,12,19
+Miscellaneous Crimes Against Society,Other Forgery,Newham,0,4,5,2,3,2,2,3,6,3,5,0,1,1,1,1,0,1,0,1,1,0,0,1
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Newham,0,2,2,5,1,2,0,2,1,2,0,2,2,3,3,3,1,1,2,2,4,2,2,2
+Miscellaneous Crimes Against Society,Perjury,Newham,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Newham,1,5,0,3,2,6,4,4,3,2,1,2,1,1,1,3,1,4,6,4,2,3,0,6
+Miscellaneous Crimes Against Society,Possession of False Documents,Newham,2,1,2,0,1,1,1,0,0,2,2,0,0,0,1,1,1,0,2,0,0,0,0,5
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Newham,3,0,1,1,1,1,3,2,1,1,1,3,0,0,0,1,2,0,1,1,2,3,1,2
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Newham,7,6,4,5,5,3,4,4,9,7,9,6,6,4,7,5,12,10,11,6,9,16,13,5
+Possession of Weapons,Possession of Article with Blade or Point,Newham,14,12,16,21,8,12,11,13,13,16,13,5,14,12,6,18,13,10,14,11,17,17,11,12
+Possession of Weapons,Possession of Firearm with Intent,Newham,3,2,2,2,1,1,2,1,2,0,0,1,2,2,1,1,1,0,3,0,1,3,2,2
+Possession of Weapons,Possession of Firearms Offences,Newham,4,3,2,5,3,4,2,5,0,2,3,0,2,1,3,2,3,3,0,5,0,2,3,1
+Possession of Weapons,Possession of Other Weapon,Newham,15,21,16,20,11,16,14,13,9,6,8,14,8,4,10,11,12,12,5,16,15,10,9,10
+Public Order Offences,"Other Offences Against the State, or Public Order",Newham,22,28,28,21,28,35,34,54,36,34,31,31,20,24,24,32,23,25,24,27,27,24,18,29
+Public Order Offences,Public Fear Alarm or Distress,Newham,79,81,75,106,70,81,102,146,112,100,113,116,104,103,109,82,78,105,118,136,122,100,96,97
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Newham,28,33,24,39,36,29,38,35,24,33,34,27,28,45,24,31,23,30,47,50,56,41,39,32
+Public Order Offences,Violent Disorder,Newham,0,0,0,0,0,0,1,0,2,1,2,0,0,0,0,0,0,2,0,0,0,0,0,0
+Robbery,Robbery of Business Property,Newham,10,7,7,6,8,11,8,18,18,11,13,12,21,13,4,13,6,5,8,9,6,3,4,8
+Robbery,Robbery of Personal Property,Newham,177,130,136,141,173,151,136,120,153,106,141,212,170,204,186,191,65,67,98,117,122,147,143,113
+Sexual Offences,Other Sexual Offences,Newham,42,46,44,42,36,52,58,48,33,44,39,37,36,42,40,40,12,27,42,28,33,45,39,55
+Sexual Offences,Rape,Newham,16,28,47,33,35,41,29,37,20,22,33,36,31,33,34,35,18,32,27,31,38,36,37,19
+Theft,Bicycle Theft,Newham,24,37,20,33,39,48,57,74,72,44,43,43,18,20,38,34,36,35,75,81,81,82,62,34
+Theft,Other Theft,Newham,411,336,369,378,379,406,377,398,334,307,396,441,392,342,369,258,185,205,252,328,336,287,339,264
+Theft,Shoplifting,Newham,185,167,181,169,168,196,172,206,226,202,218,187,174,194,205,165,64,102,137,144,136,159,161,141
+Theft,Theft from Person,Newham,175,155,208,173,213,178,175,146,128,113,224,204,199,172,210,154,38,56,80,204,187,163,302,212
+Vehicle Offences,Aggravated Vehicle Taking,Newham,3,2,1,3,4,5,4,2,4,2,5,5,3,3,2,4,2,4,5,5,2,10,4,4
+Vehicle Offences,Interfering with a Motor Vehicle,Newham,62,74,49,57,62,49,41,49,28,25,46,46,35,53,48,28,35,54,41,44,28,46,41,44
+Vehicle Offences,Theft from a Motor Vehicle,Newham,242,279,182,238,229,208,209,280,210,212,210,208,247,270,212,162,164,164,189,190,191,226,284,265
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Newham,103,97,121,109,131,108,122,95,103,90,93,79,57,81,84,91,62,45,75,65,83,80,74,84
+Violence Against the Person,Homicide,Newham,0,0,0,0,3,2,2,0,1,1,1,0,1,0,0,3,1,0,0,0,0,0,0,0
+Violence Against the Person,Violence with Injury,Newham,280,239,263,275,253,296,295,293,252,247,279,262,212,244,217,245,225,216,245,230,264,235,248,210
+Violence Against the Person,Violence without Injury,Newham,449,470,491,515,431,542,537,524,496,484,573,522,479,558,463,467,445,500,591,534,612,563,585,548
+Arson and Criminal Damage,Arson,Redbridge,3,4,5,3,9,7,7,4,6,5,5,4,6,5,4,4,5,10,0,2,2,2,0,4
+Arson and Criminal Damage,Criminal Damage,Redbridge,109,108,132,98,119,135,134,131,128,143,119,102,104,126,109,119,91,116,127,123,114,106,106,120
+Burglary,Burglary - Business and Community,Redbridge,37,36,37,38,43,29,35,34,27,43,38,26,32,36,47,27,23,21,25,32,27,36,53,39
+Burglary,Burglary - Residential,Redbridge,215,221,184,133,113,124,75,96,109,136,173,184,197,171,193,129,50,58,76,98,99,111,113,114
+Drug Offences,Drug Trafficking,Redbridge,4,2,5,7,7,10,7,10,6,7,30,8,4,9,8,17,15,4,11,71,24,11,6,12
+Drug Offences,Possession of Drugs,Redbridge,56,62,58,93,92,105,102,122,109,116,118,120,93,125,118,103,155,193,156,110,97,115,108,154
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Redbridge,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Miscellaneous Crimes Against Society,Bail Offences,Redbridge,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bigamy,Redbridge,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Miscellaneous Crimes Against Society,Dangerous Driving,Redbridge,1,3,2,0,1,1,0,2,0,0,1,3,1,2,2,2,2,2,2,3,0,2,2,1
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Redbridge,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Redbridge,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Redbridge,0,0,0,4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Redbridge,0,0,0,2,2,0,1,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Redbridge,0,0,2,1,1,1,1,1,0,1,2,1,1,1,1,0,1,1,0,1,0,1,0,1
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Redbridge,2,1,1,2,2,3,2,2,0,0,1,1,0,3,3,3,2,0,2,1,2,3,2,2
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Redbridge,3,1,0,0,0,1,0,0,2,1,1,0,1,2,0,2,0,1,0,1,2,0,1,0
+Miscellaneous Crimes Against Society,Obscene Publications,Redbridge,6,7,3,15,3,12,13,8,8,3,5,6,8,4,2,9,6,13,5,12,6,7,4,16
+Miscellaneous Crimes Against Society,Offender Management Act,Redbridge,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Other Forgery,Redbridge,2,2,1,3,0,0,2,1,0,0,0,0,1,0,2,1,1,1,0,0,0,2,1,2
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Redbridge,0,1,1,1,0,1,2,0,2,0,0,0,1,1,1,2,0,3,2,1,1,2,1,2
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Redbridge,2,2,3,2,2,1,1,1,0,0,3,0,0,1,0,0,2,0,2,1,3,2,1,0
+Miscellaneous Crimes Against Society,Possession of False Documents,Redbridge,1,2,0,0,0,0,0,1,1,0,0,1,2,0,2,0,1,1,1,0,0,0,0,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Redbridge,1,0,0,0,2,0,1,0,0,0,0,1,0,2,0,0,1,1,2,1,1,1,0,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Redbridge,6,4,5,4,3,2,7,12,12,7,6,6,4,3,4,4,3,6,11,7,6,8,6,5
+Possession of Weapons,Other Firearm Offences,Redbridge,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Redbridge,6,8,5,4,7,8,9,5,1,11,8,6,7,4,6,3,5,2,6,7,2,2,3,6
+Possession of Weapons,Possession of Firearm with Intent,Redbridge,0,1,2,0,1,1,1,1,0,0,1,0,2,3,1,0,5,1,0,0,0,0,0,0
+Possession of Weapons,Possession of Firearms Offences,Redbridge,0,1,1,3,2,0,0,0,2,1,3,1,1,1,3,2,0,2,3,2,1,0,1,0
+Possession of Weapons,Possession of Other Weapon,Redbridge,8,2,5,8,4,6,4,5,3,6,5,6,2,10,4,10,7,11,9,3,8,3,3,6
+Public Order Offences,"Other Offences Against the State, or Public Order",Redbridge,18,14,8,14,12,11,16,14,7,8,21,7,5,13,16,15,6,16,17,12,13,13,15,10
+Public Order Offences,Public Fear Alarm or Distress,Redbridge,59,65,58,58,66,81,70,67,50,86,67,80,65,71,54,78,64,66,75,98,108,102,82,65
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Redbridge,18,17,27,26,30,21,28,25,27,12,22,19,21,18,12,17,14,20,25,31,30,33,22,19
+Public Order Offences,Violent Disorder,Redbridge,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Robbery,Robbery of Business Property,Redbridge,7,4,8,3,4,3,6,7,6,6,17,5,5,6,5,1,2,0,2,6,3,2,12,3
+Robbery,Robbery of Personal Property,Redbridge,91,87,94,69,96,69,58,68,66,62,89,83,89,73,54,75,28,31,40,49,53,55,60,70
+Sexual Offences,Other Sexual Offences,Redbridge,22,32,24,23,17,34,22,37,34,30,19,18,14,19,28,37,11,21,23,29,30,32,25,25
+Sexual Offences,Rape,Redbridge,19,23,12,17,6,12,18,10,20,11,19,17,12,17,17,9,16,11,22,20,20,19,15,17
+Theft,Bicycle Theft,Redbridge,17,9,9,19,14,37,42,38,22,16,12,11,8,7,6,4,11,16,24,31,27,35,34,18
+Theft,Other Theft,Redbridge,224,213,196,215,209,204,214,235,194,163,208,220,203,199,206,182,106,156,154,203,211,197,205,186
+Theft,Shoplifting,Redbridge,87,97,92,97,93,90,97,107,101,157,122,123,93,149,154,80,65,60,85,100,89,105,129,125
+Theft,Theft from Person,Redbridge,71,45,79,75,115,73,56,63,38,51,100,101,100,83,91,70,36,39,41,57,68,52,100,50
+Vehicle Offences,Aggravated Vehicle Taking,Redbridge,4,2,3,2,3,1,6,3,4,2,3,3,4,6,4,2,1,1,4,0,3,3,5,2
+Vehicle Offences,Interfering with a Motor Vehicle,Redbridge,51,55,34,64,57,38,37,40,41,49,63,63,51,44,74,78,62,65,62,55,41,44,45,39
+Vehicle Offences,Theft from a Motor Vehicle,Redbridge,179,206,193,280,248,216,209,222,259,271,260,225,241,197,247,223,141,179,163,159,168,194,261,216
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Redbridge,84,129,114,129,122,137,125,112,90,95,126,124,111,138,119,91,83,82,89,74,69,97,120,101
+Violence Against the Person,Homicide,Redbridge,0,0,1,0,1,0,1,0,1,0,0,3,0,3,0,1,2,1,0,0,0,0,1,1
+Violence Against the Person,Violence with Injury,Redbridge,170,169,160,178,183,226,202,195,166,170,176,146,141,152,165,167,140,144,184,177,215,185,148,135
+Violence Against the Person,Violence without Injury,Redbridge,356,352,355,303,304,357,370,384,362,342,382,359,321,376,358,336,318,372,448,461,396,423,429,389
+Arson and Criminal Damage,Arson,Richmond upon Thames,2,4,3,3,1,3,2,5,3,4,0,2,4,3,3,5,3,3,2,2,1,6,3,2
+Arson and Criminal Damage,Criminal Damage,Richmond upon Thames,70,62,73,75,94,87,86,78,77,74,95,98,73,85,81,49,61,71,59,96,86,80,71,84
+Burglary,Burglary - Business and Community,Richmond upon Thames,28,31,42,25,28,35,19,17,22,24,26,39,24,27,35,17,11,17,16,13,17,17,12,11
+Burglary,Burglary - Residential,Richmond upon Thames,134,116,111,98,85,98,85,50,88,82,107,120,152,110,96,87,75,72,78,103,111,80,81,92
+Drug Offences,Drug Trafficking,Richmond upon Thames,0,0,4,4,0,15,0,1,5,0,2,2,0,1,1,1,1,2,0,3,1,4,2,4
+Drug Offences,Possession of Drugs,Richmond upon Thames,20,14,19,29,23,13,34,24,44,24,33,28,29,36,34,42,42,61,67,55,32,41,51,58
+Miscellaneous Crimes Against Society,Dangerous Driving,Richmond upon Thames,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Richmond upon Thames,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Richmond upon Thames,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Richmond upon Thames,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Richmond upon Thames,1,0,0,0,0,0,0,2,1,1,1,0,1,0,1,1,3,1,0,0,1,0,1,2
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Richmond upon Thames,0,0,0,0,1,0,2,1,0,0,1,0,0,1,0,2,1,1,1,0,0,0,1,1
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Richmond upon Thames,0,0,1,1,1,0,0,1,0,1,1,0,1,2,1,1,3,2,2,0,0,1,0,1
+Miscellaneous Crimes Against Society,Obscene Publications,Richmond upon Thames,3,0,1,4,0,3,3,3,0,4,4,2,2,1,3,5,3,7,8,5,5,8,1,12
+Miscellaneous Crimes Against Society,Other Forgery,Richmond upon Thames,1,0,2,4,0,4,0,2,0,1,1,1,0,3,0,0,1,0,0,0,0,0,1,1
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Richmond upon Thames,0,1,3,1,0,1,2,4,0,0,0,1,1,0,1,1,0,0,0,0,3,1,2,2
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Richmond upon Thames,1,0,1,0,0,1,2,0,0,1,0,0,0,1,1,0,0,2,3,2,1,0,0,1
+Miscellaneous Crimes Against Society,Possession of False Documents,Richmond upon Thames,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Richmond upon Thames,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Richmond upon Thames,6,3,2,2,1,1,4,2,6,6,1,2,0,2,0,1,0,3,3,1,4,6,2,3
+Possession of Weapons,Possession of Article with Blade or Point,Richmond upon Thames,3,1,4,2,2,2,1,3,1,2,5,2,4,5,1,2,2,4,2,3,4,0,2,2
+Possession of Weapons,Possession of Firearm with Intent,Richmond upon Thames,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+Possession of Weapons,Possession of Firearms Offences,Richmond upon Thames,2,1,3,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0
+Possession of Weapons,Possession of Other Weapon,Richmond upon Thames,2,2,1,2,1,4,3,3,0,1,3,0,1,0,0,4,0,2,2,0,3,0,3,0
+Public Order Offences,"Other Offences Against the State, or Public Order",Richmond upon Thames,3,5,4,9,9,10,8,11,8,4,10,11,6,5,3,6,4,10,13,5,6,4,13,11
+Public Order Offences,Public Fear Alarm or Distress,Richmond upon Thames,36,49,43,61,48,47,50,59,56,59,52,41,39,58,51,59,29,58,68,50,53,64,51,49
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Richmond upon Thames,10,15,12,12,9,9,16,13,17,11,6,14,17,10,18,8,16,13,15,16,19,14,13,13
+Robbery,Robbery of Business Property,Richmond upon Thames,4,1,1,1,2,2,3,4,3,3,3,2,2,5,1,4,1,2,4,1,1,1,2,5
+Robbery,Robbery of Personal Property,Richmond upon Thames,42,29,26,43,63,34,36,40,23,34,24,28,24,14,22,21,6,25,21,13,23,13,13,18
+Sexual Offences,Other Sexual Offences,Richmond upon Thames,13,16,19,12,16,10,22,9,16,15,15,14,16,21,18,14,10,15,12,24,18,15,15,10
+Sexual Offences,Rape,Richmond upon Thames,8,8,16,7,2,7,5,8,7,8,9,8,12,6,20,7,7,6,9,9,10,11,5,4
+Theft,Bicycle Theft,Richmond upon Thames,45,58,36,73,61,62,74,73,51,54,49,56,33,42,40,34,29,50,93,106,112,92,88,48
+Theft,Other Theft,Richmond upon Thames,97,109,103,104,126,148,112,139,126,118,128,130,126,133,115,104,56,82,66,108,94,97,88,70
+Theft,Shoplifting,Richmond upon Thames,32,54,38,59,33,42,47,57,74,50,53,51,36,37,45,32,26,43,44,71,48,37,44,37
+Theft,Theft from Person,Richmond upon Thames,14,23,18,18,29,23,27,19,14,18,29,23,13,17,14,13,2,6,3,9,10,23,17,12
+Vehicle Offences,Aggravated Vehicle Taking,Richmond upon Thames,1,1,1,0,1,0,1,2,2,2,1,1,2,0,2,0,1,5,2,1,0,1,4,1
+Vehicle Offences,Interfering with a Motor Vehicle,Richmond upon Thames,28,38,19,26,30,22,21,21,40,22,32,33,31,41,31,30,20,20,27,27,34,26,32,24
+Vehicle Offences,Theft from a Motor Vehicle,Richmond upon Thames,108,118,141,162,132,94,87,104,92,117,154,178,139,205,140,124,56,92,95,127,154,175,168,106
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Richmond upon Thames,43,58,49,31,45,51,29,39,27,50,35,44,42,36,41,30,30,33,25,32,30,44,47,48
+Violence Against the Person,Homicide,Richmond upon Thames,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Violence Against the Person,Violence with Injury,Richmond upon Thames,88,76,37,91,79,91,86,70,62,76,62,76,98,73,64,80,52,70,80,93,78,74,57,80
+Violence Against the Person,Violence without Injury,Richmond upon Thames,161,146,141,163,173,166,207,216,156,167,165,191,164,167,136,148,167,190,194,218,208,172,170,186
+Arson and Criminal Damage,Arson,Southwark,3,2,2,8,6,5,1,6,8,6,10,3,0,5,3,8,8,5,7,7,5,6,1,5
+Arson and Criminal Damage,Criminal Damage,Southwark,171,193,132,212,179,198,164,188,176,144,156,162,178,160,193,160,137,131,176,192,168,148,165,133
+Burglary,Burglary - Business and Community,Southwark,75,102,69,101,74,74,70,87,71,98,78,80,62,80,61,44,55,53,49,77,44,52,48,62
+Burglary,Burglary - Residential,Southwark,152,176,181,184,166,211,229,224,192,164,175,196,210,160,154,124,132,146,163,160,179,189,155,164
+Drug Offences,Drug Trafficking,Southwark,9,30,24,4,10,11,7,9,10,8,8,10,11,5,55,4,4,6,7,4,7,15,16,13
+Drug Offences,Possession of Drugs,Southwark,159,171,202,247,191,207,189,265,238,169,233,233,183,191,164,153,170,253,162,164,164,163,214,228
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Southwark,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bail Offences,Southwark,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+Miscellaneous Crimes Against Society,Bigamy,Southwark,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Southwark,2,0,0,0,1,0,0,1,0,3,1,1,0,3,3,3,1,0,1,2,0,1,1,0
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Southwark,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Southwark,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Southwark,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Southwark,1,1,0,2,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Southwark,1,0,1,0,0,4,3,3,1,2,3,1,3,0,1,1,2,0,1,1,3,2,1,1
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Southwark,3,3,5,5,3,3,5,7,4,2,4,1,4,4,3,4,2,2,5,2,1,1,3,3
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Southwark,2,5,0,3,1,4,1,2,0,3,1,2,0,2,0,0,1,0,0,1,1,4,3,0
+Miscellaneous Crimes Against Society,Obscene Publications,Southwark,3,7,16,14,10,9,9,8,2,8,7,9,11,7,4,12,9,6,10,7,11,17,16,11
+Miscellaneous Crimes Against Society,Offender Management Act,Southwark,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Other Forgery,Southwark,5,3,2,5,2,1,5,3,3,4,1,3,0,2,3,2,0,0,0,2,0,2,2,1
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Southwark,0,0,1,3,0,0,2,1,1,5,2,1,2,3,0,1,1,1,1,0,1,1,1,2
+Miscellaneous Crimes Against Society,Perjury,Southwark,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Southwark,2,3,6,0,0,2,0,3,4,4,1,1,2,3,4,0,0,3,1,5,0,0,2,2
+Miscellaneous Crimes Against Society,Possession of False Documents,Southwark,1,0,0,1,1,0,0,2,1,0,1,3,1,2,0,0,0,0,0,2,0,0,0,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Southwark,2,6,3,1,2,1,1,1,0,1,1,2,1,0,0,1,1,2,4,2,2,2,5,3
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Southwark,4,5,5,8,7,5,4,6,7,10,4,4,6,6,9,1,5,6,6,7,5,6,3,11
+Possession of Weapons,Other Firearm Offences,Southwark,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Southwark,13,13,18,19,10,19,11,22,11,16,14,6,15,12,10,9,10,14,6,10,29,14,11,11
+Possession of Weapons,Possession of Firearm with Intent,Southwark,3,0,1,0,2,4,1,3,1,1,0,0,0,1,1,1,1,0,2,3,2,1,3,2
+Possession of Weapons,Possession of Firearms Offences,Southwark,2,1,3,6,3,1,3,6,1,2,1,2,1,3,0,2,2,1,2,2,4,1,6,5
+Possession of Weapons,Possession of Other Weapon,Southwark,15,16,11,18,9,11,15,23,16,8,13,10,12,9,7,12,7,8,12,10,10,14,15,16
+Public Order Offences,"Other Offences Against the State, or Public Order",Southwark,22,22,16,15,12,12,19,17,28,18,8,20,21,20,28,19,14,14,21,19,21,15,21,15
+Public Order Offences,Public Fear Alarm or Distress,Southwark,107,74,97,110,115,131,131,141,144,132,145,129,122,106,102,104,91,118,101,142,157,163,128,111
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Southwark,16,27,30,32,24,32,50,43,35,25,43,27,45,54,55,24,31,34,46,49,41,50,29,41
+Public Order Offences,Violent Disorder,Southwark,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+Robbery,Robbery of Business Property,Southwark,12,9,6,6,24,8,7,6,11,5,6,16,17,6,9,9,7,2,10,13,9,11,9,8
+Robbery,Robbery of Personal Property,Southwark,163,171,170,177,197,197,172,208,167,234,253,235,164,175,172,123,39,63,96,122,169,132,154,101
+Sexual Offences,Other Sexual Offences,Southwark,35,43,35,47,31,25,52,38,36,38,52,40,26,34,58,44,14,21,40,37,44,55,33,39
+Sexual Offences,Rape,Southwark,22,35,27,19,30,26,31,23,27,30,30,20,21,27,30,16,17,16,34,20,39,33,29,29
+Theft,Bicycle Theft,Southwark,62,88,71,93,119,151,125,139,137,121,111,80,76,93,109,70,58,98,214,269,262,240,177,124
+Theft,Other Theft,Southwark,503,449,501,576,535,553,497,588,523,527,639,533,530,404,464,326,151,199,256,336,369,345,354,239
+Theft,Shoplifting,Southwark,98,113,109,115,119,116,140,119,131,101,95,93,97,82,79,87,70,68,80,116,92,77,85,63
+Theft,Theft from Person,Southwark,256,207,256,306,294,296,259,291,311,408,492,381,261,190,259,191,26,53,88,96,190,177,243,192
+Vehicle Offences,Aggravated Vehicle Taking,Southwark,4,5,0,5,2,3,4,3,4,5,6,4,1,6,0,2,2,1,1,3,0,4,1,0
+Vehicle Offences,Interfering with a Motor Vehicle,Southwark,57,55,62,61,57,42,56,27,26,49,53,39,54,74,68,41,39,34,36,33,38,24,46,45
+Vehicle Offences,Theft from a Motor Vehicle,Southwark,211,206,180,228,158,181,171,105,182,238,198,201,225,243,185,141,123,151,180,216,163,169,168,201
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Southwark,54,75,73,107,122,112,95,108,91,97,86,87,76,80,66,70,53,75,62,58,74,67,76,80
+Violence Against the Person,Homicide,Southwark,0,1,1,0,1,1,1,0,0,0,2,0,0,0,1,1,0,1,0,1,0,0,0,1
+Violence Against the Person,Violence with Injury,Southwark,229,277,270,297,279,277,312,324,299,252,253,282,220,249,237,240,182,230,234,290,314,279,251,210
+Violence Against the Person,Violence without Injury,Southwark,432,470,425,480,460,505,494,483,455,460,452,436,497,474,439,395,375,411,422,506,531,513,497,429
+Arson and Criminal Damage,Arson,Sutton,4,5,4,1,6,1,4,6,3,3,4,4,2,0,4,4,3,3,1,5,4,5,2,7
+Arson and Criminal Damage,Criminal Damage,Sutton,103,98,90,87,83,129,98,94,81,76,85,103,85,88,79,80,54,73,89,75,71,70,70,96
+Burglary,Burglary - Business and Community,Sutton,27,22,25,12,18,20,20,19,16,18,17,14,15,15,27,16,10,12,5,11,11,9,10,13
+Burglary,Burglary - Residential,Sutton,85,113,101,106,94,70,88,71,82,83,136,122,79,143,107,84,44,42,68,75,52,66,62,70
+Drug Offences,Drug Trafficking,Sutton,0,3,4,2,2,6,2,4,1,1,2,2,5,0,4,4,4,3,8,5,5,4,3,2
+Drug Offences,Possession of Drugs,Sutton,34,49,37,45,50,49,55,56,41,47,36,45,41,57,36,46,89,101,84,53,40,38,66,58
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Sutton,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Sutton,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0,0,0
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Sutton,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Sutton,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Sutton,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Sutton,1,1,0,0,3,2,0,1,0,0,0,1,0,0,0,0,0,1,0,2,0,2,0,0
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Sutton,0,3,2,0,2,1,0,2,0,0,0,1,0,0,0,0,4,2,2,1,1,0,0,0
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Sutton,0,1,2,0,0,1,0,0,1,2,1,0,0,3,1,0,0,1,0,1,0,0,1,1
+Miscellaneous Crimes Against Society,Obscene Publications,Sutton,7,3,4,5,6,3,2,2,3,1,2,8,2,3,6,5,13,7,5,5,8,5,2,8
+Miscellaneous Crimes Against Society,Other Forgery,Sutton,0,0,0,3,3,6,2,2,0,1,0,0,0,0,1,0,0,0,0,2,1,1,1,0
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Sutton,1,0,2,4,6,0,1,3,0,3,3,3,1,0,2,2,1,3,5,1,4,2,5,0
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Sutton,1,0,1,0,0,0,1,0,1,1,3,0,1,0,1,0,2,2,1,2,1,1,1,1
+Miscellaneous Crimes Against Society,Possession of False Documents,Sutton,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Sutton,0,0,1,0,1,0,1,0,0,0,0,0,0,2,0,1,1,0,0,0,1,0,0,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Sutton,6,4,2,3,2,2,3,3,6,4,7,1,7,3,2,5,6,3,7,3,4,2,2,6
+Possession of Weapons,Other Firearm Offences,Sutton,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Sutton,2,3,7,12,4,5,4,6,2,3,7,2,3,3,2,6,6,3,4,3,1,10,7,5
+Possession of Weapons,Possession of Firearm with Intent,Sutton,0,0,0,0,0,0,0,1,0,0,1,1,0,2,0,0,0,0,1,0,0,0,2,1
+Possession of Weapons,Possession of Firearms Offences,Sutton,0,0,0,1,0,1,0,3,0,1,0,0,0,0,1,1,4,2,0,1,0,1,0,0
+Possession of Weapons,Possession of Other Weapon,Sutton,2,2,3,3,3,4,2,4,0,4,2,3,2,4,2,6,5,4,1,1,3,4,5,2
+Public Order Offences,"Other Offences Against the State, or Public Order",Sutton,15,6,9,9,6,7,9,9,12,12,14,7,5,5,12,12,11,15,6,7,7,10,8,14
+Public Order Offences,Public Fear Alarm or Distress,Sutton,33,23,65,57,68,64,47,65,53,60,66,48,43,65,56,51,49,47,60,66,56,64,68,56
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Sutton,14,19,6,10,12,18,33,17,17,10,10,11,13,12,4,13,10,13,18,11,22,11,10,8
+Robbery,Robbery of Business Property,Sutton,5,2,4,1,2,0,5,2,3,5,7,8,4,1,7,5,0,5,3,3,6,0,3,2
+Robbery,Robbery of Personal Property,Sutton,27,11,26,22,14,32,19,21,22,24,24,18,13,16,29,27,3,13,12,18,15,22,18,21
+Sexual Offences,Other Sexual Offences,Sutton,10,24,23,10,17,24,20,13,13,15,8,15,14,30,22,20,8,14,14,15,16,12,17,27
+Sexual Offences,Rape,Sutton,11,7,16,6,6,4,5,7,10,2,9,9,5,9,8,12,9,8,15,13,10,11,12,11
+Theft,Bicycle Theft,Sutton,15,13,12,2,16,13,12,19,25,10,14,13,10,10,15,18,7,20,13,26,30,13,15,8
+Theft,Other Theft,Sutton,115,113,96,109,108,130,102,116,116,106,101,112,97,96,95,84,54,64,78,95,91,84,70,80
+Theft,Shoplifting,Sutton,58,62,70,78,67,105,94,89,93,89,76,82,52,104,84,68,45,43,61,50,48,58,75,43
+Theft,Theft from Person,Sutton,16,19,17,17,20,22,17,17,26,20,20,14,30,20,14,18,2,4,17,20,24,11,18,16
+Vehicle Offences,Aggravated Vehicle Taking,Sutton,3,5,1,3,1,1,2,1,1,0,1,2,4,3,1,0,1,0,2,2,2,3,1,2
+Vehicle Offences,Interfering with a Motor Vehicle,Sutton,30,32,40,26,30,29,13,15,26,19,26,21,34,50,32,45,34,26,29,15,18,28,27,28
+Vehicle Offences,Theft from a Motor Vehicle,Sutton,96,94,90,111,111,101,70,97,165,135,114,155,155,185,151,197,62,95,104,92,101,109,123,172
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Sutton,27,37,52,40,23,33,34,24,48,29,45,35,44,42,35,26,20,19,33,25,39,32,45,35
+Violence Against the Person,Homicide,Sutton,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Violence Against the Person,Violence with Injury,Sutton,143,115,114,117,136,110,127,114,126,110,111,108,116,131,114,106,100,119,121,108,110,91,110,92
+Violence Against the Person,Violence without Injury,Sutton,202,231,212,233,247,255,225,242,234,223,245,239,246,254,250,226,205,247,236,232,228,241,232,288
+Arson and Criminal Damage,Arson,Tower Hamlets,7,17,6,10,8,5,6,8,16,7,7,9,3,6,5,8,10,5,6,9,9,7,7,15
+Arson and Criminal Damage,Criminal Damage,Tower Hamlets,146,145,162,190,166,159,170,173,157,137,178,185,169,164,229,186,115,151,119,174,166,156,149,150
+Burglary,Burglary - Business and Community,Tower Hamlets,86,77,63,72,90,85,80,92,83,83,74,74,119,68,61,56,54,44,48,50,42,71,72,48
+Burglary,Burglary - Residential,Tower Hamlets,177,153,130,202,160,180,188,202,173,199,221,169,244,197,130,143,151,155,163,210,179,196,183,173
+Drug Offences,Drug Trafficking,Tower Hamlets,9,15,25,7,13,16,14,9,13,5,10,13,6,12,9,4,35,61,25,42,22,43,49,22
+Drug Offences,Possession of Drugs,Tower Hamlets,208,205,175,274,211,169,160,192,195,173,179,256,161,233,208,186,182,279,259,219,185,210,271,203
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Tower Hamlets,0,0,0,0,0,0,0,4,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bail Offences,Tower Hamlets,4,0,0,0,0,2,6,2,8,6,9,7,7,6,4,1,8,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bigamy,Tower Hamlets,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Tower Hamlets,5,2,1,3,3,2,3,2,2,2,1,3,3,2,0,4,3,2,2,2,4,2,1,2
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Tower Hamlets,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Tower Hamlets,0,1,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Tower Hamlets,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Tower Hamlets,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Tower Hamlets,0,1,2,3,2,0,0,2,4,4,3,4,2,4,0,3,3,1,4,0,4,2,4,0
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Tower Hamlets,2,3,0,6,0,2,1,5,1,1,1,7,0,4,1,1,1,2,1,3,1,3,5,6
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Tower Hamlets,1,0,1,0,2,2,0,3,0,2,0,1,2,1,1,0,1,2,1,2,1,11,6,5
+Miscellaneous Crimes Against Society,Obscene Publications,Tower Hamlets,13,9,5,14,7,7,9,6,3,0,6,8,4,7,8,6,13,9,9,6,8,13,5,12
+Miscellaneous Crimes Against Society,Other Forgery,Tower Hamlets,3,2,2,5,2,2,0,3,0,3,2,0,2,1,4,2,0,0,0,1,2,1,0,1
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Tower Hamlets,1,0,0,2,1,3,0,3,0,1,2,0,1,0,0,0,0,0,2,2,1,2,3,2
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Tower Hamlets,2,5,0,2,1,3,1,2,1,2,2,1,2,2,0,3,1,2,0,3,5,2,4,3
+Miscellaneous Crimes Against Society,Possession of False Documents,Tower Hamlets,0,0,0,1,0,0,2,0,0,2,1,1,0,3,0,1,0,1,1,0,0,0,0,1
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Tower Hamlets,0,0,0,2,3,1,3,4,0,1,0,5,0,2,2,2,0,5,2,1,0,5,2,2
+Miscellaneous Crimes Against Society,Soliciting for Prostitution,Tower Hamlets,3,2,0,0,0,0,2,2,4,2,0,2,0,5,3,1,1,0,0,0,0,4,7,1
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Tower Hamlets,2,7,3,5,2,8,5,12,2,5,4,9,8,2,3,7,4,7,5,8,14,10,10,7
+Possession of Weapons,Other Firearm Offences,Tower Hamlets,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Possession of Weapons,Possession of Article with Blade or Point,Tower Hamlets,12,16,12,15,13,16,12,17,9,9,9,10,6,6,14,4,6,10,14,7,3,8,10,7
+Possession of Weapons,Possession of Firearm with Intent,Tower Hamlets,0,0,0,1,2,0,0,1,0,1,3,1,0,1,2,1,0,1,0,3,1,2,0,1
+Possession of Weapons,Possession of Firearms Offences,Tower Hamlets,1,2,2,4,0,0,0,1,2,0,0,2,0,1,0,2,1,7,2,1,2,2,1,0
+Possession of Weapons,Possession of Other Weapon,Tower Hamlets,7,13,12,21,12,15,7,5,11,10,8,16,10,15,13,8,14,13,12,12,4,4,11,12
+Public Order Offences,"Other Offences Against the State, or Public Order",Tower Hamlets,22,24,32,45,31,26,39,36,33,27,40,32,25,34,27,27,23,21,24,38,28,43,43,30
+Public Order Offences,Public Fear Alarm or Distress,Tower Hamlets,105,94,104,123,107,129,145,150,127,127,136,110,114,123,102,105,94,110,113,144,145,137,127,115
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Tower Hamlets,26,35,25,38,30,29,36,38,43,26,37,36,34,34,28,27,25,41,59,55,32,46,62,45
+Public Order Offences,Violent Disorder,Tower Hamlets,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Robbery,Robbery of Business Property,Tower Hamlets,7,6,7,10,5,7,10,6,14,8,8,10,7,10,3,4,2,4,7,6,7,3,5,7
+Robbery,Robbery of Personal Property,Tower Hamlets,139,96,100,109,121,112,114,91,93,105,129,150,146,118,91,100,40,53,58,80,85,74,82,66
+Sexual Offences,Other Sexual Offences,Tower Hamlets,32,37,35,45,29,31,58,46,43,37,25,34,27,45,41,29,17,33,53,37,39,41,28,43
+Sexual Offences,Rape,Tower Hamlets,29,26,33,16,23,31,32,32,24,28,34,35,34,29,34,30,16,13,24,36,19,46,37,34
+Theft,Bicycle Theft,Tower Hamlets,65,84,102,117,144,164,184,157,131,144,125,119,85,84,84,75,89,131,200,222,292,315,260,206
+Theft,Other Theft,Tower Hamlets,353,391,422,528,474,449,437,431,376,364,417,370,364,327,355,246,159,152,236,293,325,299,293,203
+Theft,Shoplifting,Tower Hamlets,69,82,69,75,84,99,79,94,83,71,94,78,107,76,79,62,48,51,73,78,80,54,83,62
+Theft,Theft from Person,Tower Hamlets,159,147,163,251,149,140,194,119,130,110,153,153,146,155,126,125,41,35,61,72,83,83,87,92
+Vehicle Offences,Aggravated Vehicle Taking,Tower Hamlets,1,1,1,4,4,3,1,2,2,2,4,3,5,3,2,5,1,1,5,3,2,1,4,5
+Vehicle Offences,Interfering with a Motor Vehicle,Tower Hamlets,40,45,41,48,39,40,53,35,59,66,57,93,64,46,47,57,29,46,41,64,39,74,36,38
+Vehicle Offences,Theft from a Motor Vehicle,Tower Hamlets,202,188,153,174,173,176,203,206,234,245,273,258,246,215,218,230,119,148,169,194,175,211,224,156
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Tower Hamlets,68,101,95,80,74,109,101,88,73,65,101,105,58,69,58,72,34,36,39,57,65,82,54,56
+Violence Against the Person,Homicide,Tower Hamlets,1,2,1,0,1,1,1,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0,0,0
+Violence Against the Person,Violence with Injury,Tower Hamlets,242,220,198,283,237,280,289,280,262,235,250,216,217,221,245,235,157,193,218,246,234,246,239,226
+Violence Against the Person,Violence without Injury,Tower Hamlets,447,431,462,517,443,521,480,533,448,460,457,474,458,425,442,440,412,458,476,530,584,535,502,523
+Arson and Criminal Damage,Arson,Waltham Forest,8,6,4,6,5,5,4,5,10,3,3,4,10,5,2,5,11,5,8,4,9,4,5,2
+Arson and Criminal Damage,Criminal Damage,Waltham Forest,157,124,127,151,139,147,128,155,125,148,127,135,117,131,147,152,105,109,142,138,127,113,131,121
+Burglary,Burglary - Business and Community,Waltham Forest,31,36,25,48,31,38,38,43,41,39,43,51,43,63,38,29,38,30,30,31,31,29,21,19
+Burglary,Burglary - Residential,Waltham Forest,171,177,116,120,115,105,85,95,89,129,177,146,132,129,138,140,76,112,141,135,126,112,111,123
+Drug Offences,Drug Trafficking,Waltham Forest,12,6,6,6,6,7,16,7,14,4,9,10,8,8,8,7,4,4,11,11,7,7,6,10
+Drug Offences,Possession of Drugs,Waltham Forest,94,111,84,163,138,169,210,172,148,137,142,119,96,131,149,115,156,217,171,169,133,112,117,120
+Miscellaneous Crimes Against Society,Bail Offences,Waltham Forest,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Bigamy,Waltham Forest,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Waltham Forest,0,0,2,1,0,3,0,0,1,0,2,0,0,0,2,2,1,3,0,1,2,5,2,0
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Waltham Forest,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Waltham Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Waltham Forest,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Waltham Forest,0,1,1,1,3,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,1
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Waltham Forest,0,0,0,0,0,2,0,1,3,1,0,1,1,2,3,2,2,1,2,1,3,0,1,0
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Waltham Forest,0,1,3,1,3,1,2,4,0,1,4,2,1,2,0,1,1,2,1,3,3,2,1,5
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Waltham Forest,2,0,2,1,2,1,0,1,0,1,0,2,0,1,3,1,0,1,2,1,0,1,2,0
+Miscellaneous Crimes Against Society,Obscene Publications,Waltham Forest,3,3,3,6,17,12,12,2,3,9,4,8,2,9,6,9,9,5,11,9,8,14,3,14
+Miscellaneous Crimes Against Society,Offender Management Act,Waltham Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Other Forgery,Waltham Forest,2,1,0,1,1,1,1,0,2,1,2,2,1,2,3,0,0,0,0,0,1,2,4,4
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Waltham Forest,3,0,0,1,1,0,0,3,1,1,0,0,0,2,2,0,2,1,1,3,1,1,0,2
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Waltham Forest,1,3,2,6,0,4,7,2,1,1,1,1,2,0,2,0,2,3,3,4,0,4,1,1
+Miscellaneous Crimes Against Society,Possession of False Documents,Waltham Forest,1,2,1,3,1,2,0,3,2,0,2,1,1,1,1,1,1,0,1,0,2,0,0,3
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Waltham Forest,2,0,1,0,0,2,2,2,0,2,0,1,0,2,0,1,0,1,1,0,2,1,1,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Waltham Forest,3,8,7,8,6,5,5,3,10,4,4,4,4,1,6,1,5,12,4,11,6,3,5,5
+Possession of Weapons,Other Firearm Offences,Waltham Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Waltham Forest,7,10,18,14,5,12,9,4,8,3,8,8,6,12,10,4,8,6,7,3,8,9,6,13
+Possession of Weapons,Possession of Firearm with Intent,Waltham Forest,0,2,0,3,1,4,3,0,0,0,2,1,2,1,1,0,0,2,0,1,0,2,0,0
+Possession of Weapons,Possession of Firearms Offences,Waltham Forest,0,1,1,1,3,1,1,3,1,0,1,3,1,0,3,1,1,0,0,1,1,1,0,2
+Possession of Weapons,Possession of Other Weapon,Waltham Forest,6,14,8,16,12,17,4,1,9,5,8,11,3,7,11,6,8,8,8,7,7,10,9,13
+Public Order Offences,"Other Offences Against the State, or Public Order",Waltham Forest,12,7,4,9,9,16,13,7,18,9,18,5,8,18,13,6,5,14,13,12,10,19,17,6
+Public Order Offences,Public Fear Alarm or Distress,Waltham Forest,66,69,62,66,66,72,87,92,76,61,100,77,64,67,67,73,76,91,80,101,87,111,80,79
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Waltham Forest,28,12,20,13,26,13,16,29,26,23,14,26,18,14,15,14,17,35,26,32,30,31,32,20
+Public Order Offences,Violent Disorder,Waltham Forest,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+Robbery,Robbery of Business Property,Waltham Forest,5,9,4,5,5,2,5,4,8,3,9,8,6,11,4,2,2,2,5,5,5,11,10,6
+Robbery,Robbery of Personal Property,Waltham Forest,59,61,60,67,55,78,66,61,51,77,73,63,58,59,64,69,43,38,38,42,86,69,67,46
+Sexual Offences,Other Sexual Offences,Waltham Forest,18,27,27,17,31,29,28,21,23,31,28,24,20,22,35,27,17,25,24,20,27,27,28,28
+Sexual Offences,Rape,Waltham Forest,16,12,16,11,12,15,21,21,23,17,10,19,9,29,17,11,15,8,17,17,18,23,13,15
+Theft,Bicycle Theft,Waltham Forest,27,35,33,38,39,53,60,82,74,71,40,42,36,36,43,46,54,85,131,101,96,82,41,34
+Theft,Other Theft,Waltham Forest,241,238,258,257,255,277,280,238,225,228,216,240,241,232,207,187,159,162,212,234,217,183,185,186
+Theft,Shoplifting,Waltham Forest,46,60,67,51,64,61,63,69,77,79,105,70,84,106,91,84,92,82,63,72,67,76,83,70
+Theft,Theft from Person,Waltham Forest,80,73,71,97,67,64,72,56,39,41,68,76,55,70,84,64,31,20,42,48,37,46,75,70
+Vehicle Offences,Aggravated Vehicle Taking,Waltham Forest,0,3,2,1,5,2,4,4,4,2,6,3,2,4,3,4,2,1,3,6,6,2,2,3
+Vehicle Offences,Interfering with a Motor Vehicle,Waltham Forest,39,62,44,47,51,46,48,52,30,60,60,66,37,82,63,56,46,60,35,36,37,43,31,18
+Vehicle Offences,Theft from a Motor Vehicle,Waltham Forest,207,269,207,180,176,219,176,221,229,277,265,260,223,204,237,238,174,176,147,167,137,182,185,219
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Waltham Forest,91,93,81,85,79,64,74,87,71,103,107,94,65,83,73,109,61,65,81,92,80,88,78,74
+Violence Against the Person,Homicide,Waltham Forest,0,1,1,1,1,1,0,1,0,0,0,0,1,1,1,0,2,0,0,0,1,0,1,0
+Violence Against the Person,Violence with Injury,Waltham Forest,176,187,152,182,174,202,178,173,184,141,146,182,172,172,171,165,147,168,175,181,206,208,168,147
+Violence Against the Person,Violence without Injury,Waltham Forest,345,353,345,355,294,353,376,328,313,342,297,329,373,367,376,299,309,367,383,393,427,407,376,448
+Arson and Criminal Damage,Arson,Wandsworth,6,3,4,1,7,3,5,3,1,6,2,5,6,2,4,7,3,5,3,2,6,4,8,6
+Arson and Criminal Damage,Criminal Damage,Wandsworth,127,130,137,156,113,149,143,136,131,131,129,126,113,99,114,109,84,106,129,119,159,163,171,123
+Burglary,Burglary - Business and Community,Wandsworth,49,88,46,46,49,39,57,61,47,39,54,59,41,51,74,51,27,31,26,31,33,30,45,26
+Burglary,Burglary - Residential,Wandsworth,169,161,163,206,157,164,200,167,184,186,184,171,154,188,132,149,127,136,145,169,158,164,164,154
+Drug Offences,Drug Trafficking,Wandsworth,3,4,4,6,9,6,11,7,4,6,13,7,6,12,10,6,3,6,7,14,4,10,5,9
+Drug Offences,Possession of Drugs,Wandsworth,65,67,61,81,70,67,67,109,76,54,70,79,73,188,154,111,118,159,107,90,61,90,80,139
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Wandsworth,1,0,2,0,0,0,0,1,1,0,0,0,0,2,1,0,0,0,0,1,0,0,0,0
+Miscellaneous Crimes Against Society,Bail Offences,Wandsworth,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Wandsworth,1,0,0,1,0,1,0,1,1,1,2,1,0,0,0,2,1,0,2,2,2,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Wandsworth,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Wandsworth,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Wandsworth,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Wandsworth,0,3,0,1,0,3,1,2,2,3,3,1,1,3,3,1,3,2,1,1,0,2,3,3
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Wandsworth,2,2,1,1,0,0,0,3,1,1,0,2,2,6,6,0,3,3,2,0,1,4,1,2
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Wandsworth,1,2,0,5,1,2,2,0,1,0,1,2,4,3,3,4,0,2,1,0,1,1,0,0
+Miscellaneous Crimes Against Society,Obscene Publications,Wandsworth,4,1,5,10,4,5,8,1,3,4,8,6,1,4,5,8,8,7,10,5,4,9,10,9
+Miscellaneous Crimes Against Society,Offender Management Act,Wandsworth,2,1,3,0,3,3,1,0,2,2,2,3,4,9,0,0,2,2,4,2,2,0,2,4
+Miscellaneous Crimes Against Society,Other Forgery,Wandsworth,1,6,2,5,4,2,1,5,2,3,0,1,0,2,2,0,0,0,1,0,0,0,0,0
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Wandsworth,1,2,1,0,3,2,2,0,0,1,3,2,5,3,0,0,0,3,1,4,3,1,1,2
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Wandsworth,1,6,0,3,1,1,1,1,1,1,1,2,2,2,0,1,1,1,2,2,1,0,2,1
+Miscellaneous Crimes Against Society,Possession of False Documents,Wandsworth,1,0,1,3,1,0,0,0,0,1,0,1,1,0,1,1,1,0,0,1,1,2,0,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Wandsworth,1,1,1,0,0,0,1,0,0,1,0,1,1,3,1,5,1,1,0,5,1,3,0,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Wandsworth,7,8,2,4,4,1,9,3,4,7,2,3,1,5,7,2,2,8,6,8,5,9,4,5
+Possession of Weapons,Other Firearm Offences,Wandsworth,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Wandsworth,6,9,7,12,4,8,6,6,4,9,6,8,6,9,4,6,9,5,2,7,1,4,3,5
+Possession of Weapons,Possession of Firearm with Intent,Wandsworth,0,0,0,0,0,0,0,2,0,2,0,1,0,0,1,0,0,1,0,0,3,1,0,1
+Possession of Weapons,Possession of Firearms Offences,Wandsworth,1,0,2,3,1,4,1,2,3,0,1,4,1,3,1,2,1,0,1,1,2,0,1,0
+Possession of Weapons,Possession of Other Weapon,Wandsworth,8,4,7,5,5,3,5,7,5,6,4,4,6,16,9,8,5,11,3,6,6,4,6,4
+Public Order Offences,"Other Offences Against the State, or Public Order",Wandsworth,18,8,13,22,23,14,15,11,22,17,15,13,8,16,19,21,10,11,13,18,17,16,14,12
+Public Order Offences,Public Fear Alarm or Distress,Wandsworth,72,63,68,102,94,102,91,109,109,112,130,115,90,85,102,69,77,72,118,116,98,138,104,114
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Wandsworth,20,16,28,25,28,26,24,29,24,17,27,26,26,23,32,26,28,27,48,38,45,40,29,18
+Public Order Offences,Violent Disorder,Wandsworth,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,2,1,0,0,0,0,0
+Robbery,Robbery of Business Property,Wandsworth,7,7,10,7,5,8,11,5,9,11,10,3,5,6,0,1,4,5,9,8,10,4,16,6
+Robbery,Robbery of Personal Property,Wandsworth,55,52,77,44,52,49,55,47,58,115,102,73,74,87,48,43,27,30,55,64,74,91,72,64
+Sexual Offences,Other Sexual Offences,Wandsworth,29,36,35,41,36,29,47,38,38,41,46,32,38,24,49,28,17,26,39,27,38,44,51,34
+Sexual Offences,Rape,Wandsworth,16,22,16,21,19,29,20,21,19,17,15,16,35,14,18,15,9,11,17,25,28,21,25,18
+Theft,Bicycle Theft,Wandsworth,40,76,60,78,95,102,93,82,96,93,100,77,56,79,50,38,44,91,140,153,194,223,163,96
+Theft,Other Theft,Wandsworth,292,311,260,248,295,295,260,311,258,259,298,317,286,258,234,193,114,145,189,212,230,250,229,189
+Theft,Shoplifting,Wandsworth,80,109,95,100,97,146,153,132,108,127,97,97,81,101,98,78,56,73,63,103,70,74,82,68
+Theft,Theft from Person,Wandsworth,67,47,75,58,60,50,61,66,50,48,63,63,65,45,67,44,17,19,24,46,48,54,67,71
+Vehicle Offences,Aggravated Vehicle Taking,Wandsworth,3,2,0,3,4,2,2,4,2,4,3,3,3,0,3,1,2,1,4,0,5,0,3,1
+Vehicle Offences,Interfering with a Motor Vehicle,Wandsworth,33,39,42,35,40,23,37,44,58,50,53,35,33,64,44,45,38,29,31,29,34,35,39,27
+Vehicle Offences,Theft from a Motor Vehicle,Wandsworth,161,178,222,193,203,168,156,207,172,242,342,264,234,311,216,180,72,161,177,141,190,216,191,139
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Wandsworth,86,95,77,102,85,82,83,89,103,89,94,108,105,84,83,83,52,67,86,84,99,84,107,94
+Violence Against the Person,Homicide,Wandsworth,0,0,1,1,0,1,2,1,1,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0
+Violence Against the Person,Violence with Injury,Wandsworth,180,192,190,193,168,212,219,234,186,161,225,191,186,199,163,153,133,174,175,225,219,212,179,187
+Violence Against the Person,Violence without Injury,Wandsworth,329,387,352,355,351,363,380,357,342,357,359,351,336,371,333,351,310,364,412,466,420,436,391,443
+Arson and Criminal Damage,Arson,Westminster,2,1,3,4,4,11,4,2,5,8,1,8,0,3,3,4,1,3,7,4,4,1,6,4
+Arson and Criminal Damage,Criminal Damage,Westminster,205,194,186,193,200,194,194,207,186,187,266,162,179,142,182,167,83,110,218,162,192,206,178,160
+Burglary,Burglary - Business and Community,Westminster,193,219,192,166,165,234,204,222,230,232,278,260,195,227,222,180,75,76,86,119,81,124,112,74
+Burglary,Burglary - Residential,Westminster,153,142,122,174,189,140,132,195,202,214,178,199,162,186,158,135,60,97,106,150,152,157,139,119
+Drug Offences,Drug Trafficking,Westminster,5,7,4,14,11,9,7,10,8,10,10,10,15,15,4,27,41,110,43,11,7,14,12,10
+Drug Offences,Possession of Drugs,Westminster,181,162,148,288,209,194,258,257,508,316,300,333,321,347,272,198,209,278,239,323,264,235,259,212
+Miscellaneous Crimes Against Society,Bail Offences,Westminster,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+Miscellaneous Crimes Against Society,Bigamy,Westminster,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Dangerous Driving,Westminster,0,2,0,0,0,0,1,0,1,2,0,0,1,1,0,2,0,0,1,3,1,1,0,2
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State",Westminster,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,2,0,1,0,0,0,0
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Westminster,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,1
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Westminster,1,0,0,0,0,0,0,2,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Westminster,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Westminster,1,2,3,0,4,1,1,1,5,2,6,3,2,3,2,3,4,4,4,3,5,4,3,4
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Westminster,4,6,0,3,4,2,5,6,6,4,5,7,7,3,3,3,5,2,2,2,3,0,1,3
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i",Westminster,6,4,5,3,4,5,7,4,2,10,6,4,5,2,1,5,0,0,3,2,3,1,3,7
+Miscellaneous Crimes Against Society,Obscene Publications,Westminster,3,2,3,3,2,3,2,7,1,4,4,4,1,9,6,7,5,7,5,10,5,9,23,34
+Miscellaneous Crimes Against Society,Offender Management Act,Westminster,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Miscellaneous Crimes Against Society,Other Forgery,Westminster,13,16,7,6,2,4,7,6,7,5,7,5,4,4,6,5,2,0,2,2,1,5,4,0
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Westminster,1,1,2,4,2,1,1,0,3,1,0,0,0,1,0,0,2,1,2,1,1,2,2,2
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Westminster,1,1,1,3,1,1,3,1,2,2,2,4,0,2,1,2,2,4,4,0,2,3,3,0
+Miscellaneous Crimes Against Society,Possession of False Documents,Westminster,1,3,1,1,1,0,1,3,2,1,2,1,2,3,0,2,0,0,2,2,1,0,0,0
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Westminster,2,1,1,1,3,3,2,4,3,2,3,2,0,0,2,2,2,2,3,1,2,0,1,0
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Westminster,1,3,2,2,3,3,1,3,2,4,24,1,1,5,8,5,1,3,7,3,3,7,2,3
+Possession of Weapons,Other Firearm Offences,Westminster,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Possession of Weapons,Possession of Article with Blade or Point,Westminster,15,12,18,19,12,21,10,20,29,17,19,20,13,21,7,17,8,14,10,9,12,11,11,12
+Possession of Weapons,Possession of Firearm with Intent,Westminster,2,1,2,2,1,0,1,1,1,1,1,3,0,1,0,0,1,0,2,0,0,1,0,2
+Possession of Weapons,Possession of Firearms Offences,Westminster,8,4,3,6,2,5,7,9,8,9,4,10,14,13,7,2,2,1,4,0,0,2,2,3
+Possession of Weapons,Possession of Other Weapon,Westminster,25,10,11,25,14,13,11,13,17,15,11,12,21,18,11,9,3,14,8,8,18,9,6,9
+Public Order Offences,"Other Offences Against the State, or Public Order",Westminster,32,17,35,42,41,28,32,23,36,43,32,22,30,31,26,30,17,15,30,17,39,38,24,24
+Public Order Offences,Public Fear Alarm or Distress,Westminster,166,163,170,177,171,186,211,205,232,198,202,166,184,183,163,149,118,119,147,216,211,178,150,145
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al",Westminster,80,72,63,64,71,57,71,96,74,77,68,58,63,53,78,67,38,46,79,97,74,72,78,47
+Public Order Offences,Violent Disorder,Westminster,0,0,0,0,1,0,1,2,0,0,0,0,0,0,1,0,0,0,22,5,1,4,2,1
+Robbery,Robbery of Business Property,Westminster,11,15,16,16,18,33,10,14,27,19,13,16,20,14,15,16,2,3,6,10,9,12,6,7
+Robbery,Robbery of Personal Property,Westminster,403,318,325,321,393,351,392,395,346,309,359,314,429,350,322,217,46,35,90,134,211,202,169,126
+Sexual Offences,Other Sexual Offences,Westminster,55,54,59,72,74,62,66,74,72,71,52,69,58,57,63,60,23,35,36,53,53,54,48,50
+Sexual Offences,Rape,Westminster,31,23,19,33,29,30,46,24,33,26,35,31,45,43,34,28,19,20,26,33,26,27,29,23
+Theft,Bicycle Theft,Westminster,75,92,101,108,157,163,144,170,182,167,131,92,77,110,94,78,55,105,191,204,152,185,138,145
+Theft,Other Theft,Westminster,1876,1845,1853,1962,2165,2102,2046,1986,1871,1903,1986,1981,2265,1550,1851,1044,131,185,306,731,931,939,931,425
+Theft,Shoplifting,Westminster,364,391,383,401,407,405,353,401,410,346,403,366,359,435,379,233,102,69,136,224,234,248,267,147
+Theft,Theft from Person,Westminster,1492,1169,1554,1773,1659,1282,1345,1289,1155,927,1367,1321,1531,1299,1480,904,61,52,137,350,518,483,567,308
+Vehicle Offences,Aggravated Vehicle Taking,Westminster,0,2,1,0,3,3,4,1,0,4,1,1,3,1,1,0,2,0,1,2,1,1,2,2
+Vehicle Offences,Interfering with a Motor Vehicle,Westminster,43,62,67,37,44,55,39,39,30,33,40,36,37,42,41,34,27,27,19,54,39,45,34,24
+Vehicle Offences,Theft from a Motor Vehicle,Westminster,274,356,287,334,266,284,304,266,250,270,352,301,382,317,345,230,58,100,168,279,367,312,240,134
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Westminster,36,65,48,54,71,51,57,71,63,55,56,58,53,75,56,53,32,40,35,56,57,48,66,58
+Violence Against the Person,Homicide,Westminster,0,1,0,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,1
+Violence Against the Person,Violence with Injury,Westminster,365,326,288,317,312,336,330,361,408,313,328,364,363,297,276,260,127,238,354,254,252,288,246,180
+Violence Against the Person,Violence without Injury,Westminster,617,515,526,589,510,579,614,599,666,576,661,606,631,531,564,517,340,439,445,562,551,535,561,483
